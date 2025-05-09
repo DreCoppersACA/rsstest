@@ -6,14 +6,14 @@
     <description>Testing RSS 2.0 for CMS</description>
     <language>en-us</language>
     <pubDate>Thu, 09 May 2024 12:00:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 May 2024 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2025 12:00:00 GMT</lastBuildDate>
     <generator>Manual Test Generator</generator>
 
     <item>
       <title>Article One</title>
       <link>https://example.com/article1</link>
       <description>This is the first RSS test article.</description>
-      <pubDate>Thu, 09 May 2024 12:00:00 GMT</pubDate>
+      <pubDate>Thu, 09 May 2025 12:00:00 GMT</pubDate>
       <guid>https://example.com/article1</guid>
     </item>
 
@@ -21,7 +21,7 @@
       <title>Article Two</title>
       <link>https://example.com/article2</link>
       <description>This is the second RSS test article.</description>
-      <pubDate>Fri, 10 May 2024 09:30:00 GMT</pubDate>
+      <pubDate>Fri, 10 May 2025 09:30:00 GMT</pubDate>
       <guid>https://example.com/article2</guid>
     </item>
   </channel>
