@@ -24,5 +24,13 @@
       <pubDate>Sat, 10 May 2025 09:30:00 GMT</pubDate>
       <guid>https://example.com/article2</guid>
     </item>
+
+     <item>
+      <title>MOCK Article three</title>
+      <link>https://example.com/article2</link>
+      <description>This is the third RSS test article.</description>
+      <pubDate>Fri, 09 May 2025 08:30:00 GMT</pubDate>
+      <guid>https://example.com/article2</guid>
+    </item>
   </channel>
 </rss>
