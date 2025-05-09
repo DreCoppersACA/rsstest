@@ -26,11 +26,19 @@
     </item>
 
      <item>
-      <title>MOCK Article three</title>
+      <title>MOCK Article Three</title>
       <link>https://example.com/article3</link>
       <description>This is the third RSS test article.</description>
       <pubDate>Fri, 09 May 2025 08:30:00 GMT</pubDate>
       <guid>https://example.com/article3</guid>
+    </item>
+
+    <item>
+      <title>MOCK Article Four</title>
+      <link>https://example.com/article4</link>
+      <description>This is the fourth RSS test article.</description>
+      <pubDate>Wed, 08 May 2024 08:30:00 GMT</pubDate>
+      <guid>https://example.com/article4</guid>
     </item>
   </channel>
 </rss>
