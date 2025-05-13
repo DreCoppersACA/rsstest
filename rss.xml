@@ -48,5 +48,14 @@
       <pubDate>Fri, 09 May 2025 08:31:00 GMT</pubDate>
       <guid>https://example.com/article5</guid>
     </item>
+
+    <item>
+      <title>Angelo Test</title>
+      <link>https://example.com/article5</link>
+      <description>This is the fifth RSS test article.</description>
+      <pubDate>Tue, 13 May 2025 11:30:00 GMT</pubDate>
+      <guid>https://example.com/article5</guid>
+    </item>
+
   </channel>
 </rss>
