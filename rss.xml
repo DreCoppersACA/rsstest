@@ -1,61 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  <channel>
-    <title>Mock RSS 2.0 Feed</title>
-    <link>https://example.com/</link>
-    <description>Testing RSS 2.0 for CMS</description>
-    <language>en-us</language>
-    <pubDate>Fri, 09 May 2025 09:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 09 May 2025 09:00:00 GMT</lastBuildDate>
-    <generator>Manual Test Generator</generator>
-
-    <item>
-      <title>MOCK Article One</title>
-      <link>https://example.com/article1</link>
-      <description>This is the first RSS test article.</description>
-      <pubDate>Fri, 09 May 2025 12:00:00 GMT</pubDate>
-      <guid>https://example.com/article1</guid>
-    </item>
-
-    <item>
-      <title>MOCK Article Two</title>
-      <link>https://example.com/article2</link>
-      <description>This is the second RSS test article.</description>
-      <pubDate>Sat, 10 May 2025 09:30:00 GMT</pubDate>
-      <guid>https://example.com/article2</guid>
-    </item>
-
-     <item>
-      <title>MOCK Article Three</title>
-      <link>https://example.com/article3</link>
-      <description>This is the third RSS test article.</description>
-      <pubDate>Fri, 09 May 2025 08:30:00 GMT</pubDate>
-      <guid>https://example.com/article3</guid>
-    </item>
-
-    <item>
-      <title>MOCK Article Four</title>
-      <link>https://example.com/article4</link>
-      <description>This is the fourth RSS test article.</description>
-      <pubDate>Wed, 08 May 2024 08:30:00 GMT</pubDate>
-      <guid>https://example.com/article4</guid>
-    </item>
-        
-    <item>
-      <title>MOCK Article Five</title>
-      <link>https://example.com/article5</link>
-      <description>This is the fith RSS test article.</description>
-      <pubDate>Fri, 09 May 2025 08:31:00 GMT</pubDate>
-      <guid>https://example.com/article5</guid>
-    </item>
-
-    <item>
-      <title>Angelo Test</title>
-      <link>https://example.com/article5</link>
-      <description>This is the fifth RSS test article.</description>
-      <pubDate>Mon, 13 May 2025 15:00:00 GMT</pubDate>
-      <guid>https://example.com/article5</guid>
-    </item>
-
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Mock RSS 2.0 Feed</title>
+<link>https://example.com/</link>
+<description>Testing RSS 2.0 for CMS</description>
+<language>en-us</language>
+<pubDate>Fri, 09 May 2025 09:00:00 +0000</pubDate>
+<lastBuildDate>Fri, 09 May 2025 09:00:00 +0000</lastBuildDate>
+<generator>Manual Test Generator</generator>
+<item>
+<title>MOCK Article One</title>
+<link>https://example.com/article1</link>
+<description>This is the first RSS test article.</description>
+<pubDate>Fri, 09 May 2025 12:00:00 +0000</pubDate>
+<guid>https://example.com/article1</guid>
+</item>
+<item>
+<title>MOCK Article Two</title>
+<link>https://example.com/article2</link>
+<description>This is the second RSS test article.</description>
+<pubDate>Sat, 10 May 2025 09:30:00 +0000</pubDate>
+<guid>https://example.com/article2</guid>
+</item>
+<item>
+<title>MOCK Article Three</title>
+<link>https://example.com/article3</link>
+<description>This is the third RSS test article.</description>
+<pubDate>Fri, 09 May 2025 08:30:00 +0000</pubDate>
+<guid>https://example.com/article3</guid>
+</item>
+<item>
+<title>MOCK Article Four</title>
+<link>https://example.com/article4</link>
+<description>This is the fourth RSS test article.</description>
+<pubDate>Wed, 08 May 2024 08:30:00 +0000</pubDate>
+<guid>https://example.com/article4</guid>
+</item>
+<item>
+<title>MOCK Article Five</title>
+<link>https://example.com/article5</link>
+<description>This is the fifth RSS test article.</description>
+<pubDate>Fri, 09 May 2025 08:31:00 +0000</pubDate>
+<guid>https://example.com/article5</guid>
+</item>
+<item>
+<title>Angelo Test</title>
+<link>https://example.com/article6</link>
+<description>This is the sixth RSS test article.</description>
+<pubDate>Tue, 13 May 2025 11:30:00 +0000</pubDate>
+<guid>https://example.com/article6</guid>
+</item>
+</channel>
 </rss>
