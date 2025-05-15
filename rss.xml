@@ -70,5 +70,12 @@
       <pubDate>Thu, 15 May 2025 10:30:00 +0000</pubDate>
       <guid>https://example.com/article8</guid>
     </item>
+          <item>
+      <title>Dorien Test 3</title>
+      <link>https://example.com/article9</link>
+      <description>This is the ninth RSS test article.</description>
+      <pubDate>Thu, 15 May 2025 10:31:00 +0000</pubDate>
+      <guid>https://example.com/article9</guid>
+    </item>
   </channel>
 </rss>
