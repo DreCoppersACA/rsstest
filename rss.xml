@@ -56,39 +56,54 @@
       <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
       <guid>https://example.com/article6</guid>
     </item>
-        <item>
+
+    <item>
       <title>Dorien Test</title>
       <link>https://example.com/article7</link>
       <description>This is the seventh RSS test article.</description>
       <pubDate>Thu, 15 May 2025 11:30:00 +0000</pubDate>
       <guid>https://example.com/article7</guid>
     </item>
-      <item>
+
+    <item>
       <title>Dorien Test</title>
       <link>https://example.com/article8</link>
       <description>This is the eigth RSS test article.</description>
       <pubDate>Thu, 15 May 2025 10:30:00 +0000</pubDate>
       <guid>https://example.com/article8</guid>
     </item>
-          <item>
+
+    <item>
       <title>Dorien Test 3</title>
       <link>https://example.com/article9</link>
       <description>This is the ninth RSS test article.</description>
       <pubDate>Thu, 15 May 2025 10:31:00 +0000</pubDate>
       <guid>https://example.com/article9</guid>
     </item>
-              <item>
+
+    <item>
       <title>Dorien Test 4</title>
       <link>https://example.com/article10</link>
       <description>This is the tenth RSS test article.</description>
       <pubDate>Thu, 15 May 2025 10:31:00 +0000</pubDate>
       <guid>https://example.com/article10</guid>
-    </item>          <item>
+    </item>
+
+    <item>
       <title>Dorien Test 5</title>
       <link>https://example.com/article11</link>
       <description>This is the eleventh RSS test article.</description>
-      <pubDate>Thu, 15 May 2025 10:31:00 +0000</pubDate>
+      <pubDate>Mon, 19 May 2025 20:00:00 +0000</pubDate>
       <guid>https://example.com/article11</guid>
     </item>
+
+    <item>
+      <title>Dorien Test 6</title>
+      <link>https://example.com/article12</link>
+      <description>This is the twelfth RSS test article.</description>
+      <pubDate>Tue, 20 May 2025 09:45:00 +0000</pubDate>
+      <guid>https://example.com/article12</guid>
+    </item>
+
   </channel>
 </rss>
