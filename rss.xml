@@ -95,21 +95,21 @@
       <title>Article C3</title>
       <link>https://example.com/article-c3</link>
       <description>Scheduled for 26 May 2025 at 19:00.</description>
-      <pubDate>Mon, 26 May 2025 19:00:00 +0000</pubDate>
+       <pubDate>Mon, 26 May 2025 13:51:00 +0000</pubDate>
       <guid>https://example.com/article-c3</guid>
     </item>
     <item>
       <title>Article C4</title>
       <link>https://example.com/article-c4</link>
       <description>Scheduled for 27 May 2025 at 08:45.</description>
-      <pubDate>Tue, 27 May 2025 08:45:00 +0000</pubDate>
+        <pubDate>Mon, 26 May 2025 13:52:00 +0000</pubDate>
       <guid>https://example.com/article-c4</guid>
     </item>
     <item>
       <title>Article C5</title>
       <link>https://example.com/article-c5</link>
       <description>Scheduled for 28 May 2025 at 10:00.</description>
-      <pubDate>Wed, 28 May 2025 10:00:00 +0000</pubDate>
+          <pubDate>Mon, 26 May 2025 13:53:00 +0000</pubDate>
       <guid>https://example.com/article-c5</guid>
     </item>
     <item>
