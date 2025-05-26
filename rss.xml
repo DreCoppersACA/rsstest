@@ -5,79 +5,51 @@
     <link>https://example.com/</link>
     <description>Testing RSS 2.0 for CMS</description>
     <language>en-us</language>
-    <pubDate>Mon, 26 May 2025 14:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 26 May 2025 14:00:00 +0000</lastBuildDate>
+    <pubDate>Mon, 26 May 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 May 2025 14:00:00 +0200</lastBuildDate>
     <generator>Manual Test Generator</generator>
 
     <item>
-      <title>Article F1</title>
-      <link>https://example.com/article-f1</link>
-      <description>Scheduled for 26 May 2025 at 14:50.</description>
-      <pubDate>Mon, 26 May 2025 14:50:00 +0000</pubDate>
-      <guid>https://example.com/article-f1</guid>
-    </item>
-    <item>
-      <title>Article F2</title>
-      <link>https://example.com/article-f2</link>
-      <description>Scheduled for 26 May 2025 at 14:51.</description>
-      <pubDate>Mon, 26 May 2025 14:51:00 +0000</pubDate>
-      <guid>https://example.com/article-f2</guid>
-    </item>
-    <item>
-      <title>Article F3</title>
-      <link>https://example.com/article-f3</link>
-      <description>Scheduled for 26 May 2025 at 14:52.</description>
-      <pubDate>Mon, 26 May 2025 14:52:00 +0000</pubDate>
-      <guid>https://example.com/article-f3</guid>
-    </item>
-    <item>
-      <title>Article F4</title>
-      <link>https://example.com/article-f4</link>
-      <description>Scheduled for 26 May 2025 at 14:53.</description>
-      <pubDate>Mon, 26 May 2025 14:53:00 +0000</pubDate>
-      <guid>https://example.com/article-f4</guid>
-    </item>
-    <item>
-      <title>Article F5</title>
-      <link>https://example.com/article-f5</link>
-      <description>Scheduled for 26 May 2025 at 14:54.</description>
-      <pubDate>Mon, 26 May 2025 14:54:00 +0000</pubDate>
-      <guid>https://example.com/article-f5</guid>
-    </item>
-    <item>
-      <title>Article F6</title>
-      <link>https://example.com/article-f6</link>
-      <description>Scheduled for 26 May 2025 at 14:55.</description>
-      <pubDate>Mon, 26 May 2025 14:55:00 +0000</pubDate>
-      <guid>https://example.com/article-f6</guid>
-    </item>
-    <item>
-      <title>Article F7</title>
-      <link>https://example.com/article-f7</link>
-      <description>Scheduled for 26 May 2025 at 14:56.</description>
-      <pubDate>Mon, 26 May 2025 14:56:00 +0000</pubDate>
-      <guid>https://example.com/article-f7</guid>
-    </item>
-    <item>
-      <title>Article F8</title>
-      <link>https://example.com/article-f8</link>
-      <description>Scheduled for 26 May 2025 at 14:57.</description>
-      <pubDate>Mon, 26 May 2025 14:57:00 +0000</pubDate>
-      <guid>https://example.com/article-f8</guid>
-    </item>
-    <item>
-      <title>Article F9</title>
-      <link>https://example.com/article-f9</link>
+      <title>Article G1</title>
+      <link>https://example.com/article-g1</link>
       <description>Scheduled for 26 May 2025 at 14:58.</description>
-      <pubDate>Mon, 26 May 2025 14:58:00 +0000</pubDate>
-      <guid>https://example.com/article-f9</guid>
+      <pubDate>Mon, 26 May 2025 14:58:00 +0200</pubDate>
+      <guid>https://example.com/article-g1</guid>
     </item>
     <item>
-      <title>Article F10</title>
-      <link>https://example.com/article-f10</link>
+      <title>Article G2</title>
+      <link>https://example.com/article-g2</link>
       <description>Scheduled for 26 May 2025 at 14:59.</description>
-      <pubDate>Mon, 26 May 2025 14:59:00 +0000</pubDate>
-      <guid>https://example.com/article-f10</guid>
+      <pubDate>Mon, 26 May 2025 14:59:00 +0200</pubDate>
+      <guid>https://example.com/article-g2</guid>
+    </item>
+    <item>
+      <title>Article G3</title>
+      <link>https://example.com/article-g3</link>
+      <description>Scheduled for 26 May 2025 at 15:00.</description>
+      <pubDate>Mon, 26 May 2025 15:00:00 +0200</pubDate>
+      <guid>https://example.com/article-g3</guid>
+    </item>
+    <item>
+      <title>Article G4</title>
+      <link>https://example.com/article-g4</link>
+      <description>Scheduled for 26 May 2025 at 15:01.</description>
+      <pubDate>Mon, 26 May 2025 15:01:00 +0200</pubDate>
+      <guid>https://example.com/article-g4</guid>
+    </item>
+    <item>
+      <title>Article G5</title>
+      <link>https://example.com/article-g5</link>
+      <description>Scheduled for 26 May 2025 at 15:02.</description>
+      <pubDate>Mon, 26 May 2025 15:02:00 +0200</pubDate>
+      <guid>https://example.com/article-g5</guid>
+    </item>
+    <item>
+      <title>Article G6</title>
+      <link>https://example.com/article-g6</link>
+      <description>Scheduled for 26 May 2025 at 15:03.</description>
+      <pubDate>Mon, 26 May 2025 15:03:00 +0200</pubDate>
+      <guid>https://example.com/article-g6</guid>
     </item>
 
   </channel>
