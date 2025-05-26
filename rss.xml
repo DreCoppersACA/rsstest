@@ -5,40 +5,119 @@
     <link>https://example.com/</link>
     <description>Testing RSS 2.0 for CMS</description>
     <language>en-us</language>
-    <pubDate>Fri, 09 May 2025 09:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 26 May 2025 12:00:00 +0000</lastBuildDate>
+    <pubDate>Mon, 26 May 2025 13:29:00 +0000</pubDate>
+    <lastBuildDate>Mon, 26 May 2025 13:29:00 +0000</lastBuildDate>
     <generator>Manual Test Generator</generator>
     
+    <!-- Past entries (more than 24 hours ago) -->
     <item>
-      <title>New Article Today</title>
-      <link>https://example.com/article-today</link>
-      <description>This is the most recent article, published today at 16:33 CEST.</description>
-      <pubDate>Mon, 26 May 2025 14:33:00 +0000</pubDate>
-      <guid>https://example.com/article-today</guid>
+      <title>Article A1</title>
+      <link>https://example.com/article-a1</link>
+      <description>Published on 22 May 2025 at 08:00.</description>
+      <pubDate>Thu, 22 May 2025 08:00:00 +0000</pubDate>
+      <guid>https://example.com/article-a1</guid>
+    </item>
+    <item>
+      <title>Article A2</title>
+      <link>https://example.com/article-a2</link>
+      <description>Published on 23 May 2025 at 10:15.</description>
+      <pubDate>Fri, 23 May 2025 10:15:00 +0000</pubDate>
+      <guid>https://example.com/article-a2</guid>
+    </item>
+    <item>
+      <title>Article A3</title>
+      <link>https://example.com/article-a3</link>
+      <description>Published on 24 May 2025 at 14:00.</description>
+      <pubDate>Sat, 24 May 2025 14:00:00 +0000</pubDate>
+      <guid>https://example.com/article-a3</guid>
+    </item>
+    <item>
+      <title>Article A4</title>
+      <link>https://example.com/article-a4</link>
+      <description>Published on 24 May 2025 at 19:30.</description>
+      <pubDate>Sat, 24 May 2025 19:30:00 +0000</pubDate>
+      <guid>https://example.com/article-a4</guid>
+    </item>
+    <item>
+      <title>Article A5</title>
+      <link>https://example.com/article-a5</link>
+      <description>Published on 24 May 2025 at 21:45.</description>
+      <pubDate>Sat, 24 May 2025 21:45:00 +0000</pubDate>
+      <guid>https://example.com/article-a5</guid>
     </item>
     
+    <!-- Past entries (within the last 24 hours) -->
     <item>
-      <title>Article More Than 24 Hours Ago</title>
-      <link>https://example.com/article-past-24</link>
-      <description>This article was published more than 24 hours ago.</description>
-      <pubDate>Sat, 24 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://example.com/article-past-24</guid>
+      <title>Article B1</title>
+      <link>https://example.com/article-b1</link>
+      <description>Published on 25 May 2025 at 16:30.</description>
+      <pubDate>Sun, 25 May 2025 16:30:00 +0000</pubDate>
+      <guid>https://example.com/article-b1</guid>
+    </item>
+    <item>
+      <title>Article B2</title>
+      <link>https://example.com/article-b2</link>
+      <description>Published on 25 May 2025 at 23:00.</description>
+      <pubDate>Sun, 25 May 2025 23:00:00 +0000</pubDate>
+      <guid>https://example.com/article-b2</guid>
+    </item>
+    <item>
+      <title>Article B3</title>
+      <link>https://example.com/article-b3</link>
+      <description>Published on 26 May 2025 at 08:15.</description>
+      <pubDate>Mon, 26 May 2025 08:15:00 +0000</pubDate>
+      <guid>https://example.com/article-b3</guid>
+    </item>
+    <item>
+      <title>Article B4</title>
+      <link>https://example.com/article-b4</link>
+      <description>Published on 26 May 2025 at 11:00.</description>
+      <pubDate>Mon, 26 May 2025 11:00:00 +0000</pubDate>
+      <guid>https://example.com/article-b4</guid>
     </item>
     
+    <!-- Scheduled entries -->
     <item>
-      <title>Article Within Last 24 Hours</title>
-      <link>https://example.com/article-recent</link>
-      <description>This article was published within the last 24 hours.</description>
-      <pubDate>Sun, 25 May 2025 18:00:00 +0000</pubDate>
-      <guid>https://example.com/article-recent</guid>
+      <title>Article C1</title>
+      <link>https://example.com/article-c1</link>
+      <description>Scheduled for 26 May 2025 at 13:40.</description>
+      <pubDate>Mon, 26 May 2025 13:40:00 +0000</pubDate>
+      <guid>https://example.com/article-c1</guid>
     </item>
-    
     <item>
-      <title>Scheduled Article</title>
-      <link>https://example.com/article-scheduled</link>
-      <description>This article is scheduled for the future.</description>
-      <pubDate>Tue, 27 May 2025 09:00:00 +0000</pubDate>
-      <guid>https://example.com/article-scheduled</guid>
+      <title>Article C2</title>
+      <link>https://example.com/article-c2</link>
+      <description>Scheduled for 26 May 2025 at 15:30.</description>
+      <pubDate>Mon, 26 May 2025 15:30:00 +0000</pubDate>
+      <guid>https://example.com/article-c2</guid>
+    </item>
+    <item>
+      <title>Article C3</title>
+      <link>https://example.com/article-c3</link>
+      <description>Scheduled for 26 May 2025 at 19:00.</description>
+      <pubDate>Mon, 26 May 2025 19:00:00 +0000</pubDate>
+      <guid>https://example.com/article-c3</guid>
+    </item>
+    <item>
+      <title>Article C4</title>
+      <link>https://example.com/article-c4</link>
+      <description>Scheduled for 27 May 2025 at 08:45.</description>
+      <pubDate>Tue, 27 May 2025 08:45:00 +0000</pubDate>
+      <guid>https://example.com/article-c4</guid>
+    </item>
+    <item>
+      <title>Article C5</title>
+      <link>https://example.com/article-c5</link>
+      <description>Scheduled for 28 May 2025 at 10:00.</description>
+      <pubDate>Wed, 28 May 2025 10:00:00 +0000</pubDate>
+      <guid>https://example.com/article-c5</guid>
+    </item>
+    <item>
+      <title>Article C6</title>
+      <link>https://example.com/article-c6</link>
+      <description>Scheduled for 29 May 2025 at 14:30.</description>
+      <pubDate>Thu, 29 May 2025 14:30:00 +0000</pubDate>
+      <guid>https://example.com/article-c6</guid>
     </item>
     
   </channel>
