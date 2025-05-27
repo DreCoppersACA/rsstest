@@ -17,47 +17,39 @@
     </item>
 
         <item>
-      <title>Article EXAMPLE demo 10</title>
-      <link>https://example.com/article-example1</link>
-      <description>Scheduled for 27 May 2025 at 13:50.</description>
-      <pubDate>Tue, 27 May 2025 13:50:00 +0200</pubDate>
-      <guid>https://example.com/article-example1</guid>
+      <title>Article EXAMPLE demo 100 new item</title>
+      <link>https://example.com/article-example100</link>
+      <description>Scheduled for 27 May 2025 at 14:10.</description>
+      <pubDate>Tue, 27 May 2025 14:10:00 +0200</pubDate>
+      <guid>https://example.com/article-example100</guid>
     </item>
         <item>
-      <title>Article EXAMPLE demo 20</title>
-      <link>https://example.com/article-example2</link>
-      <description>Scheduled for 27 May 2025 at 13:51.</description>
-      <pubDate>Tue, 27 May 2025 13:51:00 +0200</pubDate>
-      <guid>https://example.com/article-example2</guid>
+      <title>Article EXAMPLE demo 200 new item</title>
+      <link>https://example.com/article-example200</link>
+      <description>Scheduled for 27 May 2025 at 14:11.</description>
+      <pubDate>Tue, 27 May 2025 14:11:00 +0200</pubDate>
+      <guid>https://example.com/article-example200</guid>
     </item>
         <item>
-      <title>Article EXAMPLE demo 30</title>
+      <title>Article EXAMPLE demo 300 edit item</title>
       <link>https://example.com/article-example3</link>
-      <description>Scheduled for 27 May 2025 at 13:52.</description>
-      <pubDate>Tue, 27 May 2025 13:52:00 +0200</pubDate>
+      <description>Scheduled for 27 May 2025 at 13:52 edited at 14:12.</description>
+      <pubDate>Tue, 27 May 2025 14:12:00 +0200</pubDate>
       <guid>https://example.com/article-example3</guid>
     </item>
         <item>
-      <title>Article EXAMPLE demo 40</title>
-      <link>https://example.com/article-example4</link>
-      <description>Scheduled for 27 May 2025 at 13:53.</description>
-      <pubDate>Tue, 27 May 2025 13:53:00 +0200</pubDate>
-      <guid>https://example.com/article-example4</guid>
+      <title>Article EXAMPLE demo 400 new</title>
+      <link>https://example.com/article-example400</link>
+      <description>Scheduled for 27 May 2025 at 14:13.</description>
+      <pubDate>Tue, 27 May 2025 14:13:00 +0200</pubDate>
+      <guid>https://example.com/article-example400</guid>
     </item>
         <item>
-      <title>Article EXAMPLE demo 50</title>
-      <link>https://example.com/article-example5</link>
-      <description>Scheduled for 27 May 2025 at 13:54.</description>
-      <pubDate>Tue, 27 May 2025 13:54:00 +0200</pubDate>
-      <guid>https://example.com/article-example5</guid>
+      <title>Article EXAMPLE demo 500 new</title>
+      <link>https://example.com/article-example500</link>
+      <description>Scheduled for 27 May 2025 at 14:14.</description>
+      <pubDate>Tue, 27 May 2025 14:14:00 +0200</pubDate>
+      <guid>https://example.com/article-example500</guid>
     </item>
-        <item>
-      <title>Article EXAMPLE demo 60</title>
-      <link>https://example.com/article-example6</link>
-      <description>Scheduled for 27 May 2025 at 13:56.</description>
-      <pubDate>Tue, 27 May 2025 13:56:00 +0200</pubDate>
-      <guid>https://example.com/article-example6</guid>
-    </item>
-    
   </channel>
 </rss>
