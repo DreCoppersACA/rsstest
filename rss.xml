@@ -38,10 +38,10 @@
       <guid>https://example.com/article-example3</guid>
     </item>
         <item>
-      <title>Article EXAMPLE demo 400 new</title>
+      <title>Article EXAMPLE demo 400 edited</title>
       <link>https://example.com/article-example400</link>
-      <description>Scheduled for 27 May 2025 at 14:13.</description>
-      <pubDate>Tue, 27 May 2025 14:13:00 +0200</pubDate>
+      <description>Scheduled for 27 May 2025 at 14:13 edited to 14:30.</description>
+      <pubDate>Tue, 27 May 2025 14:30:00 +0200</pubDate>
       <guid>https://example.com/article-example400</guid>
     </item>
         <item>
