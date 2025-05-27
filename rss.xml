@@ -105,8 +105,15 @@
       <title>Article STAGING demo verleden</title>
       <link>https://example.com/article-staging-demo-v</link>
       <description>Scheduled for 26 May 2025 at 23:09.</description>
-      <pubDate>Tue, 26 May 2025 23:09:00 +0200</pubDate>
+      <pubDate>Mon, 26 May 2025 23:09:00 +0200</pubDate>
       <guid>https://example.com/article-staging-demo-v</guid>
+    </item>
+        <item>
+      <title>Article STAGING demo half</title>
+      <link>https://example.com/article-staging-demo-half</link>
+      <description>Scheduled for 27 May 2025 at 13:30.</description>
+      <pubDate>Tue, 27 May 2025 13:30:00 +0200</pubDate>
+      <guid>https://example.com/article-staging-demo-half</guid>
     </item>
   </channel>
 </rss>
