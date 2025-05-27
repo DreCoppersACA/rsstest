@@ -101,5 +101,12 @@
       <pubDate>Tue, 27 May 2025 13:11:00 +0200</pubDate>
       <guid>https://example.com/article-staging-demo-3</guid>
     </item>
+    <item>
+      <title>Article STAGING demo verleden</title>
+      <link>https://example.com/article-staging-demo-v</link>
+      <description>Scheduled for 26 May 2025 at 23:09.</description>
+      <pubDate>Tue, 26 May 2025 23:09:00 +0200</pubDate>
+      <guid>https://example.com/article-staging-demo-v</guid>
+    </item>
   </channel>
 </rss>
