@@ -51,5 +51,32 @@
       <pubDate>Tue, 27 May 2025 14:14:00 +0200</pubDate>
       <guid>https://example.com/article-example500</guid>
     </item>
+    
+            <item>
+      <title>Article EXAMPLE demo 600 new</title>
+      <link>https://example.com/article-example600</link>
+      <description>Scheduled for 27 May 2025 at 14:29.</description>
+      <pubDate>Tue, 27 May 2025 14:29:00 +0200</pubDate>
+      <guid>https://example.com/article-example600</guid>
+    </item>
+            <item>
+      <title>Article EXAMPLE demo 700 new</title>
+      <link>https://example.com/article-example700</link>
+      <description>Scheduled for 27 May 2025 at 14:29.</description>
+      <pubDate>Tue, 27 May 2025 14:29:00 +0200</pubDate>
+      <guid>https://example.com/article-example700</guid>
+    </item>        <item>
+      <title>Article EXAMPLE demo 800 new</title>
+      <link>https://example.com/article-example800</link>
+      <description>Scheduled for 27 May 2025 at 14:29.</description>
+      <pubDate>Tue, 27 May 2025 14:29:00 +0200</pubDate>
+      <guid>https://example.com/article-example800</guid>
+    </item>        <item>
+      <title>Article EXAMPLE demo 900 new</title>
+      <link>https://example.com/article-example900</link>
+      <description>Scheduled for 27 May 2025 at 14:29.</description>
+      <pubDate>Tue, 27 May 2025 14:29:00 +0200</pubDate>
+      <guid>https://example.com/article-example900</guid>
+    </item>
   </channel>
 </rss>
