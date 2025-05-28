@@ -65,5 +65,29 @@
       ]]></content:encoded>
     </item>
 
+    <!-- Special Characters Test -->
+    <item>
+      <title>Special Characters Test</title>
+      <link>https://example.com/special-characters</link>
+      <description>Test with special characters, emojis, and RTL scripts.</description>
+      <pubDate>Wed, 28 May 2025 12:00:00 +0200</pubDate>
+      <guid isPermaLink="false">urn:uuid:42345678-1234-5678-1234-567812345678</guid>
+      <category domain="https://example.com/categories/testing">Testing</category>
+      <dc:creator>Tester</dc:creator>
+      <content:encoded><![CDATA[
+        <p>Café à la mode – déjà vu, naïve fiancé, coöperation, façade, résumé, élève, voilà!</p>
+        <p>Smörgåsbord with föhn breeze, über-cool décor, garçon and crème brûlée.</p>
+        <p>¡Hola! ¿Cómo está? Señor, señorita, mañana, piñata.</p>
+        <p>Grüß Gott! – Österreich, München, Straße, schön, Fußball.</p>
+        <p>Český Krumlov, žížala, přeštice, Řím, Škoda Auto.</p>
+        <p>Русский текст: Привет, как дела? До свидания!</p>
+        <p>中文测试: 你好，世界！</p>
+        <p>日本語テスト: こんにちは、世界！</p>
+        <p>한국어 테스트: 안녕하세요, 세계!</p>
+        <p>Emojis: 😀🎉✨🚀💻📚🍕</p>
+        <p>RTL: שלום עולם (Hebrew), مرحبا بالعالم (Arabic)</p>
+      ]]></content:encoded>
+    </item>
+
   </channel>
 </rss>
