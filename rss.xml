@@ -1,795 +1,336 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-     xmlns:atom="http://www.w3.org/2005/Atom" 
-     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-     xmlns:dc="http://purl.org/dc/elements/1.1/" 
-     xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>Mock RSS 2.0 Feed</title>
-    <link>https://example.com/</link>
-    <description>Testing RSS 2.0 with content:encoded and enhanced structure</description>
-    <language>en-us</language>
-    <pubDate>Fri, 30 May 2025 09:30:00 +0200</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 09:30:00 +0200</lastBuildDate>
-    <generator>Enhanced Test Generator</generator>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
 
-    <item>
-      <title>Complex Article A</title>
-      <link>https://example.com/article-a</link>
-      <description>Published just now at 09:00 CEST with extra data.</description>
-      <pubDate>Fri, 30 May 2025 09:00:00 +0200</pubDate>
-      <guid isPermaLink="false">urn:uuid:12345678-1234-5678-1234-567812345678</guid>
-      <category domain="https://example.com/categories/news">News</category>
-      <category domain="https://example.com/categories/updates">Updates</category>
-      <dc:creator>John Doe</dc:creator>
-      <content:encoded><![CDATA[
-        <p>This is the encoded content for Complex Article A, with <strong>rich HTML</strong>.</p>
-        <ul>
-          <li>Point one</li>
-          <li>Point two</li>
-        </ul>
-      ]]></content:encoded>
-      <enclosure url="https://example.com/audio.mp3" type="audio/mpeg" length="12345" />
-      <media:content url="https://example.com/image.jpg" medium="image" type="image/jpeg" height="600" width="800" />
-    </item>
+<channel>
+	<title>Gemeente Bocholt</title>
+	<atom:link href="https://bocholt.be/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bocholt.be</link>
+	<description>De officiële website van de gemeente Bocholt</description>
+	<lastBuildDate>Thu, 05 Jun 2025 10:19:55 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
-    <item>
-      <title>Complex Article B</title>
-      <link>https://example.com/article-b</link>
-      <description>Published at 07:30 CEST today with multimedia.</description>
-      <pubDate>Fri, 30 May 2025 07:30:00 +0200</pubDate>
-      <guid isPermaLink="false">urn:uuid:22345678-1234-5678-1234-567812345678</guid>
-      <category domain="https://example.com/categories/tutorials">Tutorials</category>
-      <dc:creator>Jane Smith</dc:creator>
-      <content:encoded><![CDATA[
-        <p>This is the encoded content for Complex Article B, featuring <em>images and audio</em>.</p>
-        <p><img src="https://example.com/image2.jpg" alt="Example Image" /></p>
-      ]]></content:encoded>
-      <enclosure url="https://example.com/audio2.mp3" type="audio/mpeg" length="54321" />
-      <media:content url="https://example.com/video.mp4" medium="video" type="video/mp4" height="720" width="1280" />
-    </item>
+<image>
+	<url>https://bocholt.be/wp-content/uploads/2019/10/favicon.ico</url>
+	<title>Gemeente Bocholt</title>
+	<link>https://bocholt.be</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gemeente Bocholt pakt te hoge snelheden aan op de Breeërweg met trajectcontrole</title>
+		<link>https://bocholt.be/2025/06/05/gemeente-bocholt-pakt-te-hoge-snelheden-aan-op-de-breeerweg-met-trajectcontrole/</link>
+		
+		<dc:creator><![CDATA[Koen Nijsen]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 10:19:44 +0000</pubDate>
+				<category><![CDATA[Dienst veiligheid en preventie]]></category>
+		<category><![CDATA[Dienst wegen]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35854</guid>
 
-    <item>
-      <title>Complex Article C</title>
-      <link>https://example.com/article-c</link>
-      <description>Published at 04:45 CEST today with multiple categories.</description>
-      <pubDate>Fri, 30 May 2025 04:45:00 +0200</pubDate>
-      <guid isPermaLink="false">urn:uuid:32345678-1234-5678-1234-567812345678</guid>
-      <category domain="https://example.com/categories/tech">Tech</category>
-      <category domain="https://example.com/categories/trending">Trending</category>
-      <dc:creator>Alex Johnson</dc:creator>
-      <content:encoded><![CDATA[
-        <p>This is the encoded content for Complex Article C, including lists and code.</p>
-        <pre><code>console.log('Hello, World!');</code></pre>
-      ]]></content:encoded>
-    </item>
+					<description><![CDATA[Om de verkeersveiligheid op de Breeërweg te verbeteren, voert de gemeente Bocholt er dit jaar nog een trajectcontrole in. Op deze drukke schoolroute, waar een snelheidslimiet van 50 km/u geldt, blijkt uit recente metingen dat 45 % van de bestuurders sneller dan 60 km/u rijdt. Dat vormt een ernstig risico, zeker voor de vele fietsende [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Om de verkeersveiligheid op de Breeërweg te verbeteren, voert de gemeente Bocholt er dit jaar nog een trajectcontrole in. Op deze drukke schoolroute, waar een snelheidslimiet van 50 km/u geldt, blijkt uit recente metingen dat 45 % van de bestuurders sneller dan 60 km/u rijdt. Dat vormt een ernstig risico, zeker voor de vele fietsende schoolkinderen en andere kwetsbare weggebruikers.</p>
+<p>De nieuwe trajectcontrole – tussen de grens met Bree en de Reppelerbeek &#8211; wordt in de komende maanden geïnstalleerd en zal actief zijn vanaf september 2025, net voor de start van het nieuwe schooljaar. Dat moment is bewust gekozen, omdat de verkeersdrukte dan weer toeneemt.</p>
+<p>In tegenstelling tot een gewone flitspaal, controleert een trajectcontrole de gemiddelde snelheid over een langere afstand. Dat zorgt voor een rustiger verkeersbeeld en voorkomt het typische ‘even remmen en dan weer optrekken’. In andere gemeenten zorgde deze aanpak al voor een daling van meer dan 60 % in het aantal snelheidsovertredingen – met minder ongevallen tot gevolg.</p>
+<p>De Breeërweg is een belangrijke verbindingsweg en wordt dagelijks gebruikt door heel wat fietsers, waaronder veel scholieren. De gemeente vindt het daarom essentieel om in te grijpen.</p>
+<p>Burgemeester Stijn Van Baelen benadrukt:<br />
+<em>&#8220;Als lokaal bestuur nemen we verkeersveiligheid zeer ernstig. De cijfers op de Breeërweg spreken voor zich: te veel bestuurders rijden er veel te snel. Met deze trajectcontrole willen we de snelheid blijvend naar beneden krijgen en zo een veilige schoolroute garanderen voor onze kinderen.&#8221;</em></p>
+<p>Met deze maatregel zet Bocholt opnieuw een belangrijke stap richting veiligere wegen voor iedereen.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35854</post-id>	</item>
+		<item>
+		<title>Geen huisvuilinzameling op maandag 9 juni</title>
+		<link>https://bocholt.be/2025/06/03/geen-huisvuilinzameling-op-maandag-9-juni/</link>
+		
+		<dc:creator><![CDATA[Koen Nijsen]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 14:46:11 +0000</pubDate>
+				<category><![CDATA[Algemeen]]></category>
+		<category><![CDATA[Milieudienst]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35835</guid>
 
-    <item>
-      <title>Special Characters Test</title>
-      <link>https://example.com/special-characters</link>
-      <description>Café à la mode – déjà vu, naïve fiancé, coöperation, façade, résumé, élève, voilà!</description>
-      <pubDate>Fri, 30 May 2025 03:20:00 +0200</pubDate>
-      <content:encoded><![CDATA[
-        <p>Café à la mode – déjà vu, naïve fiancé, coöperation, façade, résumé, élève, voilà!</p>
-        <p>Smörgåsbord with föhn breeze, über-cool décor, garçon and crème brûlée.</p>
-        <p>¡Hola! ¿Cómo está? Señor, señorita, mañana, piñata.</p>
-        <p>Grüß Gott! – Österreich, München, Straße, schön, Fußball.</p>
-        <p>Český Krumlov, žížala, přeštice, Řím, Škoda Auto.</p>
-        <p>Русский текст: Привет, как дела? До свидания!</p>
-        <p>中文测试: 你好，世界！</p>
-        <p>日本語テスト: こんにちは、世界！</p>
-        <p>한국어 테스트: 안녕하세요, 세계!</p>
-        <p>Emojis: 😀🎉✨🚀💻📚🍕</p>
-        <p>RTL: שלום עולם (Hebrew), مرحبا بالعالم (Arabic)</p>
-           <p><table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
- <thead>
-  <tr style="background-color: #f2f2f2;">
-   <th>
-    Categorie
-   </th>
-   <th>
-    Teken
-   </th>
-   <th>
-    HTML-entiteit
-   </th>
-   <th>
-    Voorbeeldzin
-   </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>
-    HTML Gereserveerde Tekens
-   </td>
-   <td>
-    "
-   </td>
-   <td>
-    "
-   </td>
-   <td>
-    Ze zei: "Hallo!"
-   </td>
-  </tr>
-  <tr>
-   <td>
-    HTML Gereserveerde Tekens
-   </td>
-   <td>
-    '
-   </td>
-   <td>
-    '
-   </td>
-   <td>
-    Het is John's boek.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    HTML Gereserveerde Tekens
-   </td>
-   <td>
-    &amp;
-   </td>
-   <td>
-    &amp;
-   </td>
-   <td>
-    Tom &amp; Jerry zijn bekende personages.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    HTML Gereserveerde Tekens
-   </td>
-   <td>
-    &lt;
-   </td>
-   <td>
-    &lt;
-   </td>
-   <td>
-    Gebruik &lt;em&gt; voor nadruk.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    HTML Gereserveerde Tekens
-   </td>
-   <td>
-    &gt;
-   </td>
-   <td>
-    &gt;
-   </td>
-   <td>
-    x &gt; y betekent x is groter dan y.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    Œ
-   </td>
-   <td>
-    Œ
-   </td>
-   <td>
-    Het woord Œuvre betekent werk.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    œ
-   </td>
-   <td>
-    œ
-   </td>
-   <td>
-    Het Franse woord cœur betekent hart.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    Š
-   </td>
-   <td>
-    Š
-   </td>
-   <td>
-    De naam Šimon komt voor in Oost-Europa.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    š
-   </td>
-   <td>
-    š
-   </td>
-   <td>
-    Het Tsjechische woord škol betekent school.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    Ÿ
-   </td>
-   <td>
-    Ÿ
-   </td>
-   <td>
-    De naam Ÿvette is Frans.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ƒ
-   </td>
-   <td>
-    ƒ
-   </td>
-   <td>
-    De functie f(x) wordt aangeduid met ƒ(x).
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ˆ
-   </td>
-   <td>
-    ˆ
-   </td>
-   <td>
-    De letter â heeft een ˆ boven de a.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ˜
-   </td>
-   <td>
-    ˜
-   </td>
-   <td>
-    Het Spaanse woord año bevat een ˜ boven de n.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    –
-   </td>
-   <td>
-    –
-   </td>
-   <td>
-    De periode 2020–2025 was belangrijk.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    —
-   </td>
-   <td>
-    —
-   </td>
-   <td>
-    Hij kwam laat—zoals gewoonlijk.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ‘
-   </td>
-   <td>
-    ‘
-   </td>
-   <td>
-    Het woord ‘voorbeeld’ is duidelijk.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ’
-   </td>
-   <td>
-    ’
-   </td>
-   <td>
-    Dat is John’s auto.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    “
-   </td>
-   <td>
-    “
-   </td>
-   <td>
-    Ze zei: “Hallo!”
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ”
-   </td>
-   <td>
-    ”
-   </td>
-   <td>
-    Ze zei: “Hallo!”
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    …
-   </td>
-   <td>
-    …
-   </td>
-   <td>
-    Hij dacht na…
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    †
-   </td>
-   <td>
-    †
-   </td>
-   <td>
-    Het symbool † duidt een voetnoot aan.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ‡
-   </td>
-   <td>
-    ‡
-   </td>
-   <td>
-    Het symbool ‡ duidt een tweede voetnoot aan.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    •
-   </td>
-   <td>
-    •
-   </td>
-   <td>
-    Een opsomming begint met een •.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ‰
-   </td>
-   <td>
-    ‰
-   </td>
-   <td>
-    De rente is 5‰.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ′
-   </td>
-   <td>
-    ′
-   </td>
-   <td>
-    5′ betekent 5 minuten.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ″
-   </td>
-   <td>
-    ″
-   </td>
-   <td>
-    5″ betekent 5 seconden.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    €
-   </td>
-   <td>
-    €
-   </td>
-   <td>
-    De prijs is 50 €.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ™
-   </td>
-   <td>
-    ™
-   </td>
-   <td>
-    Het logo is een geregistreerd ™.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ←
-   </td>
-   <td>
-    ←
-   </td>
-   <td>
-    De pijl wijst naar links ←.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    →
-   </td>
-   <td>
-    →
-   </td>
-   <td>
-    De pijl wijst naar rechts →.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ↑
-   </td>
-   <td>
-    ↑
-   </td>
-   <td>
-    De pijl wijst naar boven ↑.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ↓
-   </td>
-   <td>
-    ↓
-   </td>
-   <td>
-    De pijl wijst naar beneden ↓.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Algemene HTML-symbolen
-   </td>
-   <td>
-    ↔
-   </td>
-   <td>
-    ↔
-   </td>
-   <td>
-    De pijl wijst beide kanten op ↔.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ∞
-   </td>
-   <td>
-    ∞
-   </td>
-   <td>
-    De limiet is ∞.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ≤
-   </td>
-   <td>
-    ≤
-   </td>
-   <td>
-    x ≤ y
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ≥
-   </td>
-   <td>
-    ≥
-   </td>
-   <td>
-    x ≥ y
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ≠
-   </td>
-   <td>
-    ≠
-   </td>
-   <td>
-    5 ≠ 3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ≈
-   </td>
-   <td>
-    ≈
-   </td>
-   <td>
-    π ≈ 3.14
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ⊂
-   </td>
-   <td>
-    ⊂
-   </td>
-   <td>
-    A ⊂ B
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ⊃
-   </td>
-   <td>
-    ⊃
-   </td>
-   <td>
-    B ⊃ A
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ⊆
-   </td>
-   <td>
-    ⊆
-   </td>
-   <td>
-    A ⊆ B
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ⊇
-   </td>
-   <td>
-    ⊇
-   </td>
-   <td>
-    A ⊇ B
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ∈
-   </td>
-   <td>
-    ∈
-   </td>
-   <td>
-    3 ∈ {1,2,3}
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ∉
-   </td>
-   <td>
-    ∉
-   </td>
-   <td>
-    4 ∉ {1,2,3}
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ∪
-   </td>
-   <td>
-    ∪
-   </td>
-   <td>
-    A ∪ B
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ∩
-   </td>
-   <td>
-    ∩
-   </td>
-   <td>
-    A ∩ B
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ∑
-   </td>
-   <td>
-    ∑
-   </td>
-   <td>
-    ∑_{i=1}^{n} i = n(n+1)/2
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    √
-   </td>
-   <td>
-    √
-   </td>
-   <td>
-    √9 = 3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Wiskundige Symbolen
-   </td>
-   <td>
-    ∫
-   </td>
-   <td>
-    ∫
-   </td>
-   <td>
-    ∫ x dx = x²/2 + C
-   </td>
-  </tr>
- </tbody>
+					<description><![CDATA[Op maandag 9 juni 2025 is er geen ophaling van GFT en PMD aan huis omwille van de feestdag ‘pinkstermaandag&#8217;. De ophaalronde wordt ingehaald op zaterdag 14 juni 2025. Vergeet niet, zoals ook de rest van het jaar, om je PMD-zak(ken) en GFT-container tijdig en op een goed zichtbare plaats buiten te zetten. Net zoals op de vaste ophaaldag start men [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Op <span style="color: #800080;">maandag <strong>9 juni 2025 </strong>is er <strong>geen ophaling van GFT en PMD</strong></span> aan huis omwille van de feestdag ‘pinkstermaandag&#8217;. De ophaalronde <strong>wordt ingehaald op zaterdag 14 juni</strong> 2025.</p>
+<p>Vergeet niet, zoals ook de rest van het jaar, om je PMD-zak(ken) en GFT-container tijdig en op een goed zichtbare plaats buiten te zetten. Net zoals op de vaste ophaaldag start men op zaterdag om 6u00 met de ophaalronde. Het tijdstip waarop je afval wordt opgehaald, kan variëren afhankelijk van de chauffeur, verkeer en weersomstandigheden. Je afvalfracties de avond voordien buiten zetten is dus de boodschap! Zo voorkom je dat jouw afval blijft staan.</p>
+<p>Wist je dat je op <a href="https://protect.checkpoint.com/v2/___https:/www.limburg.net/afvalkalender___.YzJlOmdlbWVlbnRlYm9jaG9sdDpjOm86MjUyMGFkMjdkMDZhMjc1OWQzYzU0NTBkNjAwZDg5MTQ6NjpjYmJmOjMzOWVhMTJkYjBmNGQ5ZWZmNTE1MzVjYTBiZjBjZGM1Zjg1MDRkODdjMmE4MzIzZTkwMDg4YmYzM2RmY2NlODM6cDpGOk4">www.limburg.net/afvalkalender</a>  de ophaaldata voor jouw adres digitaal kan raadplegen? Je kan daar  de data van jouw adres ook toevoegen in je agenda.</p>
+<p>Nog gemakkelijker is de <strong>Mijn Stadsapp</strong>: die verwittigt je daags voordien om je huisvuil buiten te zetten! Download de app in de App Store of Google Play. Stel &#8216;Bocholt&#8217; in als je gemeente en geef vervolgens je adres in.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35835</post-id>	</item>
+		<item>
+		<title>Nieuw: gratis pasfoto’s in het gemeentehuis voor je identiteitskaart, paspoort of verblijfskaart</title>
+		<link>https://bocholt.be/2025/05/21/nieuw-gratis-pasfotos-in-het-gemeentehuis-voor-je-identiteitskaart-paspoort-of-verblijfskaart/</link>
+		
+		<dc:creator><![CDATA[Koen Nijsen]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 10:21:05 +0000</pubDate>
+				<category><![CDATA[Burgerzaken]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35763</guid>
+
+					<description><![CDATA[Als inwoner van Bocholt kan je voortaan gratis een pasfoto laten maken in ons gemeentehuis. We maken de foto tijdens je afspraak. De pasfoto voldoet dankzij het systeem aan alle voorwaarden. De foto wordt, samen met je vingerafdrukken en digitale handtekening, rechtstreeks opgeladen voor de aanmaak van je nieuwe identiteitsbewijs. Let op! Je kan niet [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Als inwoner van Bocholt kan je voortaan gratis een pasfoto laten maken in ons gemeentehuis.</p>
+<p>We maken de foto tijdens je afspraak. De pasfoto voldoet dankzij het systeem aan alle voorwaarden. De foto wordt, samen met je vingerafdrukken en digitale handtekening, rechtstreeks opgeladen voor de aanmaak van je nieuwe identiteitsbewijs.</p>
+<p>Let op! Je kan niet voor alle documenten waar je een pasfoto voor nodig hebt een foto laten maken in het gemeentehuis, dat laat de software nog niet toe.</p>
+<p>Waarvoor kan je een pasfoto laten nemen:</p>
+<ul>
+<li>Elektronische identiteitskaart (eID)</li>
+<li>Paspoort (reispas)</li>
+<li>Elektronische verblijfskaart</li>
+<li><em>Kids-ID (*)</em></li>
+<li><em>Paspoort voor -12-jarigen (*)</em></li>
+</ul>
+<p>(*) voor kinderen is het niet altijd mogelijk een pasfoto te maken, gezien wij met een vast statief werken en het kind behoorlijk op het stoeltje moet kunnen plaatsnemen.</p>
+<p>Waarvoor kan je geen pasfoto laten nemen:</p>
+<ul>
+<li>Rijbewijs</li>
+</ul>
+<p>Wat zijn de voordelen:</p>
+<ul>
+<li>Geen risico op vervalsing van foto’s. Door de foto’s en biometrische gegevens zoals vingerafdrukken op te nemen, wordt de veiligheid en betrouwbaarheid van officiële documenten verzekerd.</li>
+<li>De foto voldoet meteen aan de voorwaarden.</li>
+</ul>
+<p>Praktische informatie:</p>
+<ul>
+<li>Foto’s die aan het loket worden genomen, worden digitaal doorgestuurd naar de producent van de kaart. Je krijgt dus geen afdruk van de pasfoto mee naar huis.</li>
+<li>Je bent niet verplicht om een pasfoto aan het loket te laten maken. De lokale, professionele fotografen staan nog altijd paraat om pasfoto’s te maken.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35763</post-id>	</item>
+		<item>
+		<title>Onderhoud gemeentewegen 2025</title>
+		<link>https://bocholt.be/2025/05/20/onderhoud-gemeentewegen-2025/</link>
+		
+		<dc:creator><![CDATA[Koen Nijsen]]></dc:creator>
+		<pubDate>Tue, 20 May 2025 13:10:27 +0000</pubDate>
+				<category><![CDATA[Dienst wegen]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35753</guid>
+
+					<description><![CDATA[Ieder jaar voorziet de gemeente budgetten om de gemeentewegen te onderhouden. Deze onderhoudswerken zullen in 2025 uitgevoerd worden door aannemersbedrijf Colas uit Heusden-Zolder. Volgende wegen en fietspaden (gans of gedeeltelijk) staan dit jaar op de planning: Leemskuilenstraat Vosheuvelstraat Kloterstraat vier stukken op de Kaulillerweg Reppelerweg Goolderheideweg Bosschelweg Zavelstraat (rijweg + fietspad) Haagstraat Bosstraat Galgenbergstraat Brogelerweg [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Ieder jaar voorziet de gemeente budgetten om de gemeentewegen te onderhouden. Deze onderhoudswerken zullen in 2025 uitgevoerd worden door aannemersbedrijf Colas uit Heusden-Zolder.</p>
+<p>Volgende wegen en fietspaden (gans of gedeeltelijk) staan dit jaar op de planning:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Leemskuilenstraat</li>
+<li>Vosheuvelstraat</li>
+<li>Kloterstraat</li>
+<li>vier stukken op de Kaulillerweg</li>
+<li>Reppelerweg</li>
+<li>Goolderheideweg</li>
+<li>Bosschelweg</li>
+<li>Zavelstraat (rijweg + fietspad)</li>
+<li>Haagstraat</li>
+<li>Bosstraat</li>
+<li>Galgenbergstraat</li>
+<li>Brogelerweg x Galgenbergstraat</li>
+<li>Kloterstraat</li>
+<li>Kaulillerdorp</li>
+<li>Molenstraat</li>
+</ul>
+</li>
+</ul>
+<p>Als alles volgens planning verloopt en het weer geen parten speelt, zullen deze werken tegen einde juni voltooid zijn. De aannemer zal tijdig &#8211; voor de start van de werken &#8211; bij de betrokken bewoners, een briefje met richtlijnen in de bus stoppen.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35753</post-id>	</item>
+		<item>
+		<title>Nieuwe opvangplaatsen subsidie inkomensgerelateerd tarief</title>
+		<link>https://bocholt.be/2025/05/16/nieuwe-opvangplaatsen-subsidie-inkomensgerelateerd-tarief/</link>
+		
+		<dc:creator><![CDATA[Koen Nijsen]]></dc:creator>
+		<pubDate>Fri, 16 May 2025 09:49:36 +0000</pubDate>
+				<category><![CDATA[Kinderopvang]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35746</guid>
+
+					<description><![CDATA[Opportuniteitsadvies noodzakelijk Tijdens de Week van de Opvoeding (vanaf 19 mei) lanceert Opgroeien een oproep aan (potentiële) organisatoren van kinderopvang om nieuwe opvangplaatsen te realiseren met een subsidie voor een inkomens-gerelateerd tarief. Ook de gemeente Bocholt doet een warme oproep aan geïnteresseerden om zich kandidaat te stellen. Opgroeien biedt subsidies aan om nieuwe opvangplaatsen te [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h3><strong>Opportuniteitsadvies noodzakelijk</strong></h3>
+<p>Tijdens de Week van de Opvoeding (vanaf 19 mei) lanceert Opgroeien een oproep aan (potentiële) organisatoren van kinderopvang om nieuwe opvangplaatsen te realiseren met een subsidie voor een inkomens-gerelateerd tarief.</p>
+<p>Ook de gemeente Bocholt doet een warme oproep aan geïnteresseerden om zich kandidaat te stellen.</p>
+<p>Opgroeien biedt subsidies aan om nieuwe opvangplaatsen te creëren waar ouders betalen volgens hun inkomen. Geïnteresseerden kunnen hiervoor een aanvraag indienen.</p>
+<p>Wil je starten met organiseren van kinderopvang of uitbreiden, dan is het sinds 1 januari 2022 verplicht om een opportuniteitsadvies aan te vragen bij het lokaal bestuur.</p>
+<p>Het hebben van een voldoende aanbod kinderopvang in Bocholt is zeer belangrijk. Daarom is het geven van een kwaliteitsvol advies waardevol. Het opportuniteitsadvies van het lokaal bestuur moet een organisator ertoe aanzetten om na te denken en voldoende informatie in te winnen over het feit of het opportuun is om een kinderopvang op te richten op de vooropgestelde locatie. Zo ontstaat er, reeds voor de start van een nieuwe opvanglocatie, een dialoog tussen organisator en lokaal bestuur. De organisator krijgt zo inzicht in welke mate het lokaal bestuur eventuele problemen en kansen ziet voor de organisator, rekening houdend met de lokale context en de stedenbouwkundige situatie.</p>
+<p>Het advies van het lokaal bestuur is ondersteunend, niet bindend.</p>
+<p>De criteria die Bocholt hanteert, en de procedure voor opportuniteitsadvies zijn terug te vinden in <a href="https://bocholt.be/wp-content/uploads/2025/05/Procedure-en-criteria-opportuniteitsadvies-bij-aanvraag-vergunning-groepsopvang-4.docx">dit document</a>.</p>
+<p>Voor meer info mag je contact opnemen met Sanne Babeliowsky | <a href="mailto:Sanne.babeliowsky@bocholt.be">Sanne.babeliowsky@bocholt.be</a> | 089 68 29 30</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35746</post-id>	</item>
+		<item>
+		<title>Duits Bocholt viert ‘80 jaar vrede’ met alle partnersteden</title>
+		<link>https://bocholt.be/2025/05/14/duits-bocholt-viert-80-jaar-vrede-met-alle-partnersteden/</link>
+		
+		<dc:creator><![CDATA[Koen Nijsen]]></dc:creator>
+		<pubDate>Wed, 14 May 2025 12:04:48 +0000</pubDate>
+				<category><![CDATA[Dienst beleving]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35715</guid>
+
+					<description><![CDATA[Van 8 tot 11 mei vierde men in onze Partnerstad Bocholt dat 80 jaar geleden een einde kwam aan WOII. Dat deed men samen met delegaties uit bijna alle partnersteden: Aurillac en Arpajon-sur-Cère uit Frankrijk, Rossendale uit Groot-Brittannië, Aalten uit Nederland, Akmene uit Litouwen, Verkniodniprovsk uit Oekraïne en natuurlijk het Belgische Bocholt. Onze gemeente werd [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Van 8 tot 11 mei vierde men in onze Partnerstad Bocholt dat 80 jaar geleden een einde kwam aan WOII. Dat deed men samen met delegaties uit bijna alle partnersteden: Aurillac en Arpajon-sur-Cère uit Frankrijk, Rossendale uit Groot-Brittannië, Aalten uit Nederland, Akmene uit Litouwen, Verkniodniprovsk uit Oekraïne en natuurlijk het Belgische Bocholt. Onze gemeente werd er vertegenwoordigd door burgemeester Stijn Van Baelen en schepenen Erik Vanmierlo, Marc Vanherk en Lieve Theuwissen.</p>
+<p><img fetchpriority="high" decoding="async" class=" wp-image-35720 alignright" src="https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-300x200.jpg" alt="" width="366" height="244" srcset="https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-300x200.jpg 300w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-1024x683.jpg 1024w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-768x512.jpg 768w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-1536x1024.jpg 1536w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-2048x1366.jpg 2048w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-1250x833.jpg 1250w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-1220x813.jpg 1220w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-915x610.jpg 915w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-600x400.jpg 600w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-393x262.jpg 393w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-4-1-290x193.jpg 290w" sizes="(max-width: 366px) 100vw, 366px" />Ze kregen een gevarieerd programma aangeboden, gaande van tentoonstellingen, concerten tot ontmoetingsavonden, alles in het teken van ’80 jaar vrede’ en 75 jaar Europese Unie.</p>
+<p>Nadat eerder al Bocholt (B), Aurillac en Rossendale een wandelweg met hun naam kregen, mocht nu ook de burgemeester van de Litouwde stad Akmene, Mitrofonavos, het bordje van de Akmene Promenade langs de oever van de Aa onthullen.</p>
+<p>Het gezelschap bracht ‘s zaterdags een bezoek aan het onderduikmuseum in Aalten (NL) en ’s avonds was er een verbroederingfeestje waarop o.a. ook ons Bocholter muzikaal duo ‘Nora &amp; band’ voor ambiance zorgden.</p>
+<p>Op zondag kwam men samen in de Sankt Georg Kirche voor een internationale misviering. Daar werd een collecte gedaan om het oorlogsleed in Verkniodniprovsk (een stad van 15.000 inwoners ongeveer halverwege tussen Kiev en Donetsk) te milderen. Namens onze gemeente overhandigde burgemeester Van Baelen twee EHB-koffers, gevuld met speciale materialen om brandwonden te verzorgen. Later op het jaar zal ook onze gemeente nog iets organiseren om Verkhnodniprovsk te steunen.</p>
+<p><img decoding="async" class="alignnone  wp-image-35721" src="https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-300x200.jpg" alt="" width="534" height="356" srcset="https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-300x200.jpg 300w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-1024x683.jpg 1024w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-768x512.jpg 768w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-1536x1024.jpg 1536w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-2048x1365.jpg 2048w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-1220x813.jpg 1220w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-915x610.jpg 915w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-600x400.jpg 600w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-393x262.jpg 393w, https://bocholt.be/wp-content/uploads/2025/05/delegatie2025-5-1-290x193.jpg 290w" sizes="(max-width: 534px) 100vw, 534px" /></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35715</post-id>	</item>
+		<item>
+		<title>Gemeente pakt sluipverkeer op &#8220;het Besetje&#8221; aan</title>
+		<link>https://bocholt.be/2025/05/07/gemeente-pakt-sluipverkeer-op-het-besetje-aan/</link>
+		
+		<dc:creator><![CDATA[Koen Nijsen]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 10:21:15 +0000</pubDate>
+				<category><![CDATA[Dienst mobiliteit en verkeer]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35678</guid>
+
+					<description><![CDATA[De gemeente Bocholt neemt concrete stappen om het sluipverkeer op &#8220;het Besetje&#8221; &#8211; de Bosheidestraat en de Achelsedijk &#8211; aan te pakken. Deze maatregelen volgen op het buurtoverleg van 13 november 2024, waar buurtbewoners hun bezorgdheden kenbaar maakten. Het gemeentebestuur komt met dit traject nadrukkelijk tegemoet aan de verzuchtingen van de buurt. Hoewel tijdens het [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>De gemeente Bocholt neemt concrete stappen om het sluipverkeer op &#8220;het Besetje&#8221; &#8211; de Bosheidestraat en de Achelsedijk &#8211; aan te pakken. Deze maatregelen volgen op het buurtoverleg van 13 november 2024, waar buurtbewoners hun bezorgdheden kenbaar maakten. Het gemeentebestuur komt met dit traject nadrukkelijk tegemoet aan de verzuchtingen van de buurt.</p>
+<p>Hoewel tijdens het overleg verschillende voorstellen voor proefopstellingen werden besproken, bleek er toen geen duidelijke consensus. Daarom besliste het gemeentebestuur om, in overleg met de verkeersdienst van politiezone CARMA, de situatie verder te analyseren.</p>
+<p>Op basis van het advies van de politie wordt nu een eerste maatregel ingevoerd: in beide straten zullen verkeersborden ‘uitgezonderd plaatselijk verkeer’ geplaatst worden. Deze maatregel wordt versterkt met gerichte politiecontroles en bijkomende verkeerstellingen. Zo kan objectief worden geëvalueerd of het sluipverkeer effectief vermindert.</p>
+<p>Na de evaluatie wordt bekeken of bijkomende ingrepen nodig zijn. Daarbij worden opnieuw verschillende eerder besproken proefopstellingen overwogen, waaronder:</p>
+<ul>
+<li>het invoeren van éénrichtingsverkeer in de Bosheidestraat,</li>
+<li>het aanbrengen van extra verkeersremmers in de Achelsedijk,</li>
+<li>of het aanleggen van verkeerssluizen.</li>
+</ul>
+<p>“Met deze gefaseerde aanpak willen we luisteren naar de zorgen van de buurtbewoners en tegelijk werk maken van een doordachte, duurzame oplossing,” aldus burgemeester Stijn Van Baelen, “De leefbaarheid en veiligheid in onze woonstraten staan centraal.”</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35678</post-id>	</item>
+		<item>
+		<title>Vrije inloop gemeentehuis dienst bevolking &#124; maandagvoormiddag en woensdagnamiddag</title>
+		<link>https://bocholt.be/2025/04/30/vrije-inloop-gemeentehuis-dienst-bevolking-maandagvoormiddag-en-woensdagnamiddag/</link>
+		
+		<dc:creator><![CDATA[Esther Sobora]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 12:39:56 +0000</pubDate>
+				<category><![CDATA[Algemeen]]></category>
+		<category><![CDATA[Burgerzaken]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35655</guid>
+
+					<description><![CDATA[Vanaf 5 mei kan je op het gemeentehuis op maandagvoormiddag (9u00 tot 12u30) en woensdagnamiddag (13u30 &#8211; 16u00) terecht zonder afspraak. Deze &#8216;vrije inloop&#8217; geldt enkel voor zaken van de dienst bevolking: eID&#8217;s, Kids-ID&#8217;s  (voorlopige) rijbewijzen, verhuizen, reispassen, enz &#8230; Voor de dienst omgeving, vreemdelingenzaken en burgerlijke stand (huwelijken, nationaliteit, &#8230;) moet je sowieso altijd [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Vanaf 5 mei kan je op het gemeentehuis op maandagvoormiddag (9u00 tot 12u30) en woensdagnamiddag (13u30 &#8211; 16u00) terecht <strong>zonder afspraak</strong>.</p>
+<p>Deze &#8216;vrije inloop&#8217; geldt enkel voor zaken van de dienst bevolking: eID&#8217;s, Kids-ID&#8217;s  (voorlopige) rijbewijzen, verhuizen, reispassen, enz &#8230;</p>
+<p>Voor de dienst omgeving, vreemdelingenzaken en burgerlijke stand (huwelijken, nationaliteit, &#8230;) moet je sowieso altijd een afspraak maken.</p>
+<p>Meld je tijdens de vrije inloop aan bij de ontvangstbalie voor je volgnummer.</p>
+<p><strong>Let op:</strong> kom tijdig! Bij grote drukte kan het zijn dat je geen volgnummer meer krijgt.</p>
+<p>Wil je vermijden dat je lang moet wachten of dat je geen volgnummer meer krijgt? Maak dan een <a href="https://agenda.appoint.be/e/aHN0UVJrME14VXRUREJaM2xDT004VExtUm15dTRQWS9GUXVXeXN3cndxbVR4MkJadDA2TksyUG5TMG5qSmp5NmtUTk8rZThSczZtUXM2bGgxMFFqUHN1aThBV3BwbTIyb2hoYTdTYVQyaXhUSFFqaCtmdmJKd0JYelh6WUJkY3Q%3D" target="_blank" rel="noopener">afspraak</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35655</post-id>	</item>
+		<item>
+		<title>Zwaluwen zijn welkom in Bocholt</title>
+		<link>https://bocholt.be/2025/04/18/zwaluwen-zijn-welkom-in-bocholt/</link>
+		
+		<dc:creator><![CDATA[Koen Nijsen]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 06:56:39 +0000</pubDate>
+				<category><![CDATA[Milieudienst]]></category>
+		<category><![CDATA[Omgeving]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35577</guid>
+
+					<description><![CDATA[Eén zwaluw maakt de lente niet &#8230;. Maar, het is inderdaad lente en de allereerste zwaluwen keren vanuit het warme zuiden terug naar onze streken. Zwaluwen maken mooie kuipvormige nestjes van modder en stro, vaak onder de dakranden van gebouwen. Deze nestjes zorgen wel eens voor afval en uitwerpselen en daarom worden ze vaak verwijderd. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Eén zwaluw maakt de lente niet &#8230;.<br />
+Maar, het is inderdaad lente en de allereerste zwaluwen keren vanuit het warme zuiden terug naar onze streken.</p>
+<p>Zwaluwen maken mooie kuipvormige nestjes van modder en stro, vaak onder de dakranden van gebouwen. Deze nestjes zorgen wel eens voor afval en uitwerpselen en daarom worden ze vaak verwijderd. Dit is bijzonder jammer want zwaluwen zijn zeer nuttige vogels: ze eten enorme hoeveelheden muggen, vliegen en andere insecten. De gemeente Bocholt wil de huiszwaluw en de boerenzwaluw een steuntje in de rug geven en komt daarom inwoners die de nesten laten hangen, financieel tegemoet.</p>
+<p>Als je de nesten laat hangen, dan kan je van 1 juni tot 31 juli een aanvraag indienen bij de dienst omgeving.</p>
+<p>De premie is afhankelijk van het aantal nesten:</p>
+<ul class="wp-block-list">
+<li>kleine zwaluwkolonie (1 t.e.m. 3 nesten): € 25,00 per jaar<img decoding="async" class=" wp-image-35578 alignright" src="https://bocholt.be/wp-content/uploads/2025/04/zwaluw6-1-300x225.jpg" alt="" width="371" height="278" srcset="https://bocholt.be/wp-content/uploads/2025/04/zwaluw6-1-300x225.jpg 300w, https://bocholt.be/wp-content/uploads/2025/04/zwaluw6-1-320x240.jpg 320w, https://bocholt.be/wp-content/uploads/2025/04/zwaluw6-1-600x450.jpg 600w, https://bocholt.be/wp-content/uploads/2025/04/zwaluw6-1-393x295.jpg 393w, https://bocholt.be/wp-content/uploads/2025/04/zwaluw6-1-290x218.jpg 290w, https://bocholt.be/wp-content/uploads/2025/04/zwaluw6-1.jpg 640w" sizes="(max-width: 371px) 100vw, 371px" /></li>
+<li>middelgrote zwaluwkolonie (4 of 5 nesten): € 40,00 per jaar</li>
+<li>grote zwaluwkolonie (6 of meer nesten): € 50,00 per jaar</li>
+<li>grote kolonie huiszwaluwen (10 of meer nesten): € 65,00 per jaar</li>
+</ul>
+<p>Voor meer info en het indienen van de aanvraag: <a href="https://bocholt.be/inwoner/milieu-en-afval/subsidies-milieu/help-onze-zwaluwen/">Subsidie – Help onze Zwaluwen – Gemeente Bocholt</a></p>
+<p>&nbsp;</p>
+<div id="attachment_35579" style="width: 386px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-35579" class="wp-image-35579" src="https://bocholt.be/wp-content/uploads/2025/04/boerenzwaluw.jpg" alt="" width="376" height="282" srcset="https://bocholt.be/wp-content/uploads/2025/04/boerenzwaluw.jpg 259w, https://bocholt.be/wp-content/uploads/2025/04/boerenzwaluw-129x97.jpg 129w" sizes="(max-width: 376px) 100vw, 376px" /><p id="caption-attachment-35579" class="wp-caption-text">Boerenzwaluw</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35577</post-id>	</item>
+		<item>
+		<title>Zomeruurregeling van kracht op het recyclagepark</title>
+		<link>https://bocholt.be/2025/03/25/zomeruurregeling-van-kracht-op-het-recyclagepark/</link>
+		
+		<dc:creator><![CDATA[Koen Nijsen]]></dc:creator>
+		<pubDate>Tue, 25 Mar 2025 15:51:53 +0000</pubDate>
+				<category><![CDATA[Milieudienst]]></category>
+		<guid isPermaLink="false">https://bocholt.be/?p=35447</guid>
+
+					<description><![CDATA[Vanaf dinsdag 1 april 2025 gaat de zomeruurregeling in op het recyclagepark. Vanaf nu tot en met zaterdag 25 oktober 2025 kan jij op volgende tijdstippen jouw afval naar het park brengen: Maandag Gesloten Gesloten Dinsdag 9u00 tot 12u30 13u00 tot 18u00 Woensdag 9u00 tot 12u30 13u00 tot 17u00 Donderdag 9u00 tot 12u30 13u00 tot [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Vanaf dinsdag 1 april 2025</strong> gaat de zomeruurregeling in op het recyclagepark. Vanaf nu tot en met zaterdag 25 oktober 2025 kan jij op volgende tijdstippen jouw afval naar het park brengen:</p>
+<table>
+<tbody>
+<tr>
+<td width="132">Maandag</td>
+<td width="189">Gesloten</td>
+<td width="198">Gesloten</td>
+</tr>
+<tr>
+<td width="132">Dinsdag</td>
+<td width="189">9u00 tot 12u30</td>
+<td width="198">13u00 tot 18u00</td>
+</tr>
+<tr>
+<td width="132">Woensdag</td>
+<td width="189">9u00 tot 12u30</td>
+<td width="198">13u00 tot 17u00</td>
+</tr>
+<tr>
+<td width="132">Donderdag</td>
+<td width="189">9u00 tot 12u30</td>
+<td width="198">13u00 tot 17u00</td>
+</tr>
+<tr>
+<td width="132">Vrijdag</td>
+<td width="189">9u00 tot 12u30</td>
+<td width="198">13u00 tot 17u00</td>
+</tr>
+<tr>
+<td width="132">Zaterdag</td>
+<td width="189">9u00 tot 12u30</td>
+<td width="198">13u00 tot 16u00</td>
+</tr>
+</tbody>
 </table>
-      </p>
-      ]]></content:encoded>
-    </item>
-
-  </channel>
+<p>&nbsp;</p>
+<p>Ten opzichte van de winteruurregeling is het park op dinsdag open tot 18u00. Op de andere weekdagen sluit het park om 17u00. Op zaterdag sluit het park om 16u00.</p>
+<p>Het park is gesloten op maandag, zondag en op volgende feestdagen in 2025 tijdens de zomeruurregeling: donderdag 1 mei (Feest van de arbeid), donderdag 29 mei (O.L.H. Hemelvaart), vrijdag 15 augustus (O.L.V. Hemelvaart).</p>
+<p>De recyclageparken van Limburg.net zijn open op vrijdag 30 mei en vrijdag 11 juli.</p>
+<p>Voor meer info kan je terecht bij Limburg.net:</p>
+<p>tel. 0800 90 720</p>
+<p>e-mail: <a href="mailto:info@limburg.net">info@limburg.net</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">35447</post-id>	</item>
+	</channel>
 </rss>
