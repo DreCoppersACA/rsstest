@@ -81,6 +81,713 @@
         <p>한국어 테스트: 안녕하세요, 세계!</p>
         <p>Emojis: 😀🎉✨🚀💻📚🍕</p>
         <p>RTL: שלום עולם (Hebrew), مرحبا بالعالم (Arabic)</p>
+           <p><table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+ <thead>
+  <tr style="background-color: #f2f2f2;">
+   <th>
+    Categorie
+   </th>
+   <th>
+    Teken
+   </th>
+   <th>
+    HTML-entiteit
+   </th>
+   <th>
+    Voorbeeldzin
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    HTML Gereserveerde Tekens
+   </td>
+   <td>
+    "
+   </td>
+   <td>
+    "
+   </td>
+   <td>
+    Ze zei: "Hallo!"
+   </td>
+  </tr>
+  <tr>
+   <td>
+    HTML Gereserveerde Tekens
+   </td>
+   <td>
+    '
+   </td>
+   <td>
+    '
+   </td>
+   <td>
+    Het is John's boek.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    HTML Gereserveerde Tekens
+   </td>
+   <td>
+    &amp;
+   </td>
+   <td>
+    &amp;
+   </td>
+   <td>
+    Tom &amp; Jerry zijn bekende personages.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    HTML Gereserveerde Tekens
+   </td>
+   <td>
+    &lt;
+   </td>
+   <td>
+    &lt;
+   </td>
+   <td>
+    Gebruik &lt;em&gt; voor nadruk.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    HTML Gereserveerde Tekens
+   </td>
+   <td>
+    &gt;
+   </td>
+   <td>
+    &gt;
+   </td>
+   <td>
+    x &gt; y betekent x is groter dan y.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    Œ
+   </td>
+   <td>
+    Œ
+   </td>
+   <td>
+    Het woord Œuvre betekent werk.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    œ
+   </td>
+   <td>
+    œ
+   </td>
+   <td>
+    Het Franse woord cœur betekent hart.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    Š
+   </td>
+   <td>
+    Š
+   </td>
+   <td>
+    De naam Šimon komt voor in Oost-Europa.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    š
+   </td>
+   <td>
+    š
+   </td>
+   <td>
+    Het Tsjechische woord škol betekent school.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    Ÿ
+   </td>
+   <td>
+    Ÿ
+   </td>
+   <td>
+    De naam Ÿvette is Frans.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ƒ
+   </td>
+   <td>
+    ƒ
+   </td>
+   <td>
+    De functie f(x) wordt aangeduid met ƒ(x).
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ˆ
+   </td>
+   <td>
+    ˆ
+   </td>
+   <td>
+    De letter â heeft een ˆ boven de a.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ˜
+   </td>
+   <td>
+    ˜
+   </td>
+   <td>
+    Het Spaanse woord año bevat een ˜ boven de n.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    –
+   </td>
+   <td>
+    –
+   </td>
+   <td>
+    De periode 2020–2025 was belangrijk.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    —
+   </td>
+   <td>
+    —
+   </td>
+   <td>
+    Hij kwam laat—zoals gewoonlijk.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ‘
+   </td>
+   <td>
+    ‘
+   </td>
+   <td>
+    Het woord ‘voorbeeld’ is duidelijk.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ’
+   </td>
+   <td>
+    ’
+   </td>
+   <td>
+    Dat is John’s auto.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    “
+   </td>
+   <td>
+    “
+   </td>
+   <td>
+    Ze zei: “Hallo!”
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ”
+   </td>
+   <td>
+    ”
+   </td>
+   <td>
+    Ze zei: “Hallo!”
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    …
+   </td>
+   <td>
+    …
+   </td>
+   <td>
+    Hij dacht na…
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    †
+   </td>
+   <td>
+    †
+   </td>
+   <td>
+    Het symbool † duidt een voetnoot aan.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ‡
+   </td>
+   <td>
+    ‡
+   </td>
+   <td>
+    Het symbool ‡ duidt een tweede voetnoot aan.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    •
+   </td>
+   <td>
+    •
+   </td>
+   <td>
+    Een opsomming begint met een •.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ‰
+   </td>
+   <td>
+    ‰
+   </td>
+   <td>
+    De rente is 5‰.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ′
+   </td>
+   <td>
+    ′
+   </td>
+   <td>
+    5′ betekent 5 minuten.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ″
+   </td>
+   <td>
+    ″
+   </td>
+   <td>
+    5″ betekent 5 seconden.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    €
+   </td>
+   <td>
+    €
+   </td>
+   <td>
+    De prijs is 50 €.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ™
+   </td>
+   <td>
+    ™
+   </td>
+   <td>
+    Het logo is een geregistreerd ™.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ←
+   </td>
+   <td>
+    ←
+   </td>
+   <td>
+    De pijl wijst naar links ←.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    →
+   </td>
+   <td>
+    →
+   </td>
+   <td>
+    De pijl wijst naar rechts →.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ↑
+   </td>
+   <td>
+    ↑
+   </td>
+   <td>
+    De pijl wijst naar boven ↑.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ↓
+   </td>
+   <td>
+    ↓
+   </td>
+   <td>
+    De pijl wijst naar beneden ↓.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Algemene HTML-symbolen
+   </td>
+   <td>
+    ↔
+   </td>
+   <td>
+    ↔
+   </td>
+   <td>
+    De pijl wijst beide kanten op ↔.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ∞
+   </td>
+   <td>
+    ∞
+   </td>
+   <td>
+    De limiet is ∞.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ≤
+   </td>
+   <td>
+    ≤
+   </td>
+   <td>
+    x ≤ y
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ≥
+   </td>
+   <td>
+    ≥
+   </td>
+   <td>
+    x ≥ y
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ≠
+   </td>
+   <td>
+    ≠
+   </td>
+   <td>
+    5 ≠ 3
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ≈
+   </td>
+   <td>
+    ≈
+   </td>
+   <td>
+    π ≈ 3.14
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ⊂
+   </td>
+   <td>
+    ⊂
+   </td>
+   <td>
+    A ⊂ B
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ⊃
+   </td>
+   <td>
+    ⊃
+   </td>
+   <td>
+    B ⊃ A
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ⊆
+   </td>
+   <td>
+    ⊆
+   </td>
+   <td>
+    A ⊆ B
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ⊇
+   </td>
+   <td>
+    ⊇
+   </td>
+   <td>
+    A ⊇ B
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ∈
+   </td>
+   <td>
+    ∈
+   </td>
+   <td>
+    3 ∈ {1,2,3}
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ∉
+   </td>
+   <td>
+    ∉
+   </td>
+   <td>
+    4 ∉ {1,2,3}
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ∪
+   </td>
+   <td>
+    ∪
+   </td>
+   <td>
+    A ∪ B
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ∩
+   </td>
+   <td>
+    ∩
+   </td>
+   <td>
+    A ∩ B
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ∑
+   </td>
+   <td>
+    ∑
+   </td>
+   <td>
+    ∑_{i=1}^{n} i = n(n+1)/2
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    √
+   </td>
+   <td>
+    √
+   </td>
+   <td>
+    √9 = 3
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Wiskundige Symbolen
+   </td>
+   <td>
+    ∫
+   </td>
+   <td>
+    ∫
+   </td>
+   <td>
+    ∫ x dx = x²/2 + C
+   </td>
+  </tr>
+ </tbody>
+</table>
+      </p>
       ]]></content:encoded>
     </item>
 
