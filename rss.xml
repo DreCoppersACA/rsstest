@@ -12,7 +12,6 @@
       <description><![CDATA[This is a short summary of the article.]]></description>
       <guid isPermaLink="false">example.com-12345</guid>
       <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
-      <atom:updated>2024-12-02T08:42:00+01:00</atom:updated>
       <enclosure
         url="https://example.com/images/article-image.jpg"
         type="image/jpeg"
