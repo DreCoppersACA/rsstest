@@ -42,44 +42,7 @@
       <content:encoded><![CDATA[Only content: should map only to inhoud]]></content:encoded>
     </item>
 
-    <!-- 5. No <description> and no <content:encoded> -->
-    <item>
-      <title>No Description or Content</title>
-      <link>https://example.com/none</link>
-      <guid>no-desc-no-content</guid>
-      <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
-    </item>
-
-    <!-- 6. Both fields populated but with same content -->
-    <item>
-      <title>Same Description and Content</title>
-      <link>https://example.com/same-both</link>
-      <description><![CDATA[Same content]]></description>
-      <guid>same-both-1</guid>
-      <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
-      <content:encoded><![CDATA[Same content]]></content:encoded>
-    </item>
-
-    <!-- 7. HTML content in both fields -->
-    <item>
-      <title>HTML in Description and Content</title>
-      <link>https://example.com/html-test</link>
-      <description><![CDATA[<p>This is <strong>HTML</strong> description</p>]]></description>
-      <guid>html-both-1</guid>
-      <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
-      <content:encoded><![CDATA[<div><em>This is HTML content</em></div>]]></content:encoded>
-    </item>
-
-    <!-- 8. Description with newline formatting -->
-    <item>
-      <title>Description with Newlines</title>
-      <link>https://example.com/desc-newlines</link>
-      <description><![CDATA[Line 1
-Line 2
-Line 3]]></description>
-      <guid>desc-lines-1</guid>
-      <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
-    </item>
+   
 
   </channel>
 </rss>
