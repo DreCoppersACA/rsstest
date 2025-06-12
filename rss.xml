@@ -1,36 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Test Feed</title>
     <link>https://example.com</link>
     <description>Test feed description</description>
 
-    <!-- RSS 2.0 Test Item -->
+    <!-- 1. RSS 2.0 item with only <description> -->
     <item>
-      <title>RSS 2.0 Test Article</title>
-      <link>https://example.com/rss-test</link>
-      <description><![CDATA[This is the RSS 2.0 description that should map to both samenvatting and inhoud]]></description>
-      <guid isPermaLink="false">rss-test-1</guid>
+      <title>RSS Only Description</title>
+      <link>https://example.com/rss-only-desc</link>
+      <description><![CDATA[RSS-only: maps to both samenvatting and inhoud]]></description>
+      <guid>rss-desc-1</guid>
       <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
     </item>
 
-    <!-- ATOM Test Item -->
+    <!-- 2. Atom-style with both <description> and <content:encoded> -->
     <item>
-      <title>ATOM Test Article</title>
-      <link>https://example.com/atom-test</link>
-      <description><![CDATA[This is the ATOM description that should map to samenvatting]]></description>
-      <guid isPermaLink="false">atom-test-1</guid>
+      <title>Atom Description and Content</title>
+      <link>https://example.com/atom-full</link>
+      <description><![CDATA[Atom: maps to samenvatting only]]></description>
+      <guid>atom-full-1</guid>
       <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
-      <content:encoded><![CDATA[This is the ATOM content:encoded that should map to inhoud]]></content:encoded>
+      <content:encoded><![CDATA[Atom content: maps to inhoud only]]></content:encoded>
     </item>
 
-    <!-- ATOM Test Item without content:encoded -->
+    <!-- 3. Atom-style with <description>, no <content:encoded> -->
     <item>
-      <title>ATOM Test Article Without Content</title>
-      <link>https://example.com/atom-test-no-content</link>
-      <description><![CDATA[This is the ATOM description that should map to both samenvatting and inhoud (fallback)]]></description>
-      <guid isPermaLink="false">atom-test-2</guid>
+      <title>Atom Fallback to Description</title>
+      <link>https://example.com/atom-desc-fallback</link>
+      <description><![CDATA[Fallback description: maps to both samenvatting and inhoud]]></description>
+      <guid>atom-desc-fallback-1</guid>
       <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
     </item>
+
+    <!-- 4. Atom-style with empty <description> and valid <content:encoded> -->
+    <item>
+      <title>Empty Description, Only Content</title>
+      <link>https://example.com/only-content</link>
+      <description><![CDATA[]]></description>
+      <guid>atom-content-1</guid>
+      <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
+      <content:encoded><![CDATA[Only content: should map only to inhoud]]></content:encoded>
+    </item>
+
+    <!-- 5. No <description> and no <content:encoded> -->
+    <item>
+      <title>No Description or Content</title>
+      <link>https://example.com/none</link>
+      <guid>no-desc-no-content</guid>
+      <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
+    </item>
+
+    <!-- 6. Both fields populated but with same content -->
+    <item>
+      <title>Same Description and Content</title>
+      <link>https://example.com/same-both</link>
+      <description><![CDATA[Same content]]></description>
+      <guid>same-both-1</guid>
+      <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
+      <content:encoded><![CDATA[Same content]]></content:encoded>
+    </item>
+
+    <!-- 7. HTML content in both fields -->
+    <item>
+      <title>HTML in Description and Content</title>
+      <link>https://example.com/html-test</link>
+      <description><![CDATA[<p>This is <strong>HTML</strong> description</p>]]></description>
+      <guid>html-both-1</guid>
+      <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
+      <content:encoded><![CDATA[<div><em>This is HTML content</em></div>]]></content:encoded>
+    </item>
+
+    <!-- 8. Description with newline formatting -->
+    <item>
+      <title>Description with Newlines</title>
+      <link>https://example.com/desc-newlines</link>
+      <description><![CDATA[Line 1
+Line 2
+Line 3]]></description>
+      <guid>desc-lines-1</guid>
+      <pubDate>Wed, 14 May 2025 11:30:00 +0000</pubDate>
+    </item>
+
   </channel>
 </rss>
