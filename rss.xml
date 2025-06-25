@@ -46,236 +46,55 @@
     <item>
       <title>HTML Comprehensive Test</title>
       <link>https://example.com/html-test</link>
-      <description><![CDATA[
-        <!-- Semantic Structure -->
-        <header>
-          <h1>Heading Level 1</h1>
-          <nav>
-            <ul>
-              <li><a href="#section1">Section 1</a></li>
-              <li><a href="#section2">Section 2</a></li>
-              <li><a href="#section3">Section 3</a></li>
-            </ul>
-          </nav>
-        </header>
-
-        <section id="section1">
-          <h2>Section 1</h2>
-          <p>This is a <em>paragraph</em> with <strong>bold</strong>, <small>small text</small>, <sub>subscript</sub>, <sup>superscript</sup>, and a line break.<br/>New line here.</p>
-          <blockquote cite="https://example.com">
-            <p>Blockquote example with a citation.</p>
-          </blockquote>
-        </section>
-
-        <section id="section2">
-          <h2>Section 2</h2>
-          <!-- Lists -->
-          <ul>
-            <li>Unordered Item 1</li>
-            <li>Unordered Item 2
-              <ol>
-                <li>Nested Ordered 1</li>
-                <li>Nested Ordered 2</li>
-              </ol>
-            </li>
-          </ul>
-          <ol>
-            <li>Ordered Item 1</li>
-            <li>Ordered Item 2</li>
-          </ol>
-
-          <!-- Table -->
-          <table border="1">
-            <caption>Sample Table</caption>
-            <thead>
-              <tr><th>Header 1</th><th>Header 2</th></tr>
-            </thead>
-            <tbody>
-              <tr><td>Data 1</td><td>Data 2</td></tr>
-              <tr><td>Data 3</td><td>Data 4</td></tr>
-            </tbody>
-            <tfoot>
-              <tr><td colspan="2">Footer</td></tr>
-            </tfoot>
-          </table>
-        </section>
-
-        <section id="section3">
-          <h2>Section 3: Media & Interactive</h2>
-          <!-- Images and Figures -->
-          <figure>
-            <img src="https://example.com/image.jpg" alt="Example Image" width="200" height="150"/>
-            <figcaption>Figure caption text.</figcaption>
-          </figure>
-
-          <!-- Video & Audio -->
-          <video controls width="300">
-            <source src="https://example.com/video.mp4" type="video/mp4"/>
-            Your browser does not support the video tag.
-          </video>
-          <audio controls>
-            <source src="https://example.com/audio.mp3" type="audio/mpeg"/>
-            Your browser does not support the audio element.
-          </audio>
-
-          <!-- Canvas and SVG -->
-          <canvas id="testCanvas" width="200" height="100">Canvas not supported.</canvas>
-          <svg width="100" height="100">
-            <circle cx="50" cy="50" r="40" stroke="black" stroke-width="2" fill="red"/>
-          </svg>
-
-          <!-- Form Elements -->
-          <form action="/submit" method="post">
-            <label for="text">Text:</label>
-            <input type="text" id="text" name="text" value="Sample"/><br/>
-            <label><input type="checkbox" name="chk" checked/> Checkbox</label><br/>
-            <label for="sel">Select:</label>
-            <select id="sel" name="sel">
-              <option value="one">One</option>
-              <option value="two">Two</option>
-            </select><br/>
-            <label for="msg">Message:</label><br/>
-            <textarea id="msg" name="msg">Textarea content</textarea><br/>
-            <button type="submit">Submit</button>
-          </form>
-
-          <!-- Inline Code & Preformatted -->
-          <p>Inline code: <code>console.log("Hello!")</code></p>
-          <pre>
-function hello() {
-  return "Preformatted text";
-}
-          </pre>
-
-          <hr/>
-
-          <!-- Metadata & Misc -->
-          <time datetime="2025-06-25T12:00:00Z">June 25, 2025</time>
-          <mark>Highlighted text</mark>
-          <del>Deleted text</del>
-          <ins>Inserted text</ins>
-        </section>
-
-        <footer>
-          <p>&copy; 2025 Example Corp.</p>
-        </footer>
-      ]]></description>
+      <description><![CDATA[<h3>&nbsp;</h3>
+<p><strong>Zet de eerste stap naar een gezonder en actiever leven!</strong></p>
+<p>Wil je graag <strong>meer bewegen</strong>, maar weet je niet goed <strong>hoe te beginnen</strong>?<br data-start="466" data-end="469"><strong>Bewegen Op Verwijzing (BOV)</strong> helpt je op weg met persoonlijke begeleiding aangepast aan jouw dagelijks ritme.</p>
+<h4>Wat is BOV?</h4>
+<p>Bewegen Op Verwijzing is een initiatief waarbij je, op basis van een verwijsbrief van je <strong>arts, kinesist, apotheker of andere zorgverlener</strong>, aan de slag gaat met een professionele <strong>BOV-coach</strong>.</p>
+<p>In jouw regio:<br data-start="825" data-end="828">Vanaf <strong>1 januari 2025</strong> kan je terecht bij <strong>coach Olivier Van den Rul</strong> in <strong>LDC De Klapstoel</strong>.</p>
+<h4>Wat mag je verwachten?</h4>
+<ul>
+<li>
+<p>Een <strong>persoonlijk beweegplan</strong>, op maat van jouw leven</p>
+</li>
+<li>
+<p><strong>Motiverende begeleiding</strong> en ondersteuning</p>
+</li>
+<li>
+<p>Zowel <strong>individuele sessies</strong> als <strong>groepsmomenten</strong></p>
+</li>
+</ul>
+<h4>Wat kost het?</h4>
+<p>Begeleiding is <strong>betaalbaar voor iedereen</strong>:</p>
+<table width="100%">
+<thead>
+<tr>
+<th>Soort begeleiding</th>
+<th>Standaardtarief</th>
+<th>Met verhoogde tegemoetkoming</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Individueel</td>
+<td>€5</td>
+<td>€1</td>
+</tr>
+<tr>
+<td>In groep</td>
+<td>€1</td>
+<td>€0,50</td>
+</tr>
+</tbody>
+</table>
+<blockquote data-start="1485" data-end="1555">
+<p><strong>Vergeet je klevertje van het ziekenfonds niet mee te brengen!</strong></p>
+</blockquote>
+<h4>Meer info?</h4>
+<p>Twijfel je of heb je vragen?<br data-start="1609" data-end="1612">Vraag gerust meer uitleg aan je&nbsp;<strong>ziekenfonds</strong> of neem <strong>rechtstreeks contact met ons op</strong>.</p>]]></description>
       <guid>html-test-1</guid>
       <pubDate>Wed, 25 Jun 2025 12:00:00 +0000</pubDate>
-      <content:encoded><![CDATA[
-        <!-- Semantic Structure -->
-        <header>
-          <h1>Heading Level 1</h1>
-          <nav>
-            <ul>
-              <li><a href="#section1">Section 1</a></li>
-              <li><a href="#section2">Section 2</a></li>
-              <li><a href="#section3">Section 3</a></li>
-            </ul>
-          </nav>
-        </header>
-
-        <section id="section1">
-          <h2>Section 1</h2>
-          <p>This is a <em>paragraph</em> with <strong>bold</strong>, <small>small text</small>, <sub>subscript</sub>, <sup>superscript</sup>, and a line break.<br/>New line here.</p>
-          <blockquote cite="https://example.com">
-            <p>Blockquote example with a citation.</p>
-          </blockquote>
-        </section>
-
-        <section id="section2">
-          <h2>Section 2</h2>
-          <!-- Lists -->
-          <ul>
-            <li>Unordered Item 1</li>
-            <li>Unordered Item 2
-              <ol>
-                <li>Nested Ordered 1</li>
-                <li>Nested Ordered 2</li>
-              </ol>
-            </li>
-          </ul>
-          <ol>
-            <li>Ordered Item 1</li>
-            <li>Ordered Item 2</li>
-          </ol>
-
-          <!-- Table -->
-          <table border="1">
-            <caption>Sample Table</caption>
-            <thead>
-              <tr><th>Header 1</th><th>Header 2</th></tr>
-            </thead>
-            <tbody>
-              <tr><td>Data 1</td><td>Data 2</td></tr>
-              <tr><td>Data 3</td><td>Data 4</td></tr>
-            </tbody>
-            <tfoot>
-              <tr><td colspan="2">Footer</td></tr>
-            </tfoot>
-          </table>
-        </section>
-
-        <section id="section3">
-          <h2>Section 3: Media & Interactive</h2>
-          <!-- Images and Figures -->
-          <figure>
-            <img src="https://example.com/image.jpg" alt="Example Image" width="200" height="150"/>
-            <figcaption>Figure caption text.</figcaption>
-          </figure>
-
-          <!-- Video & Audio -->
-          <video controls width="300">
-            <source src="https://example.com/video.mp4" type="video/mp4"/>
-            Your browser does not support the video tag.
-          </video>
-          <audio controls>
-            <source src="https://example.com/audio.mp3" type="audio/mpeg"/>
-            Your browser does not support the audio element.
-          </audio>
-
-          <!-- Canvas and SVG -->
-          <canvas id="testCanvas" width="200" height="100">Canvas not supported.</canvas>
-          <svg width="100" height="100">
-            <circle cx="50" cy="50" r="40" stroke="black" stroke-width="2" fill="red"/>
-          </svg>
-
-          <!-- Form Elements -->
-          <form action="/submit" method="post">
-            <label for="text">Text:</label>
-            <input type="text" id="text" name="text" value="Sample"/><br/>
-            <label><input type="checkbox" name="chk" checked/> Checkbox</label><br/>
-            <label for="sel">Select:</label>
-            <select id="sel" name="sel">
-              <option value="one">One</option>
-              <option value="two">Two</option>
-            </select><br/>
-            <label for="msg">Message:</label><br/>
-            <textarea id="msg" name="msg">Textarea content</textarea><br/>
-            <button type="submit">Submit</button>
-          </form>
-
-          <!-- Inline Code & Preformatted -->
-          <p>Inline code: <code>console.log("Hello!")</code></p>
-          <pre>
-function hello() {
-  return "Preformatted text";
-}
-          </pre>
-
-          <hr/>
-
-          <!-- Metadata & Misc -->
-          <time datetime="2025-06-25T12:00:00Z">June 25, 2025</time>
-          <mark>Highlighted text</mark>
-          <del>Deleted text</del>
-          <ins>Inserted text</ins>
-        </section>
-
-        <footer>
-          <p>&copy; 2025 Example Corp.</p>
-        </footer>
-      ]]></content:encoded>
+      <content:encoded></content:encoded>
     </item>
 
   </channel>
