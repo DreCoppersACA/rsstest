@@ -5,92 +5,224 @@
     <link>https://example.com</link>
     <description>Test feed description</description>
     <language>nl-BE</language>
-    <pubDate>Thu, 18 Sep 2025 09:00:00 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Sep 2025 09:00:00 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 09:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Sep 2025 09:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
 
-    <!-- 1. RSS 2.0 item with only <description> -->
+    <!-- Items generated across past 24h and next 24h -->
+
     <item>
       <title>RSS Only Description</title>
       <link>https://example.com/rss-only-desc</link>
       <description><![CDATA[RSS-only: maps to both samenvatting and inhoud]]></description>
       <guid isPermaLink="false">rss-desc-1</guid>
-      <pubDate>Thu, 18 Sep 2025 08:45:00 +0000</pubDate>
+      <pubDate>Wed, 24 Sep 2025 10:00:00 +0000</pubDate>
     </item>
 
-    <!-- 2. Atom-style with both <description> and <content:encoded> -->
     <item>
       <title>Atom Description and Content</title>
       <link>https://example.com/atom-full</link>
       <description><![CDATA[Atom: maps to samenvatting only]]></description>
       <guid isPermaLink="false">atom-full-1</guid>
-      <pubDate>Thu, 18 Sep 2025 08:30:00 +0000</pubDate>
+      <pubDate>Wed, 24 Sep 2025 11:00:00 +0000</pubDate>
       <content:encoded><![CDATA[Atom content: maps to inhoud only]]></content:encoded>
     </item>
 
-    <!-- 3. Atom-style with <description>, no <content:encoded> -->
     <item>
       <title>Atom Fallback to Description</title>
       <link>https://example.com/atom-desc-fallback</link>
       <description><![CDATA[Fallback description: maps to both samenvatting and inhoud]]></description>
       <guid isPermaLink="false">atom-desc-fallback-1</guid>
-      <pubDate>Thu, 18 Sep 2025 08:15:00 +0000</pubDate>
+      <pubDate>Wed, 24 Sep 2025 12:00:00 +0000</pubDate>
     </item>
 
-    <!-- 4. Atom-style with empty <description> and valid <content:encoded> -->
     <item>
       <title>Empty Description, Only Content</title>
       <link>https://example.com/only-content</link>
       <description><![CDATA[ ]]> </description>
       <guid isPermaLink="false">atom-content-1</guid>
-      <pubDate>Thu, 18 Sep 2025 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Sep 2025 13:00:00 +0000</pubDate>
       <content:encoded><![CDATA[Only content: should map only to inhoud]]></content:encoded>
     </item>
 
-    <!-- 5. HTML Test Item with all possible HTML elements -->
     <item>
       <title>HTML Comprehensive Test</title>
       <link>https://example.com/html-test</link>
       <description><![CDATA[
-<h3>&nbsp;</h3>
-<p><strong>Zet de eerste stap naar een gezonder en actiever leven!</strong></p>
-<p>Wil je graag <strong>meer bewegen</strong>, maar weet je niet goed <strong>hoe te beginnen</strong>?<br><strong>Bewegen Op Verwijzing (BOV)</strong> helpt je op weg met persoonlijke begeleiding aangepast aan jouw dagelijks ritme.</p>
-<h4>Wat is BOV?</h4>
-<p>Bewegen Op Verwijzing is een initiatief waarbij je, op basis van een verwijsbrief van je <strong>arts, kinesist, apotheker of andere zorgverlener</strong>, aan de slag gaat met een professionele <strong>BOV-coach</strong>.</p>
-<p>In jouw regio: Vanaf <strong>1 januari 2025</strong> kan je terecht bij <strong>coach Olivier Van den Rul</strong> in <strong>LDC De Klapstoel</strong>.</p>
-<h4>Wat mag je verwachten?</h4>
-<ul>
-<li>Een <strong>persoonlijk beweegplan</strong>, op maat van jouw leven</li>
-<li><strong>Motiverende begeleiding</strong> en ondersteuning</li>
-<li>Zowel <strong>individuele sessies</strong> als <strong>groepsmomenten</strong></li>
-</ul>
-<h4>Wat kost het?</h4>
-<p>Begeleiding is <strong>betaalbaar voor iedereen</strong>:</p>
-<table width="100%">
-<thead>
-<tr><th>Soort begeleiding</th><th>Standaardtarief</th><th>Met verhoogde tegemoetkoming</th></tr>
-</thead>
-<tbody>
-<tr><td>Individueel</td><td>€5</td><td>€1</td></tr>
-<tr><td>In groep</td><td>€1</td><td>€0,50</td></tr>
-</tbody>
-</table>
-<blockquote><p><strong>Vergeet je klevertje van het ziekenfonds niet mee te brengen!</strong></p></blockquote>
-<h4>Meer info?</h4>
-<p>Twijfel je of heb je vragen? Vraag gerust meer uitleg aan je <strong>ziekenfonds</strong> of neem <strong>rechtstreeks contact met ons op</strong>.</p>
-<p>Vanaf 12 juni 2025 worden de nieuwe verkeerslichten aan het kruispunt Hermeslaan – Mercuriuslaan in gebruik genomen. Deze aanpassing maakt deel uit van de fietssnelweg F75 Kolenspoor, een project van de provincie Limburg en de 7 kolenspoorgemeenten.</p>
-<p><strong>De nieuwe lichten zorgen voor conflictvrij verkeer:</strong></p>
-<ul>
-<li>Fietsers krijgen groen licht op aanvraag, zodat zij veilig kunnen oversteken.</li>
-<li>Ook gemotoriseerd verkeer vanuit de Mercuriuslaan kan voortaan vlot en veilig de Hermeslaan oprijden.</li>
-</ul>
-<p>De groentijden voor auto’s zijn ingesteld op basis van verkeerstellingen, wat onder normale omstandigheden moet zorgen voor een goede doorstroming.</p>
-<p><strong>Houd rekening met aanpassingstijd</strong><br />In de eerste dagen na de ingebruikname kunnen er mogelijks langere wachttijden ontstaan. We vragen je om wat geduld te hebben terwijl de nieuwe regeling zich in de praktijk settelt. De betrokken diensten van stad Genk volgen de situatie op en voeren observaties uit.</p>
-<p>Blijft de hinder aanhouden na deze gewenningsperiode? Dan kan je dit melden via: <a href="https://www.genk.be/meldingen-verkeer-en-mobiliteit" target="_blank" rel="noopener">www.genk.be/meldingen-verkeer-en-mobiliteit</a></p>
+        <h3>Nieuws update</h3>
+        <p><strong>Zet de eerste stap naar een gezonder en actiever leven!</strong></p>
+        <p>Meer details volgen binnenkort.</p>
       ]]></description>
       <guid isPermaLink="false">html-test-1</guid>
-      <pubDate>Thu, 18 Sep 2025 07:45:00 +0000</pubDate>
+      <pubDate>Wed, 24 Sep 2025 14:00:00 +0000</pubDate>
       <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+
+    <!-- Now add ~20 more items, varied -->
+
+    <item>
+      <title>Breaking News 1</title>
+      <link>https://example.com/breaking-1</link>
+      <description><![CDATA[This is a breaking update with plain text only.]]></description>
+      <guid isPermaLink="false">breaking-1</guid>
+      <pubDate>Wed, 24 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Breaking News 2 with Content</title>
+      <link>https://example.com/breaking-2</link>
+      <description><![CDATA[Short summary only.]]></description>
+      <guid isPermaLink="false">breaking-2</guid>
+      <pubDate>Wed, 24 Sep 2025 16:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[Full article content goes here, longer body text.]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Event Reminder</title>
+      <link>https://example.com/event</link>
+      <description><![CDATA[Reminder: Online info session tonight at 19:00.]]></description>
+      <guid isPermaLink="false">event-1</guid>
+      <pubDate>Wed, 24 Sep 2025 17:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Workshop Announcement</title>
+      <link>https://example.com/workshop</link>
+      <description><![CDATA[New workshop on retail design announced.]]></description>
+      <guid isPermaLink="false">workshop-1</guid>
+      <pubDate>Wed, 24 Sep 2025 18:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[Full details of the workshop agenda, speaker bios, and registration link.]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Evening Update</title>
+      <link>https://example.com/evening</link>
+      <description><![CDATA[Daily summary of important headlines.]]></description>
+      <guid isPermaLink="false">evening-1</guid>
+      <pubDate>Wed, 24 Sep 2025 19:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Morning Alert</title>
+      <link>https://example.com/morning</link>
+      <description><![CDATA[Early morning system maintenance notice.]]></description>
+      <guid isPermaLink="false">morning-1</guid>
+      <pubDate>Thu, 25 Sep 2025 06:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Policy Update</title>
+      <link>https://example.com/policy</link>
+      <description><![CDATA[New policy rules effective from next month.]]></description>
+      <guid isPermaLink="false">policy-1</guid>
+      <pubDate>Thu, 25 Sep 2025 07:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Tech Release</title>
+      <link>https://example.com/release</link>
+      <description><![CDATA[Software version 2.0 released today.]]></description>
+      <guid isPermaLink="false">release-1</guid>
+      <pubDate>Thu, 25 Sep 2025 08:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[Release notes: bug fixes, new features, and improvements.]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Local Event</title>
+      <link>https://example.com/local</link>
+      <description><![CDATA[Community market opens at 10:00 today.]]></description>
+      <guid isPermaLink="false">local-1</guid>
+      <pubDate>Thu, 25 Sep 2025 09:30:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>News Digest</title>
+      <link>https://example.com/digest</link>
+      <description><![CDATA[Compact overview of international news.]]></description>
+      <guid isPermaLink="false">digest-1</guid>
+      <pubDate>Thu, 25 Sep 2025 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Sports Update</title>
+      <link>https://example.com/sports</link>
+      <description><![CDATA[Latest scores and highlights from last night.]]></description>
+      <guid isPermaLink="false">sports-1</guid>
+      <pubDate>Thu, 25 Sep 2025 11:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Financial Report</title>
+      <link>https://example.com/finance</link>
+      <description><![CDATA[Quarterly numbers published by company X.]]></description>
+      <guid isPermaLink="false">finance-1</guid>
+      <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Press Release</title>
+      <link>https://example.com/press</link>
+      <description><![CDATA[Official press release regarding new partnership.]]></description>
+      <guid isPermaLink="false">press-1</guid>
+      <pubDate>Thu, 25 Sep 2025 13:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[Details about the collaboration, goals, and quotes from stakeholders.]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Conference Notice</title>
+      <link>https://example.com/conference</link>
+      <description><![CDATA[Reminder: Annual conference tomorrow morning.]]></description>
+      <guid isPermaLink="false">conf-1</guid>
+      <pubDate>Thu, 25 Sep 2025 14:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Webinar Signup</title>
+      <link>https://example.com/webinar</link>
+      <description><![CDATA[Register now for the upcoming online webinar.]]></description>
+      <guid isPermaLink="false">webinar-1</guid>
+      <pubDate>Thu, 25 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Evening Bulletin</title>
+      <link>https://example.com/bulletin</link>
+      <description><![CDATA[Evening bulletin: top 5 headlines.]]></description>
+      <guid isPermaLink="false">bulletin-1</guid>
+      <pubDate>Thu, 25 Sep 2025 18:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Weather Forecast</title>
+      <link>https://example.com/weather</link>
+      <description><![CDATA[Weather forecast for the upcoming weekend.]]></description>
+      <guid isPermaLink="false">weather-1</guid>
+      <pubDate>Thu, 25 Sep 2025 19:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Editorial</title>
+      <link>https://example.com/editorial</link>
+      <description><![CDATA[Opinion piece: trends in interior architecture.]]></description>
+      <guid isPermaLink="false">editorial-1</guid>
+      <pubDate>Thu, 25 Sep 2025 20:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[Longer editorial content goes here, multi-paragraph.]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Night Alert</title>
+      <link>https://example.com/night</link>
+      <description><![CDATA[Night-time traffic diversion in place.]]></description>
+      <guid isPermaLink="false">night-1</guid>
+      <pubDate>Thu, 25 Sep 2025 21:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Early Morning Preview</title>
+      <link>https://example.com/preview</link>
+      <description><![CDATA[Preview of tomorrow’s headlines.]]></description>
+      <guid isPermaLink="false">preview-1</guid>
+      <pubDate>Fri, 26 Sep 2025 06:00:00 +0000</pubDate>
     </item>
 
   </channel>
