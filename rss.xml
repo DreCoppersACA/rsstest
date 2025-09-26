@@ -8,245 +8,113 @@
     <pubDate>Thu, 25 Sep 2025 09:00:00 +0000</pubDate>
     <lastBuildDate>Thu, 25 Sep 2025 09:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
-
-    <!-- PAST 24h items (24 Sep 09:00 – 25 Sep 09:00) -->
-
-    <item>
-      <title>System Patch Released</title>
-      <link>https://example.com/patch</link>
-      <description><![CDATA[Security patch v1.4 applied yesterday morning.]]></description>
-      <guid isPermaLink="false">patch-1</guid>
-      <pubDate>Wed, 24 Sep 2025 09:00:00 +0000</pubDate>
-    </item>
+    <!-- NEXT 3h items (25 Sep 2025 15:00–18:00 GMT+2 = 13:00–16:00 UTC) -->
 
     <item>
-      <title>RSS Only Description</title>
-      <link>https://example.com/rss-only-desc</link>
-      <description><![CDATA[RSS-only: maps to both samenvatting and inhoud]]></description>
-      <guid isPermaLink="false">rss-desc-1</guid>
-      <pubDate>Wed, 24 Sep 2025 10:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Atom Description and Content</title>
-      <link>https://example.com/atom-full</link>
-      <description><![CDATA[Atom: maps to samenvatting only]]></description>
-      <guid isPermaLink="false">atom-full-1</guid>
-      <pubDate>Wed, 24 Sep 2025 11:00:00 +0000</pubDate>
-      <content:encoded><![CDATA[Atom content: maps to inhoud only]]></content:encoded>
-    </item>
-
-    <item>
-      <title>Atom Fallback to Description</title>
-      <link>https://example.com/atom-desc-fallback</link>
-      <description><![CDATA[Fallback description: maps to both samenvatting and inhoud]]></description>
-      <guid isPermaLink="false">atom-desc-fallback-1</guid>
-      <pubDate>Wed, 24 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Empty Description, Only Content</title>
-      <link>https://example.com/only-content</link>
-      <description><![CDATA[ ]]> </description>
-      <guid isPermaLink="false">atom-content-1</guid>
-      <pubDate>Wed, 24 Sep 2025 13:00:00 +0000</pubDate>
-      <content:encoded><![CDATA[Only content: should map only to inhoud]]></content:encoded>
-    </item>
-
-    <item>
-      <title>HTML Comprehensive Test</title>
-      <link>https://example.com/html-test</link>
-      <description><![CDATA[
-        <h3>Nieuws update</h3>
-        <p><strong>Zet de eerste stap naar een gezonder en actiever leven!</strong></p>
-        <p>Meer details volgen binnenkort.</p>
-      ]]></description>
-      <guid isPermaLink="false">html-test-1</guid>
-      <pubDate>Wed, 24 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Breaking News 1</title>
-      <link>https://example.com/breaking-1</link>
-      <description><![CDATA[This is a breaking update with plain text only.]]></description>
-      <guid isPermaLink="false">breaking-1</guid>
-      <pubDate>Wed, 24 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Breaking News 2 with Content</title>
-      <link>https://example.com/breaking-2</link>
-      <description><![CDATA[Short summary only.]]></description>
-      <guid isPermaLink="false">breaking-2</guid>
-      <pubDate>Wed, 24 Sep 2025 16:00:00 +0000</pubDate>
-      <content:encoded><![CDATA[Full article content goes here, longer body text.]]></content:encoded>
-    </item>
-
-    <item>
-      <title>Event Reminder</title>
-      <link>https://example.com/event</link>
-      <description><![CDATA[Reminder: Online info session tonight at 19:00.]]></description>
-      <guid isPermaLink="false">event-1</guid>
-      <pubDate>Wed, 24 Sep 2025 17:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Workshop Announcement</title>
-      <link>https://example.com/workshop</link>
-      <description><![CDATA[New workshop on retail design announced.]]></description>
-      <guid isPermaLink="false">workshop-1</guid>
-      <pubDate>Wed, 24 Sep 2025 18:00:00 +0000</pubDate>
-      <content:encoded><![CDATA[Full details of the workshop agenda, speaker bios, and registration link.]]></content:encoded>
-    </item>
-
-    <item>
-      <title>Evening Update</title>
-      <link>https://example.com/evening</link>
-      <description><![CDATA[Daily summary of important headlines.]]></description>
-      <guid isPermaLink="false">evening-1</guid>
-      <pubDate>Wed, 24 Sep 2025 19:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Late Night Alert</title>
-      <link>https://example.com/late</link>
-      <description><![CDATA[Unexpected downtime reported at 23:00 yesterday.]]></description>
-      <guid isPermaLink="false">late-1</guid>
-      <pubDate>Wed, 24 Sep 2025 23:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Morning Alert</title>
-      <link>https://example.com/morning</link>
-      <description><![CDATA[Early morning system maintenance notice.]]></description>
-      <guid isPermaLink="false">morning-1</guid>
-      <pubDate>Thu, 25 Sep 2025 06:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Policy Update</title>
-      <link>https://example.com/policy</link>
-      <description><![CDATA[New policy rules effective from next month.]]></description>
-      <guid isPermaLink="false">policy-1</guid>
-      <pubDate>Thu, 25 Sep 2025 07:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Tech Release</title>
-      <link>https://example.com/release</link>
-      <description><![CDATA[Software version 2.0 released today.]]></description>
-      <guid isPermaLink="false">release-1</guid>
-      <pubDate>Thu, 25 Sep 2025 08:00:00 +0000</pubDate>
-      <content:encoded><![CDATA[Release notes: bug fixes, new features, and improvements.]]></content:encoded>
-    </item>
-
-    <!-- FUTURE 24h items (25 Sep 09:30 – 26 Sep 09:00) -->
-
-    <item>
-      <title>Local Event</title>
-      <link>https://example.com/local</link>
-      <description><![CDATA[Community market opens at 10:00 today.]]></description>
-      <guid isPermaLink="false">local-1</guid>
-      <pubDate>Thu, 25 Sep 2025 09:30:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>News Digest</title>
-      <link>https://example.com/digest</link>
-      <description><![CDATA[Compact overview of international news.]]></description>
-      <guid isPermaLink="false">digest-1</guid>
-      <pubDate>Thu, 25 Sep 2025 10:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Sports Update</title>
-      <link>https://example.com/sports</link>
-      <description><![CDATA[Latest scores and highlights from last night.]]></description>
-      <guid isPermaLink="false">sports-1</guid>
-      <pubDate>Thu, 25 Sep 2025 11:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Financial Report</title>
-      <link>https://example.com/finance</link>
-      <description><![CDATA[Quarterly numbers published by company X.]]></description>
-      <guid isPermaLink="false">finance-1</guid>
-      <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Press Release</title>
-      <link>https://example.com/press</link>
-      <description><![CDATA[Official press release regarding new partnership.]]></description>
-      <guid isPermaLink="false">press-1</guid>
+      <title>Update 15:00</title>
+      <link>https://example.com/update-1500</link>
+      <description><![CDATA[Automated article scheduled at 15:00 local time.]]></description>
+      <guid isPermaLink="false">auto-1500</guid>
       <pubDate>Thu, 25 Sep 2025 13:00:00 +0000</pubDate>
-      <content:encoded><![CDATA[Details about the collaboration, goals, and quotes from stakeholders.]]></content:encoded>
     </item>
 
     <item>
-      <title>Conference Notice</title>
-      <link>https://example.com/conference</link>
-      <description><![CDATA[Reminder: Annual conference tomorrow morning.]]></description>
-      <guid isPermaLink="false">conf-1</guid>
+      <title>Update 15:15</title>
+      <link>https://example.com/update-1515</link>
+      <description><![CDATA[Automated article scheduled at 15:15 local time.]]></description>
+      <guid isPermaLink="false">auto-1515</guid>
+      <pubDate>Thu, 25 Sep 2025 13:15:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Update 15:30</title>
+      <link>https://example.com/update-1530</link>
+      <description><![CDATA[Automated article scheduled at 15:30 local time.]]></description>
+      <guid isPermaLink="false">auto-1530</guid>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Update 15:45</title>
+      <link>https://example.com/update-1545</link>
+      <description><![CDATA[Automated article scheduled at 15:45 local time.]]></description>
+      <guid isPermaLink="false">auto-1545</guid>
+      <pubDate>Thu, 25 Sep 2025 13:45:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Update 16:00</title>
+      <link>https://example.com/update-1600</link>
+      <description><![CDATA[Automated article scheduled at 16:00 local time.]]></description>
+      <guid isPermaLink="false">auto-1600</guid>
       <pubDate>Thu, 25 Sep 2025 14:00:00 +0000</pubDate>
     </item>
 
     <item>
-      <title>Webinar Signup</title>
-      <link>https://example.com/webinar</link>
-      <description><![CDATA[Register now for the upcoming online webinar.]]></description>
-      <guid isPermaLink="false">webinar-1</guid>
+      <title>Update 16:15</title>
+      <link>https://example.com/update-1615</link>
+      <description><![CDATA[Automated article scheduled at 16:15 local time.]]></description>
+      <guid isPermaLink="false">auto-1615</guid>
+      <pubDate>Thu, 25 Sep 2025 14:15:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Update 16:30</title>
+      <link>https://example.com/update-1630</link>
+      <description><![CDATA[Automated article scheduled at 16:30 local time.]]></description>
+      <guid isPermaLink="false">auto-1630</guid>
+      <pubDate>Thu, 25 Sep 2025 14:30:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Update 16:45</title>
+      <link>https://example.com/update-1645</link>
+      <description><![CDATA[Automated article scheduled at 16:45 local time.]]></description>
+      <guid isPermaLink="false">auto-1645</guid>
+      <pubDate>Thu, 25 Sep 2025 14:45:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Update 17:00</title>
+      <link>https://example.com/update-1700</link>
+      <description><![CDATA[Automated article scheduled at 17:00 local time.]]></description>
+      <guid isPermaLink="false">auto-1700</guid>
       <pubDate>Thu, 25 Sep 2025 15:00:00 +0000</pubDate>
     </item>
 
     <item>
-      <title>Evening Bulletin</title>
-      <link>https://example.com/bulletin</link>
-      <description><![CDATA[Evening bulletin: top 5 headlines.]]></description>
-      <guid isPermaLink="false">bulletin-1</guid>
-      <pubDate>Thu, 25 Sep 2025 18:00:00 +0000</pubDate>
+      <title>Update 17:15</title>
+      <link>https://example.com/update-1715</link>
+      <description><![CDATA[Automated article scheduled at 17:15 local time.]]></description>
+      <guid isPermaLink="false">auto-1715</guid>
+      <pubDate>Thu, 25 Sep 2025 15:15:00 +0000</pubDate>
     </item>
 
     <item>
-      <title>Weather Forecast</title>
-      <link>https://example.com/weather</link>
-      <description><![CDATA[Weather forecast for the upcoming weekend.]]></description>
-      <guid isPermaLink="false">weather-1</guid>
-      <pubDate>Thu, 25 Sep 2025 19:00:00 +0000</pubDate>
+      <title>Update 17:30</title>
+      <link>https://example.com/update-1730</link>
+      <description><![CDATA[Automated article scheduled at 17:30 local time.]]></description>
+      <guid isPermaLink="false">auto-1730</guid>
+      <pubDate>Thu, 25 Sep 2025 15:30:00 +0000</pubDate>
     </item>
 
     <item>
-      <title>Editorial</title>
-      <link>https://example.com/editorial</link>
-      <description><![CDATA[Opinion piece: trends in interior architecture.]]></description>
-      <guid isPermaLink="false">editorial-1</guid>
-      <pubDate>Thu, 25 Sep 2025 20:00:00 +0000</pubDate>
-      <content:encoded><![CDATA[Longer editorial content goes here, multi-paragraph.]]></content:encoded>
+      <title>Update 17:45</title>
+      <link>https://example.com/update-1745</link>
+      <description><![CDATA[Automated article scheduled at 17:45 local time.]]></description>
+      <guid isPermaLink="false">auto-1745</guid>
+      <pubDate>Thu, 25 Sep 2025 15:45:00 +0000</pubDate>
     </item>
 
     <item>
-      <title>Night Alert</title>
-      <link>https://example.com/night</link>
-      <description><![CDATA[Night-time traffic diversion in place.]]></description>
-      <guid isPermaLink="false">night-1</guid>
-      <pubDate>Thu, 25 Sep 2025 21:00:00 +0000</pubDate>
+      <title>Update 18:00</title>
+      <link>https://example.com/update-1800</link>
+      <description><![CDATA[Automated article scheduled at 18:00 local time.]]></description>
+      <guid isPermaLink="false">auto-1800</guid>
+      <pubDate>Thu, 25 Sep 2025 16:00:00 +0000</pubDate>
     </item>
 
-    <item>
-      <title>Early Morning Preview</title>
-      <link>https://example.com/preview</link>
-      <description><![CDATA[Preview of tomorrow’s headlines.]]></description>
-      <guid isPermaLink="false">preview-1</guid>
-      <pubDate>Fri, 26 Sep 2025 06:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Morning Kickoff</title>
-      <link>https://example.com/kickoff</link>
-      <description><![CDATA[Morning briefing: what to expect today.]]></description>
-      <guid isPermaLink="false">kickoff-1</guid>
-      <pubDate>Fri, 26 Sep 2025 08:00:00 +0000</pubDate>
-    </item>
+   
 
   </channel>
 </rss>
