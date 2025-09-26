@@ -9,7 +9,15 @@
     <lastBuildDate>Thu, 25 Sep 2025 09:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
 
-    <!-- Items generated across past 24h and next 24h -->
+    <!-- PAST 24h items (24 Sep 09:00 – 25 Sep 09:00) -->
+
+    <item>
+      <title>System Patch Released</title>
+      <link>https://example.com/patch</link>
+      <description><![CDATA[Security patch v1.4 applied yesterday morning.]]></description>
+      <guid isPermaLink="false">patch-1</guid>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 +0000</pubDate>
+    </item>
 
     <item>
       <title>RSS Only Description</title>
@@ -55,10 +63,7 @@
       ]]></description>
       <guid isPermaLink="false">html-test-1</guid>
       <pubDate>Wed, 24 Sep 2025 14:00:00 +0000</pubDate>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-
-    <!-- Now add ~20 more items, varied -->
 
     <item>
       <title>Breaking News 1</title>
@@ -103,6 +108,14 @@
     </item>
 
     <item>
+      <title>Late Night Alert</title>
+      <link>https://example.com/late</link>
+      <description><![CDATA[Unexpected downtime reported at 23:00 yesterday.]]></description>
+      <guid isPermaLink="false">late-1</guid>
+      <pubDate>Wed, 24 Sep 2025 23:00:00 +0000</pubDate>
+    </item>
+
+    <item>
       <title>Morning Alert</title>
       <link>https://example.com/morning</link>
       <description><![CDATA[Early morning system maintenance notice.]]></description>
@@ -126,6 +139,8 @@
       <pubDate>Thu, 25 Sep 2025 08:00:00 +0000</pubDate>
       <content:encoded><![CDATA[Release notes: bug fixes, new features, and improvements.]]></content:encoded>
     </item>
+
+    <!-- FUTURE 24h items (25 Sep 09:30 – 26 Sep 09:00) -->
 
     <item>
       <title>Local Event</title>
@@ -223,6 +238,14 @@
       <description><![CDATA[Preview of tomorrow’s headlines.]]></description>
       <guid isPermaLink="false">preview-1</guid>
       <pubDate>Fri, 26 Sep 2025 06:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Morning Kickoff</title>
+      <link>https://example.com/kickoff</link>
+      <description><![CDATA[Morning briefing: what to expect today.]]></description>
+      <guid isPermaLink="false">kickoff-1</guid>
+      <pubDate>Fri, 26 Sep 2025 08:00:00 +0000</pubDate>
     </item>
 
   </channel>
