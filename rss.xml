@@ -1,120 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>Test Feed</title>
-    <link>https://example.com</link>
-    <description>Test feed description</description>
-    <language>nl-BE</language>
-    <pubDate>Thu, 25 Sep 2025 09:00:00 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Sep 2025 09:00:00 +0000</lastBuildDate>
-    <ttl>60</ttl>
-    <!-- NEXT 3h items (25 Sep 2025 15:00–18:00 GMT+2 = 13:00–16:00 UTC) -->
+<channel>
+<title>Test Feed - Future Notifications</title>
+<link>https://example.com</link>
+<description>Test feed with future-dated items for timezone testing</description>
+<language>nl-BE</language>
+<pubDate>Fri, 26 Sep 2025 13:34:00 +0000</pubDate>
+<lastBuildDate>Fri, 26 Sep 2025 13:34:00 +0000</lastBuildDate>
+<ttl>60</ttl>
 
-    <item>
-      <title>Update 15:00</title>
-      <link>https://example.com/update-1500</link>
-      <description><![CDATA[Automated article scheduled at 15:00 local time.]]></description>
-      <guid isPermaLink="false">auto-1500</guid>
-      <pubDate>Thu, 25 Sep 2025 13:00:00 +0000</pubDate>
-    </item>
+<!-- Future items in UTC (current time is ~15:34 CEST = 13:34 UTC) -->
+<item>
+<title>Future Update 16:00 CEST</title>
+<link>https://example.com/future-1600</link>
+<description>
+<![CDATA[ This article should be scheduled for future notification at 16:00 local time (14:00 UTC). Current time: 15:34 CEST. ]]>
+</description>
+<guid isPermaLink="false">future-1600</guid>
+<pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+</item>
 
-    <item>
-      <title>Update 15:15</title>
-      <link>https://example.com/update-1515</link>
-      <description><![CDATA[Automated article scheduled at 15:15 local time.]]></description>
-      <guid isPermaLink="false">auto-1515</guid>
-      <pubDate>Thu, 25 Sep 2025 13:15:00 +0000</pubDate>
-    </item>
+<item>
+<title>Future Update 16:15 CEST</title>
+<link>https://example.com/future-1615</link>
+<description>
+<![CDATA[ This article should be scheduled for future notification at 16:15 local time (14:15 UTC). ]]>
+</description>
+<guid isPermaLink="false">future-1615</guid>
+<pubDate>Fri, 26 Sep 2025 14:15:00 +0000</pubDate>
+</item>
 
-    <item>
-      <title>Update 15:30</title>
-      <link>https://example.com/update-1530</link>
-      <description><![CDATA[Automated article scheduled at 15:30 local time.]]></description>
-      <guid isPermaLink="false">auto-1530</guid>
-      <pubDate>Thu, 25 Sep 2025 13:30:00 +0000</pubDate>
-    </item>
+<item>
+<title>Future Update 16:30 CEST</title>
+<link>https://example.com/future-1630</link>
+<description>
+<![CDATA[ This article should be scheduled for future notification at 16:30 local time (14:30 UTC). ]]>
+</description>
+<guid isPermaLink="false">future-1630</guid>
+<pubDate>Fri, 26 Sep 2025 14:30:00 +0000</pubDate>
+</item>
 
-    <item>
-      <title>Update 15:45</title>
-      <link>https://example.com/update-1545</link>
-      <description><![CDATA[Automated article scheduled at 15:45 local time.]]></description>
-      <guid isPermaLink="false">auto-1545</guid>
-      <pubDate>Thu, 25 Sep 2025 13:45:00 +0000</pubDate>
-    </item>
+<item>
+<title>Future Update 16:45 CEST</title>
+<link>https://example.com/future-1645</link>
+<description>
+<![CDATA[ This article should be scheduled for future notification at 16:45 local time (14:45 UTC). ]]>
+</description>
+<guid isPermaLink="false">future-1645</guid>
+<pubDate>Fri, 26 Sep 2025 14:45:00 +0000</pubDate>
+</item>
 
-    <item>
-      <title>Update 16:00</title>
-      <link>https://example.com/update-1600</link>
-      <description><![CDATA[Automated article scheduled at 16:00 local time.]]></description>
-      <guid isPermaLink="false">auto-1600</guid>
-      <pubDate>Thu, 25 Sep 2025 14:00:00 +0000</pubDate>
-    </item>
+<item>
+<title>Future Update 17:00 CEST</title>
+<link>https://example.com/future-1700</link>
+<description>
+<![CDATA[ This article should be scheduled for future notification at 17:00 local time (15:00 UTC). ]]>
+</description>
+<guid isPermaLink="false">future-1700</guid>
+<pubDate>Fri, 26 Sep 2025 15:00:00 +0000</pubDate>
+</item>
 
-    <item>
-      <title>Update 16:15</title>
-      <link>https://example.com/update-1615</link>
-      <description><![CDATA[Automated article scheduled at 16:15 local time.]]></description>
-      <guid isPermaLink="false">auto-1615</guid>
-      <pubDate>Thu, 25 Sep 2025 14:15:00 +0000</pubDate>
-    </item>
+<!-- Past item to verify it gets processed immediately -->
+<item>
+<title>Past Update 15:00 CEST</title>
+<link>https://example.com/past-1500</link>
+<description>
+<![CDATA[ This article has a past pubDate and should be processed immediately (12:00 UTC = 14:00 CEST past). ]]>
+</description>
+<guid isPermaLink="false">past-1500</guid>
+<pubDate>Fri, 26 Sep 2025 12:00:00 +0000</pubDate>
+</item>
 
-    <item>
-      <title>Update 16:30</title>
-      <link>https://example.com/update-1630</link>
-      <description><![CDATA[Automated article scheduled at 16:30 local time.]]></description>
-      <guid isPermaLink="false">auto-1630</guid>
-      <pubDate>Thu, 25 Sep 2025 14:30:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Update 16:45</title>
-      <link>https://example.com/update-1645</link>
-      <description><![CDATA[Automated article scheduled at 16:45 local time.]]></description>
-      <guid isPermaLink="false">auto-1645</guid>
-      <pubDate>Thu, 25 Sep 2025 14:45:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Update 17:00</title>
-      <link>https://example.com/update-1700</link>
-      <description><![CDATA[Automated article scheduled at 17:00 local time.]]></description>
-      <guid isPermaLink="false">auto-1700</guid>
-      <pubDate>Thu, 25 Sep 2025 15:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Update 17:15</title>
-      <link>https://example.com/update-1715</link>
-      <description><![CDATA[Automated article scheduled at 17:15 local time.]]></description>
-      <guid isPermaLink="false">auto-1715</guid>
-      <pubDate>Thu, 25 Sep 2025 15:15:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Update 17:30</title>
-      <link>https://example.com/update-1730</link>
-      <description><![CDATA[Automated article scheduled at 17:30 local time.]]></description>
-      <guid isPermaLink="false">auto-1730</guid>
-      <pubDate>Thu, 25 Sep 2025 15:30:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Update 17:45</title>
-      <link>https://example.com/update-1745</link>
-      <description><![CDATA[Automated article scheduled at 17:45 local time.]]></description>
-      <guid isPermaLink="false">auto-1745</guid>
-      <pubDate>Thu, 25 Sep 2025 15:45:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Update 18:00</title>
-      <link>https://example.com/update-1800</link>
-      <description><![CDATA[Automated article scheduled at 18:00 local time.]]></description>
-      <guid isPermaLink="false">auto-1800</guid>
-      <pubDate>Thu, 25 Sep 2025 16:00:00 +0000</pubDate>
-    </item>
-
-   
-
-  </channel>
+</channel>
 </rss>
