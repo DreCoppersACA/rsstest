@@ -5,70 +5,250 @@
 <link>https://example.com</link>
 <description>Test feed with future-dated items for timezone testing</description>
 <language>nl-BE</language>
-<pubDate>Fri, 26 Sep 2025 13:34:00 +0000</pubDate>
-<lastBuildDate>Fri, 26 Sep 2025 13:34:00 +0000</lastBuildDate>
+<pubDate>Mon, 29 Sep 2025 05:50:00 +0000</pubDate>
+<lastBuildDate>Mon, 29 Sep 2025 05:50:00 +0000</lastBuildDate>
 <ttl>60</ttl>
 
-<!-- Future items in UTC (current time is ~15:34 CEST = 13:34 UTC) -->
+<!-- Future items in UTC (local CEST = UTC+2) -->
+
 <item>
-<title>Future Update 16:00 CEST</title>
-<link>https://example.com/future-1600</link>
-<description>
-<![CDATA[ This article should be scheduled for future notification at 16:00 local time (14:00 UTC). Current time: 15:34 CEST. ]]>
-</description>
-<guid isPermaLink="false">future-1600</guid>
-<pubDate>Fri, 26 Sep 2025 14:00:00 +0000</pubDate>
+<title>Future Update 08:30 CEST - A</title>
+<link>https://example.com/future-0830-a</link>
+<description><![CDATA[ Scheduled for 08:30 local (06:30 UTC). ]]></description>
+<guid isPermaLink="false">future-0830-a</guid>
+<pubDate>Mon, 29 Sep 2025 06:30:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 16:15 CEST</title>
-<link>https://example.com/future-1615</link>
-<description>
-<![CDATA[ This article should be scheduled for future notification at 16:15 local time (14:15 UTC). ]]>
-</description>
-<guid isPermaLink="false">future-1615</guid>
-<pubDate>Fri, 26 Sep 2025 14:15:00 +0000</pubDate>
+<title>Future Update 08:30 CEST - B</title>
+<link>https://example.com/future-0830-b</link>
+<description><![CDATA[ Scheduled for 08:30 local (06:30 UTC). ]]></description>
+<guid isPermaLink="false">future-0830-b</guid>
+<pubDate>Mon, 29 Sep 2025 06:30:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 16:30 CEST</title>
-<link>https://example.com/future-1630</link>
-<description>
-<![CDATA[ This article should be scheduled for future notification at 16:30 local time (14:30 UTC). ]]>
-</description>
-<guid isPermaLink="false">future-1630</guid>
-<pubDate>Fri, 26 Sep 2025 14:30:00 +0000</pubDate>
+<title>Future Update 08:45 CEST - A</title>
+<link>https://example.com/future-0845-a</link>
+<description><![CDATA[ Scheduled for 08:45 local (06:45 UTC). ]]></description>
+<guid isPermaLink="false">future-0845-a</guid>
+<pubDate>Mon, 29 Sep 2025 06:45:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 16:45 CEST</title>
-<link>https://example.com/future-1645</link>
-<description>
-<![CDATA[ This article should be scheduled for future notification at 16:45 local time (14:45 UTC). ]]>
-</description>
-<guid isPermaLink="false">future-1645</guid>
-<pubDate>Fri, 26 Sep 2025 14:45:00 +0000</pubDate>
+<title>Future Update 08:45 CEST - B</title>
+<link>https://example.com/future-0845-b</link>
+<description><![CDATA[ Scheduled for 08:45 local (06:45 UTC). ]]></description>
+<guid isPermaLink="false">future-0845-b</guid>
+<pubDate>Mon, 29 Sep 2025 06:45:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 17:00 CEST</title>
-<link>https://example.com/future-1700</link>
-<description>
-<![CDATA[ This article should be scheduled for future notification at 17:00 local time (15:00 UTC). ]]>
-</description>
-<guid isPermaLink="false">future-1700</guid>
-<pubDate>Fri, 26 Sep 2025 15:00:00 +0000</pubDate>
+<title>Future Update 09:00 CEST - A</title>
+<link>https://example.com/future-0900-a</link>
+<description><![CDATA[ Scheduled for 09:00 local (07:00 UTC). ]]></description>
+<guid isPermaLink="false">future-0900-a</guid>
+<pubDate>Mon, 29 Sep 2025 07:00:00 +0000</pubDate>
 </item>
 
-<!-- Past item to verify it gets processed immediately -->
 <item>
-<title>Past Update 15:00 CEST</title>
-<link>https://example.com/past-1500</link>
-<description>
-<![CDATA[ This article has a past pubDate and should be processed immediately (12:00 UTC = 14:00 CEST past). ]]>
-</description>
-<guid isPermaLink="false">past-1500</guid>
-<pubDate>Fri, 26 Sep 2025 12:00:00 +0000</pubDate>
+<title>Future Update 09:00 CEST - B</title>
+<link>https://example.com/future-0900-b</link>
+<description><![CDATA[ Scheduled for 09:00 local (07:00 UTC). ]]></description>
+<guid isPermaLink="false">future-0900-b</guid>
+<pubDate>Mon, 29 Sep 2025 07:00:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 09:15 CEST - A</title>
+<link>https://example.com/future-0915-a</link>
+<description><![CDATA[ Scheduled for 09:15 local (07:15 UTC). ]]></description>
+<guid isPermaLink="false">future-0915-a</guid>
+<pubDate>Mon, 29 Sep 2025 07:15:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 09:15 CEST - B</title>
+<link>https://example.com/future-0915-b</link>
+<description><![CDATA[ Scheduled for 09:15 local (07:15 UTC). ]]></description>
+<guid isPermaLink="false">future-0915-b</guid>
+<pubDate>Mon, 29 Sep 2025 07:15:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 09:30 CEST - A</title>
+<link>https://example.com/future-0930-a</link>
+<description><![CDATA[ Scheduled for 09:30 local (07:30 UTC). ]]></description>
+<guid isPermaLink="false">future-0930-a</guid>
+<pubDate>Mon, 29 Sep 2025 07:30:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 09:30 CEST - B</title>
+<link>https://example.com/future-0930-b</link>
+<description><![CDATA[ Scheduled for 09:30 local (07:30 UTC). ]]></description>
+<guid isPermaLink="false">future-0930-b</guid>
+<pubDate>Mon, 29 Sep 2025 07:30:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 09:45 CEST - A</title>
+<link>https://example.com/future-0945-a</link>
+<description><![CDATA[ Scheduled for 09:45 local (07:45 UTC). ]]></description>
+<guid isPermaLink="false">future-0945-a</guid>
+<pubDate>Mon, 29 Sep 2025 07:45:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 09:45 CEST - B</title>
+<link>https://example.com/future-0945-b</link>
+<description><![CDATA[ Scheduled for 09:45 local (07:45 UTC). ]]></description>
+<guid isPermaLink="false">future-0945-b</guid>
+<pubDate>Mon, 29 Sep 2025 07:45:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 10:00 CEST - A</title>
+<link>https://example.com/future-1000-a</link>
+<description><![CDATA[ Scheduled for 10:00 local (08:00 UTC). ]]></description>
+<guid isPermaLink="false">future-1000-a</guid>
+<pubDate>Mon, 29 Sep 2025 08:00:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 10:00 CEST - B</title>
+<link>https://example.com/future-1000-b</link>
+<description><![CDATA[ Scheduled for 10:00 local (08:00 UTC). ]]></description>
+<guid isPermaLink="false">future-1000-b</guid>
+<pubDate>Mon, 29 Sep 2025 08:00:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 10:15 CEST - A</title>
+<link>https://example.com/future-1015-a</link>
+<description><![CDATA[ Scheduled for 10:15 local (08:15 UTC). ]]></description>
+<guid isPermaLink="false">future-1015-a</guid>
+<pubDate>Mon, 29 Sep 2025 08:15:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 10:15 CEST - B</title>
+<link>https://example.com/future-1015-b</link>
+<description><![CDATA[ Scheduled for 10:15 local (08:15 UTC). ]]></description>
+<guid isPermaLink="false">future-1015-b</guid>
+<pubDate>Mon, 29 Sep 2025 08:15:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 10:30 CEST - A</title>
+<link>https://example.com/future-1030-a</link>
+<description><![CDATA[ Scheduled for 10:30 local (08:30 UTC). ]]></description>
+<guid isPermaLink="false">future-1030-a</guid>
+<pubDate>Mon, 29 Sep 2025 08:30:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 10:30 CEST - B</title>
+<link>https://example.com/future-1030-b</link>
+<description><![CDATA[ Scheduled for 10:30 local (08:30 UTC). ]]></description>
+<guid isPermaLink="false">future-1030-b</guid>
+<pubDate>Mon, 29 Sep 2025 08:30:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 10:45 CEST - A</title>
+<link>https://example.com/future-1045-a</link>
+<description><![CDATA[ Scheduled for 10:45 local (08:45 UTC). ]]></description>
+<guid isPermaLink="false">future-1045-a</guid>
+<pubDate>Mon, 29 Sep 2025 08:45:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 10:45 CEST - B</title>
+<link>https://example.com/future-1045-b</link>
+<description><![CDATA[ Scheduled for 10:45 local (08:45 UTC). ]]></description>
+<guid isPermaLink="false">future-1045-b</guid>
+<pubDate>Mon, 29 Sep 2025 08:45:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 11:00 CEST - A</title>
+<link>https://example.com/future-1100-a</link>
+<description><![CDATA[ Scheduled for 11:00 local (09:00 UTC). ]]></description>
+<guid isPermaLink="false">future-1100-a</guid>
+<pubDate>Mon, 29 Sep 2025 09:00:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 11:00 CEST - B</title>
+<link>https://example.com/future-1100-b</link>
+<description><![CDATA[ Scheduled for 11:00 local (09:00 UTC). ]]></description>
+<guid isPermaLink="false">future-1100-b</guid>
+<pubDate>Mon, 29 Sep 2025 09:00:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 11:15 CEST - A</title>
+<link>https://example.com/future-1115-a</link>
+<description><![CDATA[ Scheduled for 11:15 local (09:15 UTC). ]]></description>
+<guid isPermaLink="false">future-1115-a</guid>
+<pubDate>Mon, 29 Sep 2025 09:15:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 11:15 CEST - B</title>
+<link>https://example.com/future-1115-b</link>
+<description><![CDATA[ Scheduled for 11:15 local (09:15 UTC). ]]></description>
+<guid isPermaLink="false">future-1115-b</guid>
+<pubDate>Mon, 29 Sep 2025 09:15:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 11:30 CEST - A</title>
+<link>https://example.com/future-1130-a</link>
+<description><![CDATA[ Scheduled for 11:30 local (09:30 UTC). ]]></description>
+<guid isPermaLink="false">future-1130-a</guid>
+<pubDate>Mon, 29 Sep 2025 09:30:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 11:30 CEST - B</title>
+<link>https://example.com/future-1130-b</link>
+<description><![CDATA[ Scheduled for 11:30 local (09:30 UTC). ]]></description>
+<guid isPermaLink="false">future-1130-b</guid>
+<pubDate>Mon, 29 Sep 2025 09:30:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 11:45 CEST - A</title>
+<link>https://example.com/future-1145-a</link>
+<description><![CDATA[ Scheduled for 11:45 local (09:45 UTC). ]]></description>
+<guid isPermaLink="false">future-1145-a</guid>
+<pubDate>Mon, 29 Sep 2025 09:45:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 11:45 CEST - B</title>
+<link>https://example.com/future-1145-b</link>
+<description><![CDATA[ Scheduled for 11:45 local (09:45 UTC). ]]></description>
+<guid isPermaLink="false">future-1145-b</guid>
+<pubDate>Mon, 29 Sep 2025 09:45:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 12:00 CEST - A</title>
+<link>https://example.com/future-1200-a</link>
+<description><![CDATA[ Scheduled for 12:00 local (10:00 UTC). ]]></description>
+<guid isPermaLink="false">future-1200-a</guid>
+<pubDate>Mon, 29 Sep 2025 10:00:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Future Update 12:00 CEST - B</title>
+<link>https://example.com/future-1200-b</link>
+<description><![CDATA[ Scheduled for 12:00 local (10:00 UTC). ]]></description>
+<guid isPermaLink="false">future-1200-b</guid>
+<pubDate>Mon, 29 Sep 2025 10:00:00 +0000</pubDate>
 </item>
 
 </channel>
