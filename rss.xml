@@ -180,67 +180,67 @@
 </item>
 
 <item>
-<title>Future Update 11:00 CEST - B</title>
+<title>Future Update 11:01 CEST - B</title>
 <link>https://example.com/future-1100-b</link>
 <description><![CDATA[ Scheduled for 11:00 local (09:00 UTC). ]]></description>
 <guid isPermaLink="false">future-1100-b</guid>
-<pubDate>Mon, 29 Sep 2025 09:00:00 +0000</pubDate>
+<pubDate>Mon, 29 Sep 2025 09:01:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 11:15 CEST - A</title>
+<title>Future Update 11:02 CEST - A</title>
 <link>https://example.com/future-1115-a</link>
 <description><![CDATA[ Scheduled for 11:15 local (09:15 UTC). ]]></description>
 <guid isPermaLink="false">future-1115-a</guid>
-<pubDate>Mon, 29 Sep 2025 09:15:00 +0000</pubDate>
+<pubDate>Mon, 29 Sep 2025 09:02:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 11:15 CEST - B</title>
+<title>Future Update 11:03 CEST - B</title>
 <link>https://example.com/future-1115-b</link>
 <description><![CDATA[ Scheduled for 11:15 local (09:15 UTC). ]]></description>
 <guid isPermaLink="false">future-1115-b</guid>
-<pubDate>Mon, 29 Sep 2025 09:15:00 +0000</pubDate>
+<pubDate>Mon, 29 Sep 2025 09:03:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 11:30 CEST - A</title>
+<title>Future Update 11:04 CEST - A</title>
 <link>https://example.com/future-1130-a</link>
 <description><![CDATA[ Scheduled for 11:30 local (09:30 UTC). ]]></description>
 <guid isPermaLink="false">future-1130-a</guid>
-<pubDate>Mon, 29 Sep 2025 09:30:00 +0000</pubDate>
+<pubDate>Mon, 29 Sep 2025 09:04:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 11:30 CEST - B</title>
+<title>Future Update 11:05 CEST - B</title>
 <link>https://example.com/future-1130-b</link>
 <description><![CDATA[ Scheduled for 11:30 local (09:30 UTC). ]]></description>
 <guid isPermaLink="false">future-1130-b</guid>
-<pubDate>Mon, 29 Sep 2025 09:30:00 +0000</pubDate>
+<pubDate>Mon, 29 Sep 2025 09:05:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 11:45 CEST - A</title>
+<title>Future Update 11:06 CEST - A</title>
 <link>https://example.com/future-1145-a</link>
 <description><![CDATA[ Scheduled for 11:45 local (09:45 UTC). ]]></description>
 <guid isPermaLink="false">future-1145-a</guid>
-<pubDate>Mon, 29 Sep 2025 09:45:00 +0000</pubDate>
+<pubDate>Mon, 29 Sep 2025 09:06:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 11:45 CEST - B</title>
+<title>Future Update 11:07 CEST - B</title>
 <link>https://example.com/future-1145-b</link>
 <description><![CDATA[ Scheduled for 11:45 local (09:45 UTC). ]]></description>
 <guid isPermaLink="false">future-1145-b</guid>
-<pubDate>Mon, 29 Sep 2025 09:45:00 +0000</pubDate>
+<pubDate>Mon, 29 Sep 2025 09:07:00 +0000</pubDate>
 </item>
 
 <item>
-<title>Future Update 12:00 CEST - A</title>
+<title>Future Update 11:08 CEST - A</title>
 <link>https://example.com/future-1200-a</link>
 <description><![CDATA[ Scheduled for 12:00 local (10:00 UTC). ]]></description>
 <guid isPermaLink="false">future-1200-a</guid>
-<pubDate>Mon, 29 Sep 2025 10:00:00 +0000</pubDate>
+<pubDate>Mon, 29 Sep 2025 09:08:00 +0000</pubDate>
 </item>
 
 <item>
