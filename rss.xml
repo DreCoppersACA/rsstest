@@ -737,7 +737,74 @@
     <pubDate>Mon, 29 Sep 2025 12:00:00 +0000</pubDate>
   </item>
 
+  <item>
+    <title>Example Article: City Announces New Downtown Project</title>
+    <link>https://www.example.com/articles/123</link>
+    <guid isPermaLink="true">https://www.example.com/articles/123</guid>
+    <pubDate>Mon, 27 Oct 2025 14:30:00 GMT</pubDate>
+    
+    <description>
+      The city council today announced a major new project for the downtown area,
+      including a new park, residential units, and commercial space.
+    </description>
+
+    <content:encoded>
+      <![CDATA[
+        <p>The city council today announced a major new project set to revitalize the downtown core. This ambitious plan will be rolled out in three phases.</p>
+        
+        <p>Key features of the project include:</p>
+        
+        <ul>
+          <li>A new 15-acre public park with water features.</li>
+          <li>500 new residential units, including affordable housing.</li>
+          <li>20,000 square feet of new commercial and retail space.</li>
+        </ul>
+        
+        <p>The mayor stated this is a "transformative moment" for the city.
+        <br>
+        Construction is expected to begin in the spring.</p>
+        
+        <h3>Project Funding Breakdown</h3>
+        
+        <table border="1" cellpadding="5" cellspacing="0" style="width:100%;">
+          <thead>
+            <tr>
+              <th>Source</th>
+              <th>Amount</th>
+              <th>Percentage</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Municipal Bonds</td>
+              <td>$50 Million</td>
+              <td>50%</td>
+            </tr>
+            <tr>
+              <td>Private Investment</td>
+              <td>$30 Million</td>
+              <td>30%</td>
+            </tr>
+            <tr>
+              <td>Federal Grants</td>
+              <td>$20 Million</td>
+              <td>20%</td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td><strong>Total</strong></td>
+              <td><strong>$100 Million</strong></td>
+              <td><strong>100%</strong></td>
+            </tr>
+          </tfoot>
+        </table>
+        
+        <p>More details will be released at the public town hall next week.</p>
+      ]]>
+    </content:encoded>
   
+  </item>
 
 </channel>
 </rss>
