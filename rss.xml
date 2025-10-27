@@ -737,11 +737,19 @@
     <pubDate>Mon, 29 Sep 2025 12:00:00 +0000</pubDate>
   </item>
 
+      <item>
+    <title>Info Burst 14:00</title>
+    <link>https://example.com/future-1359</link>
+    <description><![CDATA[ Scheduled for 14:00 local (11:59 UTC). ]]></description>
+    <guid isPermaLink="false">future-1359</guid>
+    <pubDate>Mon, 27 oct 2025 12:30:00 +0000</pubDate>
+  </item>
+
   <item>
     <title>Example Article: City Announces New Downtown Project</title>
     <link>https://www.example.com/articles/123</link>
     <guid isPermaLink="true">https://www.example.com/articles/123</guid>
-    <pubDate>Mon, 27 Oct 2025 14:30:00 GMT</pubDate>
+    <pubDate>Mon, 27 Oct 2025 12:30:00 GMT</pubDate>
     
     <description>
       The city council today announced a major new project for the downtown area,
