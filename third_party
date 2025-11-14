@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>third_party_test</title>
+<link>https://example.com</link>
+<description>Test feed with future-dated items for timezone testing</description>
+<language>nl-BE</language>
+<pubDate>Mon, 29 Sep 2025 05:50:00 +0000</pubDate>
+<lastBuildDate>Mon, 29 Sep 2025 05:50:00 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+    <title>Random Alert 15:05</title>
+    <link>https://example.com/random-1505</link>
+    <description><![CDATA[ Test random content block A. ]]></description>
+    <guid isPermaLink="false">rnd-1505-9871</guid>
+    <pubDate>Fri, 14 Nov 2025 12:05:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>Daily Sync Update</title>
+    <link>https://example.com/sync-update</link>
+    <description><![CDATA[ Test random content block B. ]]></description>
+    <guid isPermaLink="false">rnd-sync-2234</guid>
+    <pubDate>Fri, 14 Nov 2025 12:12:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>System Checkpoint 16:40</title>
+    <link>https://example.com/checkpoint-1640</link>
+    <description><![CDATA[ Test random content block C. ]]></description>
+    <guid isPermaLink="false">rnd-chk-1640-5532</guid>
+    <pubDate>Fri, 14 Nov 2025 12:18:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>Evening Digest 18:10</title>
+    <link>https://example.com/digest-1810</link>
+    <description><![CDATA[ Test random content block D. ]]></description>
+    <guid isPermaLink="false">rnd-ev-1810-4412</guid>
+    <pubDate>Fri, 14 Nov 2025 12:25:00 +0000</pubDate>
+</item>
+</channel>
+</rss>
