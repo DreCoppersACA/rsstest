@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>third_party_test</title>
+<link>https://example.com</link>
+<description>Test feed with future-dated items for timezone testing</description>
+<language>nl-BE</language>
+<pubDate>Mon, 29 Sep 2025 05:50:00 +0000</pubDate>
+<lastBuildDate>Mon, 29 Sep 2025 05:50:00 +0000</lastBuildDate>
+<ttl>60</ttl>
+
+<item>
+    <title>third_party_2 Snapshot Event 07:42</title>
+    <link>https://example.com/snapshot-0742</link>
+    <description><![CDATA[ Auto-generated payload X1. ]]></description>
+    <guid isPermaLink="false">rnd-742-99421</guid>
+    <pubDate>Fri, 14 Nov 2025 12:07:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>third_party_2 Status Pulse Check</title>
+    <link>https://example.com/pulse-check</link>
+    <description><![CDATA[ Auto-generated payload Z3. ]]></description>
+    <guid isPermaLink="false">rnd-pls-44213</guid>
+    <pubDate>Fri, 14 Nov 2025 12:14:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>third_party_2 Telemetry Sync 19:55</title>
+    <link>https://example.com/telemetry-1955</link>
+    <description><![CDATA[ Auto-generated payload Q7. ]]></description>
+    <guid isPermaLink="false">rnd-tel-77512</guid>
+    <pubDate>Fri, 14 Nov 2025 12:21:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>third_party_2 Evening Rollup 22:03</title>
+    <link>https://example.com/rollup-2203</link>
+    <description><![CDATA[ Auto-generated payload H4. ]]></description>
+    <guid isPermaLink="false">rnd-roll-99311</guid>
+    <pubDate>Fri, 14 Nov 2025 12:28:00 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
