@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
-<title>third_party_test</title>
+<title>entity_test</title>
 <link>https://example.com</link>
 <description>Test feed with future-dated items for timezone testing</description>
 <language>nl-BE</language>
