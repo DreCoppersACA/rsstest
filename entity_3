@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>third_party_test</title>
+<link>https://example.com</link>
+<description>Test feed with future-dated items for timezone testing</description>
+<language>nl-BE</language>
+<pubDate>Mon, 29 Sep 2025 05:50:00 +0000</pubDate>
+<lastBuildDate>Mon, 29 Sep 2025 05:50:00 +0000</lastBuildDate>
+<ttl>60</ttl>
+
+<item>
+    <title>entity_3 (gemeente) Morning Sync 06:52</title>
+    <link>https://example.com/entity2-morningsync-0652</link>
+    <description><![CDATA[ Auto-gen packet Z7 for test feed. ]]></description>
+    <guid isPermaLink="false">guid-ent2-0652-a91277</guid>
+    <pubDate>Fri, 14 Nov 2025 12:11:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>Status Pulse – entity_3 (gemeente) 12:33</title>
+    <link>https://example.com/entity2-statuspulse-1233</link>
+    <description><![CDATA[ Auto-gen segment L3 updated. ]]></description>
+    <guid isPermaLink="false">guid-ent2-1233-b44291</guid>
+    <pubDate>Fri, 14 Nov 2025 12:18:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>entity_3 (gemeente) Channel Refresh 18:09</title>
+    <link>https://example.com/entity2-refresh-1809</link>
+    <description><![CDATA[ Auto-gen module V1 synced. ]]></description>
+    <guid isPermaLink="false">guid-ent2-1809-c66158</guid>
+    <pubDate>Fri, 14 Nov 2025 12:24:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>Evening Digest – entity_3 (gemeente) 22:51</title>
+    <link>https://example.com/entity2-digest-2251</link>
+    <description><![CDATA[ Auto-gen digest group H9. ]]></description>
+    <guid isPermaLink="false">guid-ent2-2251-d33844</guid>
+    <pubDate>Fri, 14 Nov 2025 12:31:00 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
