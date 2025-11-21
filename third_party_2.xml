@@ -66,5 +66,30 @@
     <pubDate>Fri, 21 Nov 2025 10:30:00 +0000</pubDate>
 </item>
 
+    <item>
+    <title>third_party_2 Sync Dispatch 10:00</title>
+    <link>https://example.com/sync-1000</link>
+    <description><![CDATA[ Auto-generated payload R2. ]]></description>
+    <guid isPermaLink="false">rnd-sync-1000-88321</guid>
+    <pubDate>Fri, 21 Nov 2025 09:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>third_party_2 Event Trigger 10:15</title>
+    <link>https://example.com/trigger-1015</link>
+    <description><![CDATA[ Auto-generated payload M8. ]]></description>
+    <guid isPermaLink="false">rnd-trg-1015-55214</guid>
+    <pubDate>Fri, 21 Nov 2025 09:15:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>third_party_2 Data Roll Forward 10:30</title>
+    <link>https://example.com/roll-1030</link>
+    <description><![CDATA[ Auto-generated payload T5. ]]></description>
+    <guid isPermaLink="false">rnd-roll-1030-77109</guid>
+    <pubDate>Fri, 21 Nov 2025 09:30:00 +0000</pubDate>
+</item>
+
+
 </channel>
 </rss>
