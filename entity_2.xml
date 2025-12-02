@@ -5,8 +5,8 @@
 <link>https://example.com</link>
 <description>Test feed with future-dated items for timezone testing</description>
 <language>nl-BE</language>
-<pubDate>Mon, 29 Sep 2025 05:50:00 +0000</pubDate>
-<lastBuildDate>Mon, 29 Sep 2025 05:50:00 +0000</lastBuildDate>
+<pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
+<lastBuildDate>Tue, 02 Dec 2025 10:00:00 +0000</lastBuildDate>
 <ttl>60</ttl>
 
 <item>
@@ -14,7 +14,7 @@
     <link>https://example.com/entity2-morningsync-0652</link>
     <description><![CDATA[ Auto-gen packet Z7 for test feed. ]]></description>
     <guid isPermaLink="false">rnd-ent2-0652-88231</guid>
-    <pubDate>Fri, 14 Nov 2025 12:11:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 09:11:00 +0000</pubDate>
 </item>
 
 <item>
@@ -22,7 +22,7 @@
     <link>https://example.com/entity2-statuspulse-1233</link>
     <description><![CDATA[ Auto-gen segment L3 updated. ]]></description>
     <guid isPermaLink="false">rnd-ent2-1233-44217</guid>
-    <pubDate>Fri, 14 Nov 2025 12:18:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 09:18:00 +0000</pubDate>
 </item>
 
 <item>
@@ -30,7 +30,7 @@
     <link>https://example.com/entity2-refresh-1809</link>
     <description><![CDATA[ Auto-gen module V1 synced. ]]></description>
     <guid isPermaLink="false">rnd-ent2-1809-66124</guid>
-    <pubDate>Fri, 14 Nov 2025 12:24:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 09:24:00 +0000</pubDate>
 </item>
 
 <item>
@@ -38,7 +38,7 @@
     <link>https://example.com/entity2-digest-2251</link>
     <description><![CDATA[ Auto-gen digest group H9. ]]></description>
     <guid isPermaLink="false">rnd-ent2-2251-33892</guid>
-    <pubDate>Fri, 14 Nov 2025 12:31:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 09:31:00 +0000</pubDate>
 </item>
 
 </channel>
