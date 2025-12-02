@@ -14,7 +14,7 @@
     <link>https://example.com/entity1-report-0814</link>
     <description><![CDATA[ Auto-generated status packet R12. ]]></description>
     <guid isPermaLink="false">rnd-ent1-0814-55281</guid>
-    <pubDate>Mon, 01 Dec 2025 08:14:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 08:14:00 +0000</pubDate>
 </item>
 
 <item>
@@ -22,7 +22,7 @@
     <link>https://example.com/entity1-syncpulse-1159</link>
     <description><![CDATA[ Auto-generated content F4 for testing. ]]></description>
     <guid isPermaLink="false">rnd-ent1-1159-99812</guid>
-    <pubDate>Mon, 01 Dec 2025 11:59:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 11:59:00 +0000</pubDate>
 </item>
 
 <item>
@@ -30,7 +30,7 @@
     <link>https://example.com/entity1-channel-1722</link>
     <description><![CDATA[ Auto-generated metric block K8. ]]></description>
     <guid isPermaLink="false">rnd-ent1-1722-44123</guid>
-    <pubDate>Mon, 01 Dec 2025 17:22:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 17:22:00 +0000</pubDate>
 </item>
 
 <item>
@@ -38,7 +38,7 @@
     <link>https://example.com/entity1-digest-2148</link>
     <description><![CDATA[ Auto-generated digest sequence M6. ]]></description>
     <guid isPermaLink="false">rnd-ent1-2148-77129</guid>
-    <pubDate>Mon, 01 Dec 2025 21:48:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 21:48:00 +0000</pubDate>
 </item>
 
 </channel>
