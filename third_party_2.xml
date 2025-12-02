@@ -14,7 +14,7 @@
     <link>https://example.com/snapshot-0742</link>
     <description><![CDATA[ Auto-generated payload X1. ]]></description>
     <guid isPermaLink="false">rnd-742-99213421</guid>
-    <pubDate>Mon, 24 Nov 2025 12:07:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 12:07:00 +0000</pubDate>
 </item>
 
 <item>
@@ -22,7 +22,7 @@
     <link>https://example.com/pulse-check</link>
     <description><![CDATA[ Auto-generated payload Z3. ]]></description>
     <guid isPermaLink="false">rnd-pls-41234213</guid>
-    <pubDate>Mon, 24 Nov 2025 12:14:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 12:14:00 +0000</pubDate>
 </item>
 
 <item>
@@ -30,7 +30,7 @@
     <link>https://example.com/telemetry-1955</link>
     <description><![CDATA[ Auto-generated payload Q7. ]]></description>
     <guid isPermaLink="false">rn2312d-tel-77512</guid>
-    <pubDate>Mon, 24 Nov 2025 12:21:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 12:21:00 +0000</pubDate>
 </item>
 
 <item>
@@ -38,16 +38,16 @@
     <link>https://example.com/rollup-2203</link>
     <description><![CDATA[ Auto-generated payload H4. ]]></description>
     <guid isPermaLink="false">rnd-r213oll-99311</guid>
-    <pubDate>Mon, 24 Nov 2025 12:28:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 12:28:00 +0000</pubDate>
 </item>
 
-<!-- Nieuwe items 24 nov 2025 -->
+<!-- Nieuwe items -->
 <item>
     <title>third_party_2 Sync Dispatch 11:00</title>
     <link>https://example.com/sync-1000</link>
     <description><![CDATA[ Auto-generated payload R2. ]]></description>
     <guid isPermaLink="false">rnd-s123ync-1000-88321</guid>
-    <pubDate>Mon, 24 Nov 2025 10:00:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -55,7 +55,7 @@
     <link>https://example.com/trigger-1015</link>
     <description><![CDATA[ Auto-generated payload M8. ]]></description>
     <guid isPermaLink="false">rnd1-trg-1015-55214</guid>
-    <pubDate>Mon, 24 Nov 2025 10:15:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 10:15:00 +0000</pubDate>
 </item>
 
 <item>
@@ -63,7 +63,7 @@
     <link>https://example.com/roll-1030</link>
     <description><![CDATA[ Auto-generated payload T5. ]]></description>
     <guid isPermaLink="false">rnd-ro123ll-1030-77109</guid>
-    <pubDate>Mon, 24 Nov 2025 10:30:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 10:30:00 +0000</pubDate>
 </item>
 
 <item>
@@ -71,7 +71,7 @@
     <link>https://example.com/sync-1000</link>
     <description><![CDATA[ Auto-generated payload R2. ]]></description>
     <guid isPermaLink="false">rnd-sy13nc-1000-88321123</guid>
-    <pubDate>Mon, 24 Nov 2025 09:00:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 09:00:00 +0000</pubDate>
 </item>
 
 <item>
@@ -79,7 +79,7 @@
     <link>https://example.com/trigger-1015</link>
     <description><![CDATA[ Auto-generated payload M8. ]]></description>
     <guid isPermaLink="false">rnd-14trg-1015-55214123</guid>
-    <pubDate>Mon, 24 Nov 2025 09:15:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 09:15:00 +0000</pubDate>
 </item>
 
 <item>
@@ -87,7 +87,7 @@
     <link>https://example.com/roll-1030</link>
     <description><![CDATA[ Auto-generated payload T5. ]]></description>
     <guid isPermaLink="false">rnd-14roll-1030-77109123</guid>
-    <pubDate>Mon, 24 Nov 2025 09:30:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 09:30:00 +0000</pubDate>
 </item>
 
 </channel>
