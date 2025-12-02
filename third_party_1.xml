@@ -5,8 +5,8 @@
 <link>https://example.com</link>
 <description>Test feed with future-dated items for timezone testing</description>
 <language>nl-BE</language>
-<pubDate>Mon, 29 Sep 2025 05:50:00 +0000</pubDate>
-<lastBuildDate>Mon, 29 Sep 2025 05:50:00 +0000</lastBuildDate>
+<pubDate>Tue, 02 Dec 2025 13:00:00 +0000</pubDate>
+<lastBuildDate>Tue, 02 Dec 2025 13:00:00 +0000</lastBuildDate>
 <ttl>60</ttl>
 
 <item>
@@ -14,7 +14,7 @@
     <link>https://example.com/burst-0611</link>
     <description><![CDATA[ Random payload V9 generated for test scenarios. ]]></description>
     <guid isPermaLink="false">rnd-burst-0611-11289</guid>
-    <pubDate>Fri, 14 Nov 2025 12:09:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 06:11:00 +0000</pubDate>
 </item>
 
 <item>
@@ -22,7 +22,7 @@
     <link>https://example.com/metric-1427</link>
     <description><![CDATA[ Random payload L4 snapshot block. ]]></description>
     <guid isPermaLink="false">rnd-met-1427-99341</guid>
-    <pubDate>Fri, 14 Nov 2025 12:16:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 14:27:00 +0000</pubDate>
 </item>
 
 <item>
@@ -30,7 +30,7 @@
     <link>https://example.com/refresh-2031</link>
     <description><![CDATA[ Random payload S2 status indicator. ]]></description>
     <guid isPermaLink="false">rnd-ref-2031-55117</guid>
-    <pubDate>Fri, 14 Nov 2025 12:22:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 20:31:00 +0000</pubDate>
 </item>
 
 <item>
@@ -38,7 +38,7 @@
     <link>https://example.com/logdigest-2344</link>
     <description><![CDATA[ Random payload G8 aggregated digest. ]]></description>
     <guid isPermaLink="false">rnd-dig-2344-77482</guid>
-    <pubDate>Fri, 14 Nov 2025 12:29:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 23:44:00 +0000</pubDate>
 </item>
 
 </channel>
