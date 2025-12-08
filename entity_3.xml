@@ -5,40 +5,40 @@
 <link>https://example.com</link>
 <description>Test feed with future-dated items for timezone testing</description>
 <language>nl-BE</language>
-<pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
-<lastBuildDate>Tue, 02 Dec 2025 10:00:00 +0000</lastBuildDate>
+<pubDate>Mon, 08 Dec 2025 10:00:00 +0000</pubDate>
+<lastBuildDate>Mon, 08 Dec 2025 10:00:00 +0000</lastBuildDate>
 <ttl>60</ttl>
 
 <item>
     <title>entity_3 (gemeente) Morning Sync 06:52</title>
     <link>https://example.com/entity2-morningsync-0652</link>
     <description><![CDATA[ Auto-gen packet Z7 for test feed. ]]></description>
-    <guid isPermaLink="false">guid-ent2-0652-a91277</guid>
-    <pubDate>Tue, 02 Dec 2025 06:52:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-ent3-0652-3d1f0e4a-5c2b-4e3d-8a6f-7b0c4e2d6a9f</guid>
+    <pubDate>Mon, 08 Dec 2025 06:52:00 +0000</pubDate>
 </item>
 
 <item>
     <title>Status Pulse – entity_3 (gemeente) 12:33</title>
     <link>https://example.com/entity2-statuspulse-1233</link>
     <description><![CDATA[ Auto-gen segment L3 updated. ]]></description>
-    <guid isPermaLink="false">guid-ent2-1233-b44291</guid>
-    <pubDate>Tue, 02 Dec 2025 12:33:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-ent3-1233-6b4e3c9a-2d1f-4a0e-9b8c-0a7d5f3c1b4e</guid>
+    <pubDate>Mon, 08 Dec 2025 12:33:00 +0000</pubDate>
 </item>
 
 <item>
     <title>entity_3 (gemeente) Channel Refresh 18:09</title>
     <link>https://example.com/entity2-refresh-1809</link>
     <description><![CDATA[ Auto-gen module V1 synced. ]]></description>
-    <guid isPermaLink="false">guid-ent2-1809-c66158</guid>
-    <pubDate>Tue, 02 Dec 2025 18:09:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-ent3-1809-3f8d2b7c-0a9e-4d1b-8c7a-5e4d2a1b9f6c</guid>
+    <pubDate>Mon, 08 Dec 2025 18:09:00 +0000</pubDate>
 </item>
 
 <item>
     <title>Evening Digest – entity_3 (gemeente) 22:51</title>
     <link>https://example.com/entity2-digest-2251</link>
     <description><![CDATA[ Auto-gen digest group H9. ]]></description>
-    <guid isPermaLink="false">guid-ent2-2251-d33844</guid>
-    <pubDate>Tue, 02 Dec 2025 22:51:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-ent3-2251-9c1a5d6f-7e3b-4c0a-9d2f-1b8e4f5a3c2d</guid>
+    <pubDate>Mon, 08 Dec 2025 22:51:00 +0000</pubDate>
 </item>
 
 </channel>
