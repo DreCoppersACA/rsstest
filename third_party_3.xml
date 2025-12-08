@@ -5,114 +5,112 @@
 <link>https://example.com</link>
 <description>Test feed with future-dated items for timezone testing</description>
 <language>nl-BE</language>
-<pubDate>Mon, 29 Sep 2025 05:50:00 +0000</pubDate>
-<lastBuildDate>Mon, 29 Sep 2025 05:50:00 +0000</lastBuildDate>
+<pubDate>Mon, 08 Dec 2025 05:50:00 +0000</pubDate>
+<lastBuildDate>Mon, 08 Dec 2025 05:50:00 +0000</lastBuildDate>
 <ttl>60</ttl>
 
 <item>
     <title>third_party_3 Snapshot Event 07:42</title>
     <link>https://example.com/snapshot-0742</link>
     <description><![CDATA[ Auto-generated p3123ad X1. ]]></description>
-    <guid isPermaLink="false">guid-3-742-a91234</guid>
-    <pubDate>Tue, 02 Dec 2025 07:42:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-snap-3-a92c34d0-1e8b-4f7c-9d6a-5b0e4f3a2c1d</guid>
+    <pubDate>Mon, 08 Dec 2025 07:42:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Status Pulse Check</title>
     <link>https://example.com/pulse-check</link>
     <description><![CDATA[ Auto12312ayload Z3. ]]></description>
-    <guid isPermaLink="false">guid-3-pls-b44112</guid>
-    <pubDate>Tue, 02 Dec 2025 12:14:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-pulse-3-b4e112c3-5a9d-4f1e-8b7c-0d6a2f4e5c3b</guid>
+    <pubDate>Mon, 08 Dec 2025 12:14:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Telemetry Sync 19:55</title>
     <link>https://example.com/telemetry-1955</link>
     <description><![CDATA[ Auto-123oad Q7. ]]></description>
-    <guid isPermaLink="false">guid-3-tel-c77102</guid>
-    <pubDate>Tue, 02 Dec 2025 19:55:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-tel-3-c77102e1-4b5c-4d8f-9a0b-3c2d1e5f4a7b</guid>
+    <pubDate>Mon, 08 Dec 2025 19:55:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Evening Rollup 22:03</title>
     <link>https://example.com/rollup-2203</link>
     <description><![CDATA[ 123payload H4. ]]></description>
-    <guid isPermaLink="false">guid-3-roll-d99355</guid>
-    <pubDate>Tue, 02 Dec 2025 22:03:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-roll-3-d99355f4-2c1a-4e8b-9f7d-6a5b3c2e1d0f</guid>
+    <pubDate>Mon, 08 Dec 2025 22:03:00 +0000</pubDate>
 </item>
 
-<!-- Nieuwe items -->
 <item>
     <title>third_party_3 Sync Dispatch 11:00</title>
     <link>https://example.com/sync-1000</link>
     <description><![CDATA[ Auto-generated123 R2. ]]></description>
-    <guid isPermaLink="false">guid-3-sync-1000-aa8821</guid>
-    <pubDate>Tue, 02 Dec 2025 11:00:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-sync11-3-aa8821a0-5e1d-4c3b-9f7a-2d4e6f8c0b1a</guid>
+    <pubDate>Mon, 08 Dec 2025 11:00:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Event Trigger 11:15</title>
     <link>https://example.com/trigger-1015</link>
     <description><![CDATA[ 123 M8. ]]></description>
-    <guid isPermaLink="false">guid-3-trg-1015-bb5521</guid>
-    <pubDate>Tue, 02 Dec 2025 11:15:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-trg11-3-bb5521b2-9d3f-4e0a-8c7b-1a5d6f4e2c3b</guid>
+    <pubDate>Mon, 08 Dec 2025 11:15:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Data Roll Forward 11:30</title>
     <link>https://example.com/roll-1030</link>
     <description><![CDATA[ 123payload T5. ]]></description>
-    <guid isPermaLink="false">guid-3-roll-1030-cc7710</guid>
-    <pubDate>Tue, 02 Dec 2025 11:30:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-roll11-3-cc7710c4-1a2b-4f9d-8e7c-0b3a5d6f4e1c</guid>
+    <pubDate>Mon, 08 Dec 2025 11:30:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Sync Dispatch 10:00</title>
     <link>https://example.com/sync-1000</link>
     <description><![CDATA[13 payload R2. ]]></description>
-    <guid isPermaLink="false">guid-3-sync-1000-dd8832</guid>
-    <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-sync10-3-dd8832d6-3c4d-4e1a-8b0f-7a9c2d5e6f3b</guid>
+    <pubDate>Mon, 08 Dec 2025 10:00:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Event Trigger 10:15</title>
     <link>https://example.com/trigger-1015</link>
     <description><![CDATA[ Auto-generated payload M8. ]]></description>
-    <guid isPermaLink="false">guid-3-trg-1015-ee5529</guid>
-    <pubDate>Tue, 02 Dec 2025 10:15:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-trg10-3-ee5529e8-7f6d-4c5b-9a4e-3d2c1b0f9a8e</guid>
+    <pubDate>Mon, 08 Dec 2025 10:15:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Data Roll Forward 10:30</title>
     <link>https://example.com/roll-1030</link>
     <description><![CDATA[ Auto-generated payload T5. ]]></description>
-    <guid isPermaLink="false">guid-3-roll-1030-ff7719</guid>
-    <pubDate>Tue, 02 Dec 2025 10:30:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-roll10-3-ff7719f9-0a1b-4d2c-8e3f-7c4d5b6e0a9f</guid>
+    <pubDate>Mon, 08 Dec 2025 10:30:00 +0000</pubDate>
 </item>
 
-<!-- Midday items -->
 <item>
     <title>third_party_3 Midday Sync 12:30</title>
     <link>https://example.com/midday-1230</link>
     <description><![CDATA[ Auto-ge123ayload L1. ]]></description>
-    <guid isPermaLink="false">guid-3-mid-1230-114482</guid>
-    <pubDate>Tue, 02 Dec 2025 12:30:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-mid1-3-114482b0-5c1a-4d9f-8e7b-0f3a2c4d6e5b</guid>
+    <pubDate>Mon, 08 Dec 2025 12:30:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Midday Sync 12:45</title>
     <link>https://example.com/midday-1245</link>
     <description><![CDATA[ Auto-g1231load C9. ]]></description>
-    <guid isPermaLink="false">guid-3-mid-1245-228813</guid>
-    <pubDate>Tue, 02 Dec 2025 12:45:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-mid2-3-228813c2-9f7d-4a1e-8b3c-0d6f5a4e2c1b</guid>
+    <pubDate>Mon, 08 Dec 2025 12:45:00 +0000</pubDate>
 </item>
 
 <item>
     <title>third_party_3 Midday Sync 12:50</title>
     <link>https://example.com/midday-1250</link>
     <description><![CDATA[ 123erated payload V4. ]]></description>
-    <guid isPermaLink="false">guid-3-mid-1250-339935</guid>
-    <pubDate>Tue, 02 Dec 2025 12:50:00 +0000</pubDate>
+    <guid isPermaLink="false">guid-mid3-3-339935e4-1b0f-4d2c-8e7a-9f6d5c3e4b1a</guid>
+    <pubDate>Mon, 08 Dec 2025 12:50:00 +0000</pubDate>
 </item>
 
 </channel>
