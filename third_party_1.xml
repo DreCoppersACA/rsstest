@@ -5,41 +5,34 @@
 <link>https://example.com</link>
 <description>Test feed with future-dated items for timezone testing</description>
 <language>nl-BE</language>
-<pubDate>Mon, 08 Dec 2025 08:55:00 +0000</pubDate>
-<lastBuildDate>Mon, 08 Dec 2025 08:55:00 +0000</lastBuildDate>
+<pubDate>Fri, 12 Dec 2025 15:00:00 +0000</pubDate>
+<lastBuildDate>Fri, 12 Dec 2025 15:00:00 +0000</lastBuildDate>
 <ttl>60</ttl>
 
 <item>
-    <title>third_party_1 Burst Update 06:11</title>
-    <link>https://example.com/burst-0611</link>
-    <description><![CDATA[ Random payload V9 generated for test scenarios. ]]></description>
-    <guid isPermaLink="false">guid-burst1-5e2a1b94-3dc8-4fa7-9d39-92cbbad8e712</guid>
-    <pubDate>Mon, 08 Dec 2025 09:15:00 +0000</pubDate>
+    <title>third_party_1 Burst Update 06:11</title>
+    <link>https://example.com/burst-0611</link>
+    <description><![CDATA[ Random payload V9 generated for test scenarios. ]]></description>
+    <guid isPermaLink="false">update3-burst1-V9-a2b3c4d5</guid>
+    <pubDate>Fri, 12 Dec 2025 15:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_1 Metric Sync 14:27</title>
-    <link>https://example.com/metric-1427</link>
-    <description><![CDATA[ Random payload L4 snapshot block. ]]></description>
-    <guid isPermaLink="false">guid-met1-0f3c8d34-5ab1-40ae-b099-8f71e229c1ac</guid>
-    <pubDate>Mon, 08 Dec 2025 11:00:00 +0000</pubDate>
+    <title>third_party_1 Metric Sync 14:27</title>
+    <link>https://example.com/metric-1427</link>
+    <description><![CDATA[ Random payload L4 snapshot block. ]]></description>
+    <guid isPermaLink="false">update3-met1-L4-e6f7g8h9</guid>
+    <pubDate>Fri, 12 Dec 2025 15:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_1 Channel Refresh 20:31</title>
-    <link>https://example.com/refresh-2031</link>
-    <description><![CDATA[ Random payload S2 status indicator. ]]></description>
-    <guid isPermaLink="false">guid-ref1-7c5b9a6e2-7582-4fa8-b6de-c5c362dc83c1</guid>
-    <pubDate>Mon, 08 Dec 2025 13:45:00 +0000</pubDate>
+    <title>third_party_1 Channel Refresh 20:31</title>
+    <link>https://example.com/refresh-2031</link>
+    <description><![CDATA[ Random payload S2 status indicator. ]]></description>
+    <guid isPermaLink="false">update3-ref1-S2-i0j1k2l3</guid>
+    <pubDate>Fri, 12 Dec 2025 15:00:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_1 Log Digest 23:44</title>
-    <link>https://example.com/logdigest-2344</link>
-    <description><![CDATA[ Random payload G8 aggregated digest. ]]></description>
-    <guid isPermaLink="false">guid-dig1-a4d33f9f-41f4-4d8b-92d1-fd8a0dd90d77</guid>
-    <pubDate>Mon, 08 Dec 2025 16:30:00 +0000</pubDate>
-</item>
-
-</channel>
-</rss>
+    <title>third_party_1 Log Digest 23:44</title>
+    <link>https://example.
