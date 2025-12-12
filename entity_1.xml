@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-<channel>
-    <title>third_party_test</title>
-    <link>https://example.com</link>
-    <description>Test feed with future-dated items for timezone testing</description>
-    <language>nl-BE</language>
-    <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 14:30:00 +0000</lastBuildDate>
-    <ttl>60</ttl>
+  <channel>
+    <title>third_party_test</title>
+    <link>https://example.com</link>
+    <description>Test feed with future-dated items for timezone testing</description>
+    <language>nl-BE</language>
+    <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 14:30:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
 
-    <item>
-        <title>Status Update – entity_1 (gemeente) Report 08:14</title>
-        <link>https://example.com/entity1-report-0814</link>
-        <description><![CDATA[ Auto-generated status packet R12. ]]></description>
-        <guid isPermaLink="false">guid-update2-ent1-r12-x5y6z7w8</guid>
-        <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
+    <item>
+      <title>Status Update – entity_1 (gemeente) Report 08:14</title>
+      <link>https://example.com/entity1-report-0814</link>
+      <description><![CDATA[Auto-generated status packet R12.]]></description>
+      <guid isPermaLink="false">guid-update2-ent1-r12-x5y6z7w8</guid>
+      <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
+    </item>
 
-    <item>
-        <title>entity_1 (gemeente) Sync Pulse 11:59</title>
-        <link>https://example.com/entity1-syncpulse-1159</link>
-        <description><![CDATA[ Auto-generated content F4 for testing. ]]></description>
-        <guid isPermaLink="false">guid-update2-ent1-f4-q1r2s3t4</guid>
-        <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
+    <item>
+      <title>entity_1 (gemeente) Sync Pulse 11:59</title>
+      <link>https://example.com/entity1-syncpulse-1159</link>
+      <description><![CDATA[Auto-generated content F4 for testing.]]></description>
+      <guid isPermaLink="false">guid-update2-ent1-f4-q1r2s3t4</guid>
+      <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
+    </item>
 
-    <item>
-        <title>Data Check – entity_1 (gemeente) Channel 17:22</title>
-        <link>https://example.com/entity1-channel-1722</link>
-        <description><![CDATA[ Auto-generated metric block K8. ]]></description>
-        <guid isPermaLink="false">guid-update2-ent1-k8-u9v0w1x2</guid>
-        <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
+    <item>
+      <title>Data Check – entity_1 (gemeente) Channel 17:22</title>
+      <link>https://example.com/entity1-channel-1722</link>
+      <description><![CDATA[Auto-generated metric block K8.]]></description>
+      <guid isPermaLink="false">guid-update2-ent1-k8-u9v0w1x2</guid>
+      <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
+    </item>
 
-    <item>
-        <title>Event Digest for entity_1 (gemeente) 21:48</title>
-        <link>https://example.com/entity1-digest-2148</link>
-        <description><![CDATA[ Auto-generated digest sequence M6. ]]></description>
-        <guid isPermaLink="false">guid-update2-ent1-m6-y3z4a5b6</guid>
-        <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
+    <item>
+      <title>Event Digest for entity_1 (gemeente) 21:48</title>
+      <link>https://example.com/entity1-digest-2148</link>
+      <description><![CDATA[Auto-generated digest sequence M6.]]></description>
+      <guid isPermaLink="false">guid-update2-ent1-m6-y3z4a5b6</guid>
+      <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
+    </item>
 
-</channel>
+  </channel>
 </rss>
