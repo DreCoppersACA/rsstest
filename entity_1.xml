@@ -8,38 +8,33 @@
     <pubDate>Tue, 09 Dec 2025 08:00:00 +0000</pubDate>
     <lastBuildDate>Tue, 09 Dec 2025 08:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
-
     <item>
         <title>Status Update – entity_1 (gemeente) Report 08:14</title>
         <link>https://example.com/entity1-report-0814</link>
         <description><![CDATA[ Auto-generated status packet R12. ]]></description>
-        <guid isPermaLink="false">guid-ent1-817f9c21-1d4b-4c0d-b1e2-93a3b91f8e02</guid>
-        <pubDate>Tue, 09 Dec 2025 08:30:00 +0000</pubDate>
+        <guid isPermaLink="false">NEW-guid-ent1-r12-a1b2c3d4</guid>
+        <pubDate>Fri, 12 Dec 2025 11:00:00 +0000</pubDate>
     </item>
-
     <item>
         <title>entity_1 (gemeente) Sync Pulse 11:59</title>
         <link>https://example.com/entity1-syncpulse-1159</link>
         <description><![CDATA[ Auto-generated content F4 for testing. ]]></description>
-        <guid isPermaLink="false">guid-ent1-2c83d91b-2f18-4de7-a2fd-12cb50b82c78</guid>
-        <pubDate>Tue, 09 Dec 2025 10:00:00 +0000</pubDate>
+        <guid isPermaLink="false">NEW-guid-ent1-f4-e5f6g7h8</guid>
+        <pubDate>Fri, 12 Dec 2025 11:00:00 +0000</pubDate>
     </item>
-
     <item>
         <title>Data Check – entity_1 (gemeente) Channel 17:22</title>
         <link>https://example.com/entity1-channel-1722</link>
         <description><![CDATA[ Auto-generated metric block K8. ]]></description>
-        <guid isPermaLink="false">guid-ent1-5a21f0e4-f2d3-4a4c-8248-cce4e7827c45</guid>
-        <pubDate>Tue, 09 Dec 2025 12:30:00 +0000</pubDate>
+        <guid isPermaLink="false">NEW-guid-ent1-k8-i9j0k1l2</guid>
+        <pubDate>Fri, 12 Dec 2025 11:00:00 +0000</pubDate>
     </item>
-
     <item>
         <title>Event Digest for entity_1 (gemeente) 21:48</title>
         <link>https://example.com/entity1-digest-2148</link>
         <description><![CDATA[ Auto-generated digest sequence M6. ]]></description>
-        <guid isPermaLink="false">guid-ent1-fe05b3a9-7c18-42c3-bc39-6df0010a97d6</guid>
-        <pubDate>Tue, 09 Dec 2025 15:00:00 +0000</pubDate>
+        <guid isPermaLink="false">NEW-guid-ent1-m6-m3n4o5p6</guid>
+        <pubDate>Fri, 12 Dec 2025 11:00:00 +0000</pubDate>
     </item>
-
 </channel>
 </rss>
