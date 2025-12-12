@@ -5,89 +5,88 @@
 <link>https://example.com</link>
 <description>Test feed with future-dated items for timezone testing</description>
 <language>nl-BE</language>
-<pubDate>Mon, 29 Sep 2025 05:50:00 +0000</pubDate>
-<lastBuildDate>Mon, 29 Sep 2025 05:50:00 +0000</lastBuildDate>
+<pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
+<lastBuildDate>Fri, 12 Dec 2025 15:10:00 +0000</lastBuildDate>
 <ttl>60</ttl>
 
 <item>
-    <title>third_party_2 Snapshot Event 07:42</title>
-    <link>https://example.com/snapshot-0742</link>
-    <description><![CDATA[ Auto-generated payload X1. ]]></description>
-    <guid isPermaLink="false">rnd-742-99213421</guid>
-    <pubDate>Tue, 02 Dec 2025 12:07:00 +0000</pubDate>
+    <title>third_party_2 Snapshot Event 07:42</title>
+    <link>https://example.com/snapshot-0742</link>
+    <description><![CDATA[ Auto-generated payload X1. ]]></description>
+    <guid isPermaLink="false">update4-rnd-742-X1-a1b2c3</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_2 Status Pulse Check</title>
-    <link>https://example.com/pulse-check</link>
-    <description><![CDATA[ Auto-generated payload Z3. ]]></description>
-    <guid isPermaLink="false">rnd-pls-41234213</guid>
-    <pubDate>Tue, 02 Dec 2025 12:14:00 +0000</pubDate>
+    <title>third_party_2 Status Pulse Check</title>
+    <link>https://example.com/pulse-check</link>
+    <description><![CDATA[ Auto-generated payload Z3. ]]></description>
+    <guid isPermaLink="false">update4-rnd-pls-Z3-d4e5f6</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_2 Telemetry Sync 19:55</title>
-    <link>https://example.com/telemetry-1955</link>
-    <description><![CDATA[ Auto-generated payload Q7. ]]></description>
-    <guid isPermaLink="false">rn2312d-tel-77512</guid>
-    <pubDate>Tue, 02 Dec 2025 12:21:00 +0000</pubDate>
+    <title>third_party_2 Telemetry Sync 19:55</title>
+    <link>https://example.com/telemetry-1955</link>
+    <description><![CDATA[ Auto-generated payload Q7. ]]></description>
+    <guid isPermaLink="false">update4-rnd-tel-Q7-g7h8i9</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_2 Evening Rollup 22:03</title>
-    <link>https://example.com/rollup-2203</link>
-    <description><![CDATA[ Auto-generated payload H4. ]]></description>
-    <guid isPermaLink="false">rnd-r213oll-99311</guid>
-    <pubDate>Tue, 02 Dec 2025 12:28:00 +0000</pubDate>
-</item>
-
-<!-- Nieuwe items -->
-<item>
-    <title>third_party_2 Sync Dispatch 11:00</title>
-    <link>https://example.com/sync-1000</link>
-    <description><![CDATA[ Auto-generated payload R2. ]]></description>
-    <guid isPermaLink="false">rnd-s123ync-1000-88321</guid>
-    <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
+    <title>third_party_2 Evening Rollup 22:03</title>
+    <link>https://example.com/rollup-2203</link>
+    <description><![CDATA[ Auto-generated payload H4. ]]></description>
+    <guid isPermaLink="false">update4-rnd-rll-H4-j0k1l2</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_2 Event Trigger 11:15</title>
-    <link>https://example.com/trigger-1015</link>
-    <description><![CDATA[ Auto-generated payload M8. ]]></description>
-    <guid isPermaLink="false">rnd1-trg-1015-55214</guid>
-    <pubDate>Tue, 02 Dec 2025 10:15:00 +0000</pubDate>
+    <title>third_party_2 Sync Dispatch 11:00</title>
+    <link>https://example.com/sync-1000</link>
+    <description><![CDATA[ Auto-generated payload R2. ]]></description>
+    <guid isPermaLink="false">update4-rnd-syc-R2-m3n4o5</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_2 Data Roll Forward 11:30</title>
-    <link>https://example.com/roll-1030</link>
-    <description><![CDATA[ Auto-generated payload T5. ]]></description>
-    <guid isPermaLink="false">rnd-ro123ll-1030-77109</guid>
-    <pubDate>Tue, 02 Dec 2025 10:30:00 +0000</pubDate>
+    <title>third_party_2 Event Trigger 11:15</title>
+    <link>https://example.com/trigger-1015</link>
+    <description><![CDATA[ Auto-generated payload M8. ]]></description>
+    <guid isPermaLink="false">update4-rnd-trg-M8-p6q7r8</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_2 Sync Dispatch 10:00</title>
-    <link>https://example.com/sync-1000</link>
-    <description><![CDATA[ Auto-generated payload R2. ]]></description>
-    <guid isPermaLink="false">rnd-sy13nc-1000-88321123</guid>
-    <pubDate>Tue, 02 Dec 2025 09:00:00 +0000</pubDate>
+    <title>third_party_2 Data Roll Forward 11:30</title>
+    <link>https://example.com/roll-1030</link>
+    <description><![CDATA[ Auto-generated payload T5. ]]></description>
+    <guid isPermaLink="false">update4-rnd-rfr-T5-s9t0u1</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_2 Event Trigger 10:15</title>
-    <link>https://example.com/trigger-1015</link>
-    <description><![CDATA[ Auto-generated payload M8. ]]></description>
-    <guid isPermaLink="false">rnd-14trg-1015-55214123</guid>
-    <pubDate>Tue, 02 Dec 2025 09:15:00 +0000</pubDate>
+    <title>third_party_2 Sync Dispatch 10:00</title>
+    <link>https://example.com/sync-1000</link>
+    <description><![CDATA[ Auto-generated payload R2. ]]></description>
+    <guid isPermaLink="false">update4-rnd-syc2-R2-v2w3x4</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
 </item>
 
 <item>
-    <title>third_party_2 Data Roll Forward 10:30</title>
-    <link>https://example.com/roll-1030</link>
-    <description><![CDATA[ Auto-generated payload T5. ]]></description>
-    <guid isPermaLink="false">rnd-14roll-1030-77109123</guid>
-    <pubDate>Tue, 02 Dec 2025 09:30:00 +0000</pubDate>
+    <title>third_party_2 Event Trigger 10:15</title>
+    <link>https://example.com/trigger-1015</link>
+    <description><![CDATA[ Auto-generated payload M8. ]]></description>
+    <guid isPermaLink="false">update4-rnd-trg2-M8-y5z6a7</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>third_party_2 Data Roll Forward 10:30</title>
+    <link>https://example.com/roll-1030</link>
+    <description><![CDATA[ Auto-generated payload T5. ]]></description>
+    <guid isPermaLink="false">update4-rnd-rfr2-T5-b8c9d0</guid>
+    <pubDate>Fri, 12 Dec 2025 15:10:00 +0000</pubDate>
 </item>
 
 </channel>
