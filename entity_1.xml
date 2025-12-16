@@ -1,45 +1,1258 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>third_party_test</title>
-    <link>https://example.com</link>
-    <description>Test feed with future-dated items for timezone testing</description>
-    <language>nl-BE</language>
-    <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 14:30:00 +0000</lastBuildDate>
-    <ttl>60</ttl>
-
-    <item>
-      <title>Status Update – entity_1 (gemeente) Report 08:14</title>
-      <link>https://example.com/entity1-report-0814</link>
-      <description><![CDATA[Auto-generated status packet R12.]]></description>
-      <guid isPermaLink="false">guid-update2-ent1-r12-x5y6z7w8</guid>
-      <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>entity_1 (gemeente) Sync Pulse 11:59</title>
-      <link>https://example.com/entity1-syncpulse-1159</link>
-      <description><![CDATA[Auto-generated content F4 for testing.]]></description>
-      <guid isPermaLink="false">guid-update2-ent1-f4-q1r2s3t4</guid>
-      <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Data Check – entity_1 (gemeente) Channel 17:22</title>
-      <link>https://example.com/entity1-channel-1722</link>
-      <description><![CDATA[Auto-generated metric block K8.]]></description>
-      <guid isPermaLink="false">guid-update2-ent1-k8-u9v0w1x2</guid>
-      <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Event Digest for entity_1 (gemeente) 21:48</title>
-      <link>https://example.com/entity1-digest-2148</link>
-      <description><![CDATA[Auto-generated digest sequence M6.]]></description>
-      <guid isPermaLink="false">guid-update2-ent1-m6-y3z4a5b6</guid>
-      <pubDate>Fri, 12 Dec 2025 14:30:00 +0000</pubDate>
-    </item>
-
-  </channel>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>
+<![CDATA[ HBVL - Genk ]]>
+</title>
+<description>
+<![CDATA[ HBVL - Genk ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/</link>
+<image>
+<url>/_next/static/media/logo-square-main.1176b4e1.png</url>
+<title>HBVL - Genk</title>
+<link>https://www.hbvl.be/regio/limburg/genk/</link>
+</image>
+<generator>mhbe-hbvl-online</generator>
+<lastBuildDate>Tue, 16 Dec 2025 12:53:46 GMT</lastBuildDate>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/rss" rel="self" type="application/rss+xml"/>
+<copyright>
+<![CDATA[ © Mediahuis Belgie ]]>
+</copyright>
+<language>
+<![CDATA[ nl ]]>
+</language>
+<item>
+<title>
+<![CDATA[ Dit zijn de spelers van de week in de provinciale voetbalreeksen ]]>
+</title>
+<description>
+<![CDATA[ Naar goede gewoonte maken we op dinsdag de spelers van de week in de provinciale voetbalreeksen bekend. Wie op speeldag 16 met de eer gaat lopen, ontdek je hier: ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/dit-zijn-de-spelers-van-de-week-in-de-provinciale-voetbalreeksen/104573996.html</link>
+<guid isPermaLink="false">ece-auto-gen-50987236-9f6c-4cfb-be7b-28401d04b39d</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Rob Mertens,Arno Schepers ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 10:45:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/scnclz-21512fc-limburg.jpg/alternates/BASE_SIXTEEN_NINE/21512FC_limburg.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-16T10:45:00.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/dit-zijn-de-spelers-van-de-week-in-de-provinciale-voetbalreeksen/104573996.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/scnclz-21512fc-limburg.jpg/alternates/BASE_SIXTEEN_NINE/21512FC_limburg.jpg" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Neergeschoten man (24) uit Genk buiten levensgevaar: slachtoffer wordt verhoord zodra het kan ]]>
+</title>
+<description>
+<![CDATA[ De twintiger uit Genk die maandagavond werd neergeschoten is niet langer in levensgevaar. De omstandigheden van de schietpartij zijn nog onbekend. Het is onder meer wachten of het verhoor van het slachtoffer duidelijkheid kan verschaffen. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/neergeschoten-man-24-uit-genk-buiten-levensgevaar-slachtoffer-wordt-verhoord-zodra-het-kan/114069482.html</link>
+<guid isPermaLink="false">Kordiam-2027346632-3287022342-2553876462</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis,Phillip Pergens ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 10:09:47 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/9gv6ai-split--termien-b.jpg/alternates/BASE_SIXTEEN_NINE/Split_%20Termien_B.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-16T10:50:10.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/neergeschoten-man-24-uit-genk-buiten-levensgevaar-slachtoffer-wordt-verhoord-zodra-het-kan/114069482.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/9gv6ai-split--termien-b.jpg/alternates/BASE_SIXTEEN_NINE/Split_%20Termien_B.jpg" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Martin MOESEN, 83 jaar ]]>
+</title>
+<description>
+<![CDATA[ Geboren in 1942, overleden op 10/12/2025. ]]>
+</description>
+<link>https://www.hbvl.be/regio/inmemoriam/martin-moesen-83-jaar/114008287.html</link>
+<guid isPermaLink="false">MhArticleGate-ag_mhbehbvl_article_gate_608090-hbvl-inmemoriam</guid>
+<category>
+<![CDATA[ Inmemoriam ]]>
+</category>
+<dc:creator>
+<![CDATA[ Rerren Begrafenissen ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:07 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/inmemoriam/1fde12-article-gate-img-608090-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608090-hbvl-inmemoriam_0" length="0" type="image/*"/>
+<atom:updated>2025-12-16T04:04:07.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/inmemoriam/martin-moesen-83-jaar/114008287.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/inmemoriam/1fde12-article-gate-img-608090-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608090-hbvl-inmemoriam_0" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Christine Christiaens, 78 jaar ]]>
+</title>
+<description>
+<![CDATA[ Geboren in 1947, overleden op 14/12/2025. ]]>
+</description>
+<link>https://www.hbvl.be/regio/inmemoriam/christine-christiaens-78-jaar/114008276.html</link>
+<guid isPermaLink="false">MhArticleGate-ag_mhbehbvl_article_gate_608125-hbvl-inmemoriam</guid>
+<category>
+<![CDATA[ Inmemoriam ]]>
+</category>
+<dc:creator>
+<![CDATA[ Begrafenissen Witters en Baers ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/inmemoriam/tw14vm-article-gate-img-608125-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608125-hbvl-inmemoriam_0" length="0" type="image/*"/>
+<atom:updated>2025-12-16T04:04:05.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/inmemoriam/christine-christiaens-78-jaar/114008276.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/inmemoriam/tw14vm-article-gate-img-608125-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608125-hbvl-inmemoriam_0" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Genks bedrijf mag 1.200 woonunits leveren aan Defensie: “Onze offerte was 300 euro goedkoper” ]]>
+</title>
+<description>
+<![CDATA[ Het Belgische leger investeert ruim 3 miljoen euro per jaar in tijdelijke units om de woon- en werkomstandigheden in onze kazernes te verbeteren. Het nieuwe raamcontract is toegewezen aan het Genkse bedrijf Warsco, dat in een eerste fase al 1.200 units mag leveren. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/genks-bedrijf-mag-1.200-woonunits-leveren-aan-defensie-onze-offerte-was-300-euro-goedkoper/111583069.html</link>
+<guid isPermaLink="false">Kordiam-2026560922-3285473312-2552969592</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Bart Bijnens ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/c9g877-warsco-defensie-doornik/alternates/BASE_SIXTEEN_NINE/Warsco%20Defensie%20Doornik" length="0" type="image/*"/>
+<atom:updated>2025-12-16T06:01:43.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/genks-bedrijf-mag-1.200-woonunits-leveren-aan-defensie-onze-offerte-was-300-euro-goedkoper/111583069.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/c9g877-warsco-defensie-doornik/alternates/BASE_SIXTEEN_NINE/Warsco%20Defensie%20Doornik" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ De eerste units van Warsco werden vorige week in de kazerne van Doornik geplaatst. © rr ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Schietpartij op parking van jeugdhuis TNT in Termien: twintiger uit Genk levensgevaarlijk gewond ]]>
+</title>
+<description>
+<![CDATA[ Maandag rond 19 uur is bij de hulpdiensten een melding binnengekomen van een schietpartij vlakbij jeugdhuis TNT in Termien. Een 24-jarige man uit Genk werd er neergeschoten. De man werd in kritieke toestand naar het ziekenhuis gebracht. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/schietpartij-op-parking-van-jeugdhuis-tnt-in-termien-twintiger-uit-genk-levensgevaarlijk-gewond/113938004.html</link>
+<guid isPermaLink="false">Kordiam-2027300431-3286932021-2553824731</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis,Mireille Maes ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/opnex4-schietpartij-termien/alternates/BASE_SIXTEEN_NINE/Schietpartij%20Termien" length="0" type="image/*"/>
+<atom:updated>2025-12-15T21:09:04.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/schietpartij-op-parking-van-jeugdhuis-tnt-in-termien-twintiger-uit-genk-levensgevaarlijk-gewond/113938004.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/opnex4-schietpartij-termien/alternates/BASE_SIXTEEN_NINE/Schietpartij%20Termien" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Hier houden ze alles in de gaten tijdens De Warmste Week: “We kunnen direct ingrijpen indien nodig” ]]>
+</title>
+<description>
+<![CDATA[ Donderdag start De Warmste Week in het Genkse Cosmogolempark. Dagelijks kunnen ze er tot 17.000 personen verwelkomen. Vanuit een commandopost in het stadhuis wordt de drukte op het terrein gemonitord. “Indien nodig, remmen we de instroom af”, zegt burgemeester Wim Dries. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/hier-houden-ze-alles-in-de-gaten-tijdens-de-warmste-week-we-kunnen-direct-ingrijpen-indien-nodig/113669866.html</link>
+<guid isPermaLink="false">Kordiam-2027163431-3286665041-2553660881</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Gilles Niesen ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/ci8sz2-veiligheidscel-warmste-week-genk-genk-on-stage/alternates/BASE_SIXTEEN_NINE/Veiligheidscel%20Warmste%20Week%20Genk%20-%20Genk%20on%20Stage" length="0" type="image/*"/>
+<atom:updated>2025-12-15T20:54:57.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/hier-houden-ze-alles-in-de-gaten-tijdens-de-warmste-week-we-kunnen-direct-ingrijpen-indien-nodig/113669866.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/ci8sz2-veiligheidscel-warmste-week-genk-genk-on-stage/alternates/BASE_SIXTEEN_NINE/Veiligheidscel%20Warmste%20Week%20Genk%20-%20Genk%20on%20Stage" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ © Stad Genk ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Volg live gemeenteraad van Genk en debat over meerjarenplan ]]>
+</title>
+<description>
+<![CDATA[ Dinsdagavond kunt u vanaf 20 uur de verslaggeving van de gemeenteraad in Genk live volgen op hbvl.be. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/volg-live-gemeenteraad-van-genk-en-debat-over-meerjarenplan/113687399.html</link>
+<guid isPermaLink="false">Kordiam-2027208011-3286751241-2553714551</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/5qw5xg-de-gemeenteraadszitting-gaat-door-in-het-stadhuis-van-genk./alternates/BASE_SIXTEEN_NINE/De%20gemeenteraadszitting%20gaat%20door%20in%20het%20stadhuis%20van%20Genk." length="0" type="image/*"/>
+<atom:updated>2025-12-15T17:58:32.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/volg-live-gemeenteraad-van-genk-en-debat-over-meerjarenplan/113687399.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/5qw5xg-de-gemeenteraadszitting-gaat-door-in-het-stadhuis-van-genk./alternates/BASE_SIXTEEN_NINE/De%20gemeenteraadszitting%20gaat%20door%20in%20het%20stadhuis%20van%20Genk." medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Door deel te nemen aan de dialoogsessies kunnen niet alleen gemeenteraadsleden maar alle inwoners van Genk mee bepalen hoe het meerjarenplan, zij het vanuit een kader, er gaat uitzien. © Chris Nelis ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Zwartberg krijgt voortaan eieren van kosmopolitische kippen in ruil voor keukenafval ]]>
+</title>
+<description>
+<![CDATA[ Het Compostschooltje in Zwartberg wordt de nieuwe thuis van de Planetary Community Chicken van kunstenaar Koen Vanmechelen. Het project combineert kunst, ecologie en buurtwerking. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/zwartberg-krijgt-voortaan-eieren-van-kosmopolitische-kippen-in-ruil-voor-keukenafval/113817939.html</link>
+<guid isPermaLink="false">Kordiam-2027261202-3286857032-2553781472</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/mj7h6c-file83pcinkxfhe1iqv5jf9p/alternates/BASE_SIXTEEN_NINE/file83pcinkxfhe1iqv5jf9p" length="0" type="image/*"/>
+<atom:updated>2025-12-15T21:39:35.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/zwartberg-krijgt-voortaan-eieren-van-kosmopolitische-kippen-in-ruil-voor-keukenafval/113817939.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/mj7h6c-file83pcinkxfhe1iqv5jf9p/alternates/BASE_SIXTEEN_NINE/file83pcinkxfhe1iqv5jf9p" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Genkenaar gewond bij ongeval in Leopoldsburg ]]>
+</title>
+<link>https://www.hbvl.be/regio/limburg/leopoldsburg/genkenaar-gewond-bij-ongeval-in-leopoldsburg/113878398.html</link>
+<guid isPermaLink="false">ece-auto-gen-5277f2a0-8c39-4de0-9235-a866b8343349</guid>
+<category>
+<![CDATA[ Leopoldsburg ]]>
+</category>
+<dc:creator>
+<![CDATA[ Mireille Maes ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.nieuwsblad.be/public/nieuws/2ar1lf-cue-53290493-20250407101120.jpeg/alternates/BASE_SIXTEEN_NINE/cue-53290493_20250407101120.jpeg" length="0" type="image/*"/>
+<atom:updated>2025-12-15T16:23:30.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/leopoldsburg/genkenaar-gewond-bij-ongeval-in-leopoldsburg/113878398.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.nieuwsblad.be/public/nieuws/2ar1lf-cue-53290493-20250407101120.jpeg/alternates/BASE_SIXTEEN_NINE/cue-53290493_20250407101120.jpeg" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ © MARC HERREMANS - MEDIAHUIS ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Pieter Jeunen (35) kleurt comeback bij Schoonbeek-Beverst met assist en rode kaart: “Uit noodzaak” ]]>
+</title>
+<description>
+<![CDATA[ Een assist en... een rode kaart. De ‘gestopte’ Pieter Jeunen (35) eiste zaterdag bij zijn comeback bij Schoonbeek-Beverst de hoofdrol op. “Ik zou het mezelf nooit vergeven hebben als we nog verloren hadden.” ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/pieter-jeunen-35-kleurt-comeback-bij-schoonbeek-beverst-met-assist-en-rode-kaart-uit-noodzaak/107576831.html</link>
+<guid isPermaLink="false">Kordiam-2019801531-3272403481-2545167311</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Gert Sillen ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/5rorup-pieter.jpg/alternates/BASE_SIXTEEN_NINE/Pieter.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-15T18:14:57.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/pieter-jeunen-35-kleurt-comeback-bij-schoonbeek-beverst-met-assist-en-rode-kaart-uit-noodzaak/107576831.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/5rorup-pieter.jpg/alternates/BASE_SIXTEEN_NINE/Pieter.jpg" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Pieter Jeunen slikte rood bij z’n comeback: “Ik zou het mezelf nooit vergeven hebben als we nog verloren hadden.” © Chelsey Ruysen ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Ref wisselt collega, prachtige volley en goals in de mist: dit was het weekend op de Limburgse voetbalvelden ]]>
+</title>
+<description>
+<![CDATA[ Het voorbije weekend werd er weer massaal gevoetbald op de Limburgse velden. Een scheidsrechter die zichzelf inbrengt, een prachtige volley en veel goals in de mist: dit was het weekend op de Limburgse voetbalvelden in één video. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/ref-wisselt-collega-prachtige-volley-en-goals-in-de-mist-dit-was-het-weekend-op-de-limburgse-voetbalvelden/104573815.html</link>
+<guid isPermaLink="false">ece-auto-gen-c52cedd4-1cbe-4c2d-b944-44bc9ea4d7a0</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Rob Mertens,Arno Schepers ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/rfda2w-1512fc-limburg.jpg/alternates/BASE_SIXTEEN_NINE/1512FC_limburg.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-15T15:07:06.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/ref-wisselt-collega-prachtige-volley-en-goals-in-de-mist-dit-was-het-weekend-op-de-limburgse-voetbalvelden/104573815.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/rfda2w-1512fc-limburg.jpg/alternates/BASE_SIXTEEN_NINE/1512FC_limburg.jpg" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Pas geopend: Sa Buttega heeft groot aanbod Sardijnse delicatessen ]]>
+</title>
+<description>
+<![CDATA[ In Genk opende Sa Buttega, een nieuwe delicatessenzaak volledig gewijd aan Sardijnse producten. Uitbater Eugenio Spiga brengt met de hulp van Elke Cuijvers zijn passie voor culinair Sardinië naar Genk. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/pas-geopend-sa-buttega-heeft-groot-aanbod-sardijnse-delicatessen/112377182.html</link>
+<guid isPermaLink="false">Kordiam-2026814972-3285972652-2553272302</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/bpbc8g-d7c9fc77-77e3-42d7-b420-a091728098a1-new.jpg/alternates/BASE_SIXTEEN_NINE/d7c9fc77-77e3-42d7-b420-a091728098a1_new.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-15T14:28:37.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/pas-geopend-sa-buttega-heeft-groot-aanbod-sardijnse-delicatessen/112377182.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/bpbc8g-d7c9fc77-77e3-42d7-b420-a091728098a1-new.jpg/alternates/BASE_SIXTEEN_NINE/d7c9fc77-77e3-42d7-b420-a091728098a1_new.jpg" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Genkse krijgt werkstraf omdat ze tante (82) oplicht voor 123.858 euro via valse brieven van justitie en ziekenhuizen ]]>
+</title>
+<description>
+<![CDATA[ Een 44-jarige Genkse vrouw moet een werkstraf van 140 uur uitvoeren, omdat ze haar bejaarde tante (82) voor 123.858 euro oplichtte met valse brieven in naam van justitie, ziekenhuizen, deurwaarders en de Nationale Bank. De vrouw ontkende, maar volgens de rechter zijn de bewijzen duidelijk. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/genkse-krijgt-werkstraf-omdat-ze-tante-82-oplicht-voor-123.858-euro-via-valse-brieven-van-justitie-en-ziekenhuizen/113750020.html</link>
+<guid isPermaLink="false">ece-auto-gen-6ef348ba-8e06-4083-ba84-b28eb874d6a4</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Shauni Deferm ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/6s1zpc-cue-picture-79840284-48315721.jpeg/alternates/BASE_SIXTEEN_NINE/cue-picture-79840284-48315721.jpeg" length="0" type="image/*"/>
+<atom:updated>2025-12-15T17:31:26.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/genkse-krijgt-werkstraf-omdat-ze-tante-82-oplicht-voor-123.858-euro-via-valse-brieven-van-justitie-en-ziekenhuizen/113750020.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/6s1zpc-cue-picture-79840284-48315721.jpeg/alternates/BASE_SIXTEEN_NINE/cue-picture-79840284-48315721.jpeg" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Supportersclub KRC Centrum schenkt 3.922 euro aan het KRC Jongdementiecafé ]]>
+</title>
+<description>
+<![CDATA[ Voetbal verbindt, ook buiten de lijnen. Dat bewees supportersclub KRC Centrum, die een cheque van 3.922 euro overhandigde aan het KRC Jongdementiecafé. De overhandiging vond plaats op maandag 8 december tijdens een bijzondere avond van ‘Pierre Denier Vertelt’. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/supportersclub-krc-centrum-schenkt-3.922-euro-aan-het-krc-jongdementiecafe/113026893.html</link>
+<guid isPermaLink="false">MhArticleGate-ag_mhbehbvl_article_gate_f25ae35e-825c-4d16-92b0-94060cdc1ef4-nieuwsjager</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Bert Lochy ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/limburg/mqj8gr-article-gate-img-f25ae35e-825c-4d16-92b0-94060cdc1ef4-nieuwsjager-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_f25ae35e-825c-4d16-92b0-94060cdc1ef4-nieuwsjager_0" length="0" type="image/*"/>
+<atom:updated>2025-12-16T12:07:09.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/supportersclub-krc-centrum-schenkt-3.922-euro-aan-het-krc-jongdementiecafe/113026893.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/limburg/mqj8gr-article-gate-img-f25ae35e-825c-4d16-92b0-94060cdc1ef4-nieuwsjager-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_f25ae35e-825c-4d16-92b0-94060cdc1ef4-nieuwsjager_0" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ © Bert Lochy ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Honderden lichtjes verbinden verdriet tijdens tiende Wereldlichtjesdag in Genk ]]>
+</title>
+<description>
+<![CDATA[ Genk stond zondagavond in het teken van herinnering en verbondenheid tijdens de tiende editie van Wereldlichtjesdag. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/honderden-lichtjes-verbinden-verdriet-tijdens-tiende-wereldlichtjesdag-in-genk/113625504.html</link>
+<guid isPermaLink="false">Kordiam-2027164492-3286666982-2553662032</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/91afdg-wereldlichtjesdag-genk-kopie-new.jpg/alternates/BASE_SIXTEEN_NINE/Wereldlichtjesdag_Genk%20kopie_new.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-15T12:38:04.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/honderden-lichtjes-verbinden-verdriet-tijdens-tiende-wereldlichtjesdag-in-genk/113625504.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/91afdg-wereldlichtjesdag-genk-kopie-new.jpg/alternates/BASE_SIXTEEN_NINE/Wereldlichtjesdag_Genk%20kopie_new.jpg" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Zondagavond vond in de stadsschouwburg van Genk de tiende editie van Wereldlichtjesdag plaats. © rr ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Kerk Sledderlo weer open met kleine liturgische ruimte en polyvalente zaal ]]>
+</title>
+<description>
+<![CDATA[ Op kerstdag wordt in de kerk van Sledderlo voor het eerst opnieuw de eucharistie gevierd, na een jaar van ingrijpende verbouwingen. Een deel van de kerk is bestemd voor liturgische vieringen, de rest voor gemeenschapsactiviteiten. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/kerk-sledderlo-weer-open-met-kleine-liturgische-ruimte-en-polyvalente-zaal/113607735.html</link>
+<guid isPermaLink="false">Kordiam-2027149791-3286639251-2553644961</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/x9n09s-de-liturgische-ruimte-biedt-plaats-aan-75-mensen-de-polyvalente-gemeenschapszaal-aan-nog-eens-120-mensen./alternates/BASE_SIXTEEN_NINE/De%20liturgische%20ruimte%20biedt%20plaats%20aan%2075%20mensen%20de%20polyvalente%20gemeenschapszaal%20aan%20nog%20eens%20120%20mensen." length="0" type="image/*"/>
+<atom:updated>2025-12-15T15:53:35.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/kerk-sledderlo-weer-open-met-kleine-liturgische-ruimte-en-polyvalente-zaal/113607735.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/x9n09s-de-liturgische-ruimte-biedt-plaats-aan-75-mensen-de-polyvalente-gemeenschapszaal-aan-nog-eens-120-mensen./alternates/BASE_SIXTEEN_NINE/De%20liturgische%20ruimte%20biedt%20plaats%20aan%2075%20mensen%20de%20polyvalente%20gemeenschapszaal%20aan%20nog%20eens%20120%20mensen." medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ De liturgische ruimte biedt plaats aan 75 mensen, de polyvalente gemeenschapszaal aan nog eens 120 mensen. © rr ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Genkenaar perst bejaarde moeder af voor geld om heroïne te kopen: 14 maanden geëist ]]>
+</title>
+<description>
+<![CDATA[ Een 46-jarige Genkenaar moet vrezen voor een effectieve celstraf van veertien maanden en een boete van 8.000 euro, omdat hij zijn bejaarde moeder (75) afperste voor geld om heroïne te kopen. De vrouw vreest dat haar zoon haar woning in brand zal steken. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/genkenaar-perst-bejaarde-moeder-af-voor-geld-om-herone-te-kopen-14-maanden-geeist/113710856.html</link>
+<guid isPermaLink="false">ece-auto-gen-0fcfa968-12e7-48fb-bdae-7829dd16a5f9</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Shauni Deferm ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/c5xcm0-gerechtsgebouw-tongeren-themabeeld-themafoto-thema-justitie-gerecht-gerechtshof-tongeren-rechtbank-van-eerste-aanleg-limburg-afdeling-tongeren-rechtbank-van-eerste-aanleg-tongeren/alternates/BASE_SIXTEEN_NINE/gerechtsgebouw%20Tongeren%20%20themabeeld%20%20themafoto%20thema%20%20Justitie%20%20Gerecht%20%20%20gerechtshof%20Tongeren%20%20Rechtbank%20van%20%20eerste%20aanleg%20Limburg%20-%20afdeling%20Tongeren%20%20Rechtbank%20van%20%20eerste%20aanleg%20Tongeren" length="0" type="image/*"/>
+<atom:updated>2025-12-15T12:46:38.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/genkenaar-perst-bejaarde-moeder-af-voor-geld-om-herone-te-kopen-14-maanden-geeist/113710856.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/c5xcm0-gerechtsgebouw-tongeren-themabeeld-themafoto-thema-justitie-gerecht-gerechtshof-tongeren-rechtbank-van-eerste-aanleg-limburg-afdeling-tongeren-rechtbank-van-eerste-aanleg-tongeren/alternates/BASE_SIXTEEN_NINE/gerechtsgebouw%20Tongeren%20%20themabeeld%20%20themafoto%20thema%20%20Justitie%20%20Gerecht%20%20%20gerechtshof%20Tongeren%20%20Rechtbank%20van%20%20eerste%20aanleg%20Limburg%20-%20afdeling%20Tongeren%20%20Rechtbank%20van%20%20eerste%20aanleg%20Tongeren" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ © MARC HERREMANS - MEDIAHUIS ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Het doek is gevallen: Thorsten Fink ontslagen bij KRC Genk ]]>
+</title>
+<description>
+<![CDATA[ De late gelijkmaker van Oh heeft Thorsten Fink niet kunnen redden bij KRC Genk. De 58-jarige Duitse coach werd maandagochtend na bijna anderhalf jaar dienst ontslagen. Ook van Finks assistenten Sebastian Hahn en Goran Kontic wordt afscheid genomen. In afwachting van een opvolger nemen Domenico Olivieri, Michel Ribeiro en Devon Maes het commando over. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/het-doek-is-gevallen-thorsten-fink-ontslagen-bij-krc-genk/113635889.html</link>
+<guid isPermaLink="false">Kordiam-2027175632-3286688362-2553675362</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Marnik Geukens ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/i4fnrg-voetbal-genk-westerlo/alternates/BASE_SIXTEEN_NINE/Voetbal%20Genk-Westerlo" length="0" type="image/*"/>
+<atom:updated>2025-12-15T16:49:11.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/het-doek-is-gevallen-thorsten-fink-ontslagen-bij-krc-genk/113635889.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/i4fnrg-voetbal-genk-westerlo/alternates/BASE_SIXTEEN_NINE/Voetbal%20Genk-Westerlo" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Thorsten Fink is niet langer coach van KRC Genk © Dick Demey ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Zo laat Genk De Warmste Week vlot verlopen: extra treinen en toegankelijke routes ]]>
+</title>
+<description>
+<![CDATA[ Met extra treinen, pendelparkings en rolstoeltoegankelijke shuttles wil Genk De Warmste Week vlotter en toegankelijker laten verlopen. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/zo-laat-genk-de-warmste-week-vlot-verlopen-extra-treinen-en-toegankelijke-routes/113666950.html</link>
+<guid isPermaLink="false">Kordiam-2027198212-3286733352-2553703402</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/sbjt1n-ook-voor-pommelien-wordt-een-extra-trein-ingezet./alternates/BASE_SIXTEEN_NINE/Ook%20voor%20Pommelien%20wordt%20een%20extra%20trein%20ingezet." length="0" type="image/*"/>
+<atom:updated>2025-12-15T11:03:24.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/zo-laat-genk-de-warmste-week-vlot-verlopen-extra-treinen-en-toegankelijke-routes/113666950.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/sbjt1n-ook-voor-pommelien-wordt-een-extra-trein-ingezet./alternates/BASE_SIXTEEN_NINE/Ook%20voor%20Pommelien%20wordt%20een%20extra%20trein%20ingezet." medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Ook voor Pommelien wordt een extra trein ingezet. © Chris Nelis ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Pas getrouwd: Fatma en Selcuk in Genk ]]>
+</title>
+<link>https://www.hbvl.be/regio/limburg/genk/pas-getrouwd-fatma-en-selcuk-in-genk/113159498.html</link>
+<guid isPermaLink="false">ece-auto-gen-8977fbb6-31b7-46cc-98e7-dcb3b8ed0188</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chretien Paesen ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/n4ibsa-demirsan-karadayi-1--new.jpg/alternates/BASE_SIXTEEN_NINE/Demirsan_Karadayi_1__new.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-15T18:33:35.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/pas-getrouwd-fatma-en-selcuk-in-genk/113159498.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/n4ibsa-demirsan-karadayi-1--new.jpg/alternates/BASE_SIXTEEN_NINE/Demirsan_Karadayi_1__new.jpg" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ © Chretien Paesen ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Olga DAVID, 91 jaar ]]>
+</title>
+<description>
+<![CDATA[ Geboren in 1934, overleden op 10/12/2025. ]]>
+</description>
+<link>https://www.hbvl.be/regio/inmemoriam/olga-david-91-jaar/113568054.html</link>
+<guid isPermaLink="false">MhArticleGate-ag_mhbehbvl_article_gate_608053-hbvl-inmemoriam</guid>
+<category>
+<![CDATA[ Inmemoriam ]]>
+</category>
+<dc:creator>
+<![CDATA[ Rerren Begrafenissen ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/inmemoriam/a9tctp-article-gate-img-608053-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608053-hbvl-inmemoriam_0" length="0" type="image/*"/>
+<atom:updated>2025-12-15T04:02:21.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/inmemoriam/olga-david-91-jaar/113568054.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/inmemoriam/a9tctp-article-gate-img-608053-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608053-hbvl-inmemoriam_0" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Altijd pijn, maar niemand ziet het: Lisa (29) uit Genk lijdt aan CRPS ]]>
+</title>
+<description>
+<![CDATA[ Altijd pijn. Ook als ze slaapt, wandelt of ons rijdend in de auto belt. De Genkse Lisa Fenucci vertelt maandag in het nieuwe Play-programma ‘Het Warmste Licht’ over haar onzichtbare ziekte CRPS. “Die rolstoel, dat was vechten tegen de tranen.” ]]>
+</description>
+<link>https://www.hbvl.be/media-en-cultuur/altijd-pijn-maar-niemand-ziet-het-lisa-29-uit-genk-lijdt-aan-crps/113106433.html</link>
+<guid isPermaLink="false">Kordiam-2027068202-3286471292-2553561802</guid>
+<category>
+<![CDATA[ Showbizz en cultuur ]]>
+</category>
+<dc:creator>
+<![CDATA[ Lien Vande Kerkhof ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/emexvi-splitlisa.jpg/alternates/BASE_SIXTEEN_NINE/SplitLisa.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-14T22:59:00.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/media-en-cultuur/altijd-pijn-maar-niemand-ziet-het-lisa-29-uit-genk-lijdt-aan-crps/113106433.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/emexvi-splitlisa.jpg/alternates/BASE_SIXTEEN_NINE/SplitLisa.jpg" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Presentatrice Élodie Ouédraogo bij Lisa Fenucci, die ook een fotoshoot deed voor ‘Het Warmste Licht’. ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ De Warmste Week doet Genkse hotels vollopen: “Normaal is december een zwakke maand” ]]>
+</title>
+<description>
+<![CDATA[ De Warmste Week jaagt de hotelboekingen in Genk stevig aan. Zaterdag 20 december is quasi uitverkocht en ook de dagen errond lopen vol. “Normaal is december een zwakke maand.” ]]>
+</description>
+<link>https://www.hbvl.be/lifestyle/de-warmste-week-doet-genkse-hotels-vollopen-normaal-is-december-een-zwakke-maand/113106294.html</link>
+<guid isPermaLink="false">Kordiam-2027068161-3286471191-2553561771</guid>
+<category>
+<![CDATA[ Lifestyle ]]>
+</category>
+<dc:creator>
+<![CDATA[ Lien Vande Kerkhof ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/p9fb81-lidia-paletta-van-hotel-zuid/alternates/BASE_SIXTEEN_NINE/Lidia%20Paletta%20van%20Hotel%20Zuid" length="0" type="image/*"/>
+<atom:updated>2025-12-15T07:15:59.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/lifestyle/de-warmste-week-doet-genkse-hotels-vollopen-normaal-is-december-een-zwakke-maand/113106294.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/p9fb81-lidia-paletta-van-hotel-zuid/alternates/BASE_SIXTEEN_NINE/Lidia%20Paletta%20van%20Hotel%20Zuid" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ © Sven Dillen ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ EPC-keurder eist 150 euro extra, bovenop 242 euro: “Anders lever ik je attest niet” ]]>
+</title>
+<description>
+<![CDATA[ Toen Mieke 242 euro betaald had voor het EPC-attest van haar woning, vroeg keurder Tom 150 euro extra. “In het zwart.” Mieke weigerde, maar nu krijgt ze haar attest niet. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/epc-keurder-eist-150-euro-extra-bovenop-242-euro-anders-lever-ik-je-attest-niet/111932845.html</link>
+<guid isPermaLink="false">ece-auto-gen-49781ec3-6bf7-4125-889d-3ff8c88268bd</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Gunter Willekens ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/tnrxkt-vuo-anonieme-liesmieke.png/alternates/BASE_SIXTEEN_NINE/VUO%20anonieme%20LiesMieke.png" length="0" type="image/*"/>
+<atom:updated>2025-12-15T07:18:23.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/epc-keurder-eist-150-euro-extra-bovenop-242-euro-anders-lever-ik-je-attest-niet/111932845.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/tnrxkt-vuo-anonieme-liesmieke.png/alternates/BASE_SIXTEEN_NINE/VUO%20anonieme%20LiesMieke.png" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Jong Genk pakt punt mee uit Lokeren na late gelijkmaker: “Moeten toch kritisch zijn” ]]>
+</title>
+<description>
+<![CDATA[ Jong Genk sloeg tweemaal in het slot van elke helft toe en pakt zo een punt mee uit Lokeren, dat nu al acht weken op rij niet meer verloren heeft. Invaller Victory Beniangba kopte de Genkies in het slot naar de gelijkmaker. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/jong-genk-pakt-punt-mee-uit-lokeren-na-late-gelijkmaker-moeten-toch-kritisch-zijn/111131858.html</link>
+<guid isPermaLink="false">ece-auto-gen-fcbf1384-4695-4234-9a69-4d9f74764fd2</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Jimmy De Schrijver ]]>
+</dc:creator>
+<pubDate>Tue, 16 Dec 2025 04:04:05 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/lt6fo1-file83otyd1lpgkm70tekbm/alternates/BASE_SIXTEEN_NINE/file83otyd1lpgkm70tekbm" length="0" type="image/*"/>
+<atom:updated>2025-12-14T19:38:26.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/jong-genk-pakt-punt-mee-uit-lokeren-na-late-gelijkmaker-moeten-toch-kritisch-zijn/111131858.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/lt6fo1-file83otyd1lpgkm70tekbm/alternates/BASE_SIXTEEN_NINE/file83otyd1lpgkm70tekbm" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Jong Genk's Aaron Bibout celebrates with teammates during a soccer game between KSC Lokeren and Jong Genk, Sunday 14 December 2025 in Lokeren, on day 17 of the 2025-2026 'Challenger Pro League' 1B second division of the Belgian championship. BELGA PHOTO KRISTOF VAN ACCOM © BELGA ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Termien met goed gevoel de winterstop in na derbyzege tegen Hades: “Eindelijk kwam ons voetbal er weer uit” ]]>
+</title>
+<description>
+<![CDATA[ Een derbyzege tegen Hades maakt een wereld van verschil voor Termien dat met een goed gevoel naar de feestdis mag. “Als ik zie met welk onuitgegeven elftal we voor de dag komen, dan ben ik erg tevreden“, vertelt Dennis Hamers. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/termien-met-goed-gevoel-de-winterstop-in-na-derbyzege-tegen-hades-eindelijk-kwam-ons-voetbal-er-weer-uit/104764631.html</link>
+<guid isPermaLink="false">ece-auto-gen-95c8cdbc-dc64-46bd-9ee7-cf6c38d06fc1</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Geert Stienissen ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/xmvv06-voetbal-termien-hades-martijn-stefani/alternates/BASE_SIXTEEN_NINE/Voetbal%20Termien%20-%20Hades%20-%20Martijn%20Stefani" length="0" type="image/*"/>
+<atom:updated>2025-12-14T19:36:39.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/termien-met-goed-gevoel-de-winterstop-in-na-derbyzege-tegen-hades-eindelijk-kwam-ons-voetbal-er-weer-uit/104764631.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/xmvv06-voetbal-termien-hades-martijn-stefani/alternates/BASE_SIXTEEN_NINE/Voetbal%20Termien%20-%20Hades%20-%20Martijn%20Stefani" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ OVERZICHT. Ontdek hier alle doelpuntenmakers uit de Limburgse voetbalreeksen ]]>
+</title>
+<description>
+<![CDATA[ Ook dit weekend werd er weer gevoetbald op de Limburgse velden. Ontdek hier alle doelpuntenmakers en lees hier alle verslagen van de wedstrijd van jouw favoriete ploeg. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/overzicht.-ontdek-hier-alle-doelpuntenmakers-uit-de-limburgse-voetbalreeksen/104573578.html</link>
+<guid isPermaLink="false">ece-auto-gen-43dd8e6d-8a85-4679-bc7d-a472ebe44f3b</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Arno Schepers,Robin Locht,Rob Mertens ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/f30608-file83ogdww5iyrppv7oa2m/alternates/BASE_SIXTEEN_NINE/file83ogdww5iyrppv7oa2m" length="0" type="image/*"/>
+<atom:updated>2025-12-14T19:43:10.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/overzicht.-ontdek-hier-alle-doelpuntenmakers-uit-de-limburgse-voetbalreeksen/104573578.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/f30608-file83ogdww5iyrppv7oa2m/alternates/BASE_SIXTEEN_NINE/file83ogdww5iyrppv7oa2m" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ De Hasselste derby tussen Juve en Stevoort eindigde zaterdag op 2-2. © smets patrick ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Op deze markt in Genk zijn schedels hip: “Dierlijke botten zijn veel meer beschermd dan die van de mens” ]]>
+</title>
+<description>
+<![CDATA[ Een wachtrij van minstens enkele honderden meters tegen openingstijd. De tweedaagse curiosabeurs De Duystere Markt bewijst in Genk opnieuw haar aantrekkingskracht. Menselijke en dierlijke schedels, skeletten en andere macabere verzamelobjecten zijn hot. ]]>
+</description>
+<link>https://www.hbvl.be/nieuws/op-deze-markt-in-genk-zijn-schedels-hip-dierlijke-botten-zijn-veel-meer-beschermd-dan-die-van-de-mens/113106193.html</link>
+<guid isPermaLink="false">Kordiam-2027068131-3286471111-2553561731</guid>
+<category>
+<![CDATA[ Nieuws ]]>
+</category>
+<dc:creator>
+<![CDATA[ Jan Bex ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/1tnk0j-rare.png/alternates/BASE_SIXTEEN_NINE/rare.png" length="0" type="image/*"/>
+<atom:updated>2025-12-14T19:38:38.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/nieuws/op-deze-markt-in-genk-zijn-schedels-hip-dierlijke-botten-zijn-veel-meer-beschermd-dan-die-van-de-mens/113106193.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/1tnk0j-rare.png/alternates/BASE_SIXTEEN_NINE/rare.png" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ HERBELEEF. Termien verslaat Hades, Stokkem verliest degradatieduel van Maasland NO ]]>
+</title>
+<description>
+<![CDATA[ Zondagmiddag won Termien de derby van Hades met 2-0. Opdekamp en Cuypers waren de auteurs van de doelpunten. In de provinciale reeks 2B boekte Maasland NO een felbevochten zege tegen Stokkem. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/herbeleef.-termien-verslaat-hades-stokkem-verliest-degradatieduel-van-maasland-no/104573403.html</link>
+<guid isPermaLink="false">ece-auto-gen-c2a9e287-dbe5-4b3d-b9bd-93b7b726ee39</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Rob Mertens,Arno Schepers ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/euknub-voetbal-termien-hades-toon-opdekamp/alternates/BASE_SIXTEEN_NINE/Voetbal%20Termien%20-%20Hades%20-%20Toon%20Opdekamp" length="0" type="image/*"/>
+<atom:updated>2025-12-14T16:55:06.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/herbeleef.-termien-verslaat-hades-stokkem-verliest-degradatieduel-van-maasland-no/104573403.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/euknub-voetbal-termien-hades-toon-opdekamp/alternates/BASE_SIXTEEN_NINE/Voetbal%20Termien%20-%20Hades%20-%20Toon%20Opdekamp" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Auto en bromfiets botsen in Waterschei: een gewonde ]]>
+</title>
+<link>https://www.hbvl.be/regio/limburg/genk/auto-en-bromfiets-botsen-in-waterschei-een-gewonde/113430218.html</link>
+<guid isPermaLink="false">ece-auto-gen-9295f6fd-7480-4e29-95c2-4c492d770899</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Mireille Maes ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/sa71wk-cue-47351730.jpeg/alternates/BASE_SIXTEEN_NINE/cue-47351730.jpeg" length="0" type="image/*"/>
+<atom:updated>2025-12-14T15:18:12.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/auto-en-bromfiets-botsen-in-waterschei-een-gewonde/113430218.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/sa71wk-cue-47351730.jpeg/alternates/BASE_SIXTEEN_NINE/cue-47351730.jpeg" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ © HBVL.be ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Yilmaz bezorgt Lanaken VV B zege tegen Genk VV B ]]>
+</title>
+<description>
+<![CDATA[ Lanaken VV B won de uitwedstrijd tegen Genk VV B. Het duel eindigde op 0-1. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/yilmaz-bezorgt-lanaken-vv-b-zege-tegen-genk-vv-b/113413745.html</link>
+<guid isPermaLink="false">UnitedRobots-hbvl_event_finished_6192487</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/limburg/genk/eh0i8v-85bf3909-e723-414c-b5ca-3af57cedb02d-img-801905848-12141528107-mhhbvlfootballimage.png/alternates/BASE_SIXTEEN_NINE/85bf3909-e723-414c-b5ca-3af57cedb02d_img_801905848_12141528107_mhHbvlFootballImage.png" length="0" type="image/*"/>
+<atom:updated>2025-12-15T22:07:17.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/yilmaz-bezorgt-lanaken-vv-b-zege-tegen-genk-vv-b/113413745.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/limburg/genk/eh0i8v-85bf3909-e723-414c-b5ca-3af57cedb02d-img-801905848-12141528107-mhhbvlfootballimage.png/alternates/BASE_SIXTEEN_NINE/85bf3909-e723-414c-b5ca-3af57cedb02d_img_801905848_12141528107_mhHbvlFootballImage.png" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Kopje koffie of poseren op de motor: politie Carma trekt wijken in voor laagdrempelige gesprekken met bewoners ]]>
+</title>
+<description>
+<![CDATA[ Onder het motto ‘Op de koffie met Carma’ trok de politiezone de afgelopen weken naar zes gemeentes in haar zone. Buurtbewoners konden er laagdrempelig in gesprek gaan met de politie. Op het slotmoment in Houthalen-Helchteren zondagmiddag konden kinderen zelfs poseren op de politiemotor. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/houthalen-helchteren/kopje-koffie-of-poseren-op-de-motor-politie-carma-trekt-wijken-in-voor-laagdrempelige-gesprekken-met-bewoners/113110301.html</link>
+<guid isPermaLink="false">Kordiam-2027069121-3286473211-2553562821</guid>
+<category>
+<![CDATA[ Houthalen-Helchteren ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/7dpzex-op-de-koffie-bij-carma-gn-new.jpg/alternates/BASE_SIXTEEN_NINE/op%20de%20koffie%20bij%20carma%20gn_new.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-14T14:04:22.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/houthalen-helchteren/kopje-koffie-of-poseren-op-de-motor-politie-carma-trekt-wijken-in-voor-laagdrempelige-gesprekken-met-bewoners/113110301.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/7dpzex-op-de-koffie-bij-carma-gn-new.jpg/alternates/BASE_SIXTEEN_NINE/op%20de%20koffie%20bij%20carma%20gn_new.jpg" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Match Turkse Rangers gestaakt door de mist: “Hopelijk niet herspelen tijdens winterstop” ]]>
+</title>
+<description>
+<![CDATA[ De wedstrijd tussen Wezel Sport en Turkse Rangers werd zaterdagavond met nog 15 minuten te spelen bij een 2-1-stand stopgezet wegens te dichte mist. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/match-turkse-rangers-gestaakt-door-de-mist-hopelijk-niet-herspelen-tijdens-winterstop/104763651.html</link>
+<guid isPermaLink="false">ece-auto-gen-f2c96a81-8264-4ade-bec1-a37fe86acf95</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Jimmy De Schrijver ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/p6u4rx-adil-yilmaz/alternates/BASE_SIXTEEN_NINE/Adil%20Yilmaz" length="0" type="image/*"/>
+<atom:updated>2025-12-14T15:11:33.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/match-turkse-rangers-gestaakt-door-de-mist-hopelijk-niet-herspelen-tijdens-winterstop/104763651.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/p6u4rx-adil-yilmaz/alternates/BASE_SIXTEEN_NINE/Adil%20Yilmaz" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ T1 Adil Yilmaz hoopt dat de wedstrijd niet tijdens de winterstop herspeeld moet worden. © Bart Borgerhoff ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Inez, de sterke vrouw achter de ster van Peppe: “De roddels over mij doen echt pijn” ]]>
+</title>
+<description>
+<![CDATA[ Al meer dan drie decennia vormen Peppe Giacomazza (47) en Inez Schevenels (54) een ijzersterk duo, in én buiten de keuken. Vandaag bekroont een Michelinster hun culinaire reis, al was hun relatie niet altijd zonder hobbels. “Op een bepaald moment moest een vriend me zeggen dat ik het aan het verknoeien was.” ]]>
+</description>
+<link>https://www.hbvl.be/lifestyle/eten-en-drinken/inez-de-sterke-vrouw-achter-de-ster-van-peppe-de-roddels-over-mij-doen-echt-pijn/69028127.html</link>
+<guid isPermaLink="false">Kordiam-1962936462-3131279132-2460697252</guid>
+<category>
+<![CDATA[ Eten en Drinken ]]>
+</category>
+<dc:creator>
+<![CDATA[ Lien Vande Kerkhof ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/7gze3-pepestempel.jpg/alternates/BASE_SIXTEEN_NINE/PepeStempel.jpg" length="0" type="image/*"/>
+<atom:updated>2025-12-16T08:18:58.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/lifestyle/eten-en-drinken/inez-de-sterke-vrouw-achter-de-ster-van-peppe-de-roddels-over-mij-doen-echt-pijn/69028127.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/7gze3-pepestempel.jpg/alternates/BASE_SIXTEEN_NINE/PepeStempel.jpg" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Belisia speelt gelijk tegen Genk VV ondanks voorsprong bij de rust ]]>
+</title>
+<description>
+<![CDATA[ Met de rust stond Genk VV op een 1-2 voorsprong in de uitwedstrijd tegen Belisia op zaterdag, maar in de tweede helft van de thuiswedstrijd kwam het team goed terug en maakte de gelijkmaker 3-3. Twee spelers van Genk VV kregen een rode kaart. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/bilzen-hoeselt/belisia-speelt-gelijk-tegen-genk-vv-ondanks-voorsprong-bij-de-rust/113249753.html</link>
+<guid isPermaLink="false">UnitedRobots-hbvl_event_finished_6202390</guid>
+<category>
+<![CDATA[ Bilzen-Hoeselt ]]>
+</category>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/limburg/bilzen-hoeselt/x5ml7k-ee6ba1eb-b7ce-4a7b-94b3-3ed68b52a95f-img-801903213-12132316727-mhhbvlfootballimage.png/alternates/BASE_SIXTEEN_NINE/ee6ba1eb-b7ce-4a7b-94b3-3ed68b52a95f_img_801903213_12132316727_mhHbvlFootballImage.png" length="0" type="image/*"/>
+<atom:updated>2025-12-14T01:27:19.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/bilzen-hoeselt/belisia-speelt-gelijk-tegen-genk-vv-ondanks-voorsprong-bij-de-rust/113249753.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/limburg/bilzen-hoeselt/x5ml7k-ee6ba1eb-b7ce-4a7b-94b3-3ed68b52a95f-img-801903213-12132316727-mhhbvlfootballimage.png/alternates/BASE_SIXTEEN_NINE/ee6ba1eb-b7ce-4a7b-94b3-3ed68b52a95f_img_801903213_12132316727_mhHbvlFootballImage.png" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Merchiers bezorgt Kesselt zege tegen FC Winterslag ]]>
+</title>
+<description>
+<![CDATA[ Kesselt won de thuiswedstrijd tegen FC Winterslag. Het duel eindigde op 1-0. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/lanaken/merchiers-bezorgt-kesselt-zege-tegen-fc-winterslag/113243317.html</link>
+<guid isPermaLink="false">UnitedRobots-hbvl_event_finished_6202393</guid>
+<category>
+<![CDATA[ Lanaken ]]>
+</category>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/limburg/lanaken/jv212h-f2dad2c6-8db4-4733-b28f-228caac16bb8-img-801904339-12132250863-mhhbvlfootballimage.png/alternates/BASE_SIXTEEN_NINE/f2dad2c6-8db4-4733-b28f-228caac16bb8_img_801904339_12132250863_mhHbvlFootballImage.png" length="0" type="image/*"/>
+<atom:updated>2025-12-14T01:21:19.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/lanaken/merchiers-bezorgt-kesselt-zege-tegen-fc-winterslag/113243317.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/limburg/lanaken/jv212h-f2dad2c6-8db4-4733-b28f-228caac16bb8-img-801904339-12132250863-mhhbvlfootballimage.png/alternates/BASE_SIXTEEN_NINE/f2dad2c6-8db4-4733-b28f-228caac16bb8_img_801904339_12132250863_mhHbvlFootballImage.png" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Dries Lenaerts en Eva De Roo klaar voor De Warmste Week: “Oma Rina komt met een kampeerstoel” ]]>
+</title>
+<description>
+<![CDATA[ Als de weerkaarten vanaf donderdag plots verhoogde temperaturen weergeven in Genk, dan is dat omdat Dries Lenaerts en Eva De Roo er vlammen voor De Warmste Week. Ze hopen op Limburgse gezelligheid, een ‘secret guest’ voor in de geschiedenisboeken en minstens één smurfenvlaai. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/dries-lenaerts-en-eva-de-roo-klaar-voor-de-warmste-week-oma-rina-komt-met-een-kampeerstoel/112155538.html</link>
+<guid isPermaLink="false">Kordiam-2026748892-3285844192-2553197122</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Nele Coune ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/d94re7-presentatoren-de-warmste-week/alternates/BASE_SIXTEEN_NINE/Presentatoren%20De%20Warmste%20Week" length="0" type="image/*"/>
+<atom:updated>2025-12-13T18:59:23.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/dries-lenaerts-en-eva-de-roo-klaar-voor-de-warmste-week-oma-rina-komt-met-een-kampeerstoel/112155538.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/d94re7-presentatoren-de-warmste-week/alternates/BASE_SIXTEEN_NINE/Presentatoren%20De%20Warmste%20Week" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Eva De Roo en Dries Lenaerts© Kris Van Exel. © Kris Van exel ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Genkenaren verrast over lichtstralen die plots boven de stad hangen, maar ze kondigen De Warmste Week aan ]]>
+</title>
+<description>
+<![CDATA[ Een zoekactie, een grote fuif of evenement ... De lichtstralen die zaterdagavond boven het centrum van Genk te zien waren, leidden tot heel wat speculatie. Uiteindelijk bleek De Warmste Week er voor iets tussen te zitten. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/genkenaren-verrast-over-lichtstralen-die-plots-boven-de-stad-hangen-maar-ze-kondigen-de-warmste-week-aan/113190191.html</link>
+<guid isPermaLink="false">Kordiam-2027079482-3286496332-2553574302</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/1i1x20-de-warmste-week-trekt-nu-al-veel-aandacht-met-de-lichtstralen-boven-genk-die-van-vezr-te-zien-zijn./alternates/BASE_SIXTEEN_NINE/De%20Warmste%20Week%20trekt%20nu%20al%20veel%20aandacht%20met%20de%20lichtstralen%20boven%20Genk%20die%20van%20vezr%20te%20zien%20zijn." length="0" type="image/*"/>
+<atom:updated>2025-12-13T19:00:55.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/genkenaren-verrast-over-lichtstralen-die-plots-boven-de-stad-hangen-maar-ze-kondigen-de-warmste-week-aan/113190191.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/1i1x20-de-warmste-week-trekt-nu-al-veel-aandacht-met-de-lichtstralen-boven-genk-die-van-vezr-te-zien-zijn./alternates/BASE_SIXTEEN_NINE/De%20Warmste%20Week%20trekt%20nu%20al%20veel%20aandacht%20met%20de%20lichtstralen%20boven%20Genk%20die%20van%20vezr%20te%20zien%20zijn." medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ De Warmste Week begint pas donderdag, maar trekt nu al veel aandacht. Tijdens lichttesten waren er zaterdagavond grote witte stralen boven het centrum van Genk te zien. © Chris Nelis ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Huis van de Kerstman opent in Genk: al meteen bij opening rijen bezoekers ]]>
+</title>
+<description>
+<![CDATA[ In Genk is het Huis van de Kerstman feestelijk geopend. Al meteen bij de opening vormden zich rijen bezoekers die graag een praatje wilden slaan met de kindervriend en zijn warme huis wilden ontdekken. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/huis-van-de-kerstman-opent-in-genk-al-meteen-bij-opening-rijen-bezoekers/112872614.html</link>
+<guid isPermaLink="false">Kordiam-2027004321-3286345821-2553492731</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Chris Nelis ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/za3jv6-huis-van-de-kerstman-genk1-1.jpeg/alternates/BASE_SIXTEEN_NINE/huis%20van%20de%20kerstman%20genk1%201.jpeg" length="0" type="image/*"/>
+<atom:updated>2025-12-13T15:22:38.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/huis-van-de-kerstman-opent-in-genk-al-meteen-bij-opening-rijen-bezoekers/112872614.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/za3jv6-huis-van-de-kerstman-genk1-1.jpeg/alternates/BASE_SIXTEEN_NINE/huis%20van%20de%20kerstman%20genk1%201.jpeg" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Martha Geraerts, 92 jaar ]]>
+</title>
+<description>
+<![CDATA[ Geboren in 1933, overleden op 10/12/2025. ]]>
+</description>
+<link>https://www.hbvl.be/regio/inmemoriam/martha-geraerts-92-jaar/113096857.html</link>
+<guid isPermaLink="false">MhArticleGate-ag_mhbehbvl_article_gate_608063-hbvl-inmemoriam</guid>
+<category>
+<![CDATA[ Inmemoriam ]]>
+</category>
+<dc:creator>
+<![CDATA[ Uitvaartcentrum Remans ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/inmemoriam/1l4v5q-article-gate-img-608063-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608063-hbvl-inmemoriam_0" length="0" type="image/*"/>
+<atom:updated>2025-12-13T04:10:31.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/inmemoriam/martha-geraerts-92-jaar/113096857.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/inmemoriam/1l4v5q-article-gate-img-608063-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608063-hbvl-inmemoriam_0" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Maria Blokken, 78 jaar ]]>
+</title>
+<description>
+<![CDATA[ Geboren in 1947, overleden op 10/12/2025. ]]>
+</description>
+<link>https://www.hbvl.be/regio/inmemoriam/maria-blokken-78-jaar/113096733.html</link>
+<guid isPermaLink="false">MhArticleGate-ag_mhbehbvl_article_gate_608058-hbvl-inmemoriam</guid>
+<category>
+<![CDATA[ Inmemoriam ]]>
+</category>
+<dc:creator>
+<![CDATA[ Uitvaartcentrum Remans ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/inmemoriam/q090lt-article-gate-img-608058-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608058-hbvl-inmemoriam_0" length="0" type="image/*"/>
+<atom:updated>2025-12-13T04:05:22.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/inmemoriam/maria-blokken-78-jaar/113096733.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/inmemoriam/q090lt-article-gate-img-608058-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_608058-hbvl-inmemoriam_0" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Denise ACHTEN, 84 jaar ]]>
+</title>
+<description>
+<![CDATA[ Geboren in 1941, overleden op 04/12/2025. ]]>
+</description>
+<link>https://www.hbvl.be/regio/inmemoriam/denise-achten-84-jaar/113096716.html</link>
+<guid isPermaLink="false">MhArticleGate-ag_mhbehbvl_article_gate_607970-hbvl-inmemoriam</guid>
+<category>
+<![CDATA[ Inmemoriam ]]>
+</category>
+<dc:creator>
+<![CDATA[ Rerren Begrafenissen ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/regio/inmemoriam/808i4n-article-gate-img-607970-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_607970-hbvl-inmemoriam_0" length="0" type="image/*"/>
+<atom:updated>2025-12-13T04:04:24.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/inmemoriam/denise-achten-84-jaar/113096716.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/regio/inmemoriam/808i4n-article-gate-img-607970-hbvl-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_607970-hbvl-inmemoriam_0" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Dit Genks bedrijf bouwt per werkdag één volledig huis dat uit de fabriek loopt als een meccanodoos ]]>
+</title>
+<description>
+<![CDATA[ Machiels Building Solutions produceert in Genk houtskeletbouwelementen om woningen betaalbaarder én sneller te bouwen. Een pakket houten palen loopt de fabriek uit als meccanodoos voor een volledig huis. “Ideaal om de achterstand in sociale woningen weg te werken”, benadrukt CEO Daan Peeters. ]]>
+</description>
+<link>https://www.hbvl.be/economie/dit-genks-bedrijf-bouwt-per-werkdag-een-volledig-huis-dat-uit-de-fabriek-loopt-als-een-meccanodoos/110330834.html</link>
+<guid isPermaLink="false">Kordiam-2026026252-3284417882-2552351622</guid>
+<category>
+<![CDATA[ Economie ]]>
+</category>
+<dc:creator>
+<![CDATA[ Bart Bijnens ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/d36n9o-machiels-building-solutions/alternates/BASE_SIXTEEN_NINE/Machiels%20Building%20Solutions" length="0" type="image/*"/>
+<atom:updated>2025-12-13T08:58:27.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/economie/dit-genks-bedrijf-bouwt-per-werkdag-een-volledig-huis-dat-uit-de-fabriek-loopt-als-een-meccanodoos/110330834.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/d36n9o-machiels-building-solutions/alternates/BASE_SIXTEEN_NINE/Machiels%20Building%20Solutions" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Stijn Meuris over het beeld van de week: Buigingscoëfficiënt ]]>
+</title>
+<description>
+<![CDATA[ Muzikant en verteller Stijn Meuris schrijft over het beeld van de week. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/stijn-meuris-over-het-beeld-van-de-week-buigingscoefficient/113027827.html</link>
+<guid isPermaLink="false">ece-auto-gen-f8aa726c-ecce-4b34-be9e-a641899a0d56</guid>
+<category>
+<![CDATA[ Limburg ]]>
+</category>
+<dc:creator>
+<![CDATA[ Stijn Meuris ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/s00f22-beeldspraak-vleermuizenkastjes.png/alternates/BASE_SIXTEEN_NINE/Beeldspraak%20vleermuizenkastjes.png" length="0" type="image/*"/>
+<atom:updated>2025-12-12T22:59:00.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/stijn-meuris-over-het-beeld-van-de-week-buigingscoefficient/113027827.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/s00f22-beeldspraak-vleermuizenkastjes.png/alternates/BASE_SIXTEEN_NINE/Beeldspraak%20vleermuizenkastjes.png" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Jong Genk speelt vier matchen in elf dagen: “Balans zoeken tussen inspanning en rust” ]]>
+</title>
+<description>
+<![CDATA[ Jong Genk probeert zondag aansluiting te krijgen bij de middenmoot. Het moet daarvoor voorbij Lokeren, dat al zeven weken niet meer verloor. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/jong-genk-speelt-vier-matchen-in-elf-dagen-balans-zoeken-tussen-inspanning-en-rust/111130513.html</link>
+<guid isPermaLink="false">Kordiam-2026369632-3285090982-2552738072</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Jimmy De Schrijver ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/z3ch13-file83hncgy4qe962dmu1c3e/alternates/BASE_SIXTEEN_NINE/file83hncgy4qe962dmu1c3e" length="0" type="image/*"/>
+<atom:updated>2025-12-12T21:42:20.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/jong-genk-speelt-vier-matchen-in-elf-dagen-balans-zoeken-tussen-inspanning-en-rust/111130513.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/z3ch13-file83hncgy4qe962dmu1c3e/alternates/BASE_SIXTEEN_NINE/file83hncgy4qe962dmu1c3e" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Ali Camara is zes weken out met een enkelblessure. © BELGA ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Aster Janssens schenkt Westerlo zege op veld van Genk Ladies ]]>
+</title>
+<description>
+<![CDATA[ Westerlo boekte een 2-3-zege in Genk. De Peerse Aster Janssens besliste de wedstrijd met een assist en de winning goal. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/aster-janssens-schenkt-westerlo-zege-op-veld-van-genk-ladies/104763540.html</link>
+<guid isPermaLink="false">ece-auto-gen-47157829-7739-4b00-a9e9-e960a50934e7</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Geert Stienissen ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/y9o5md-251018-club-yla-vs-krc-genk/alternates/BASE_SIXTEEN_NINE/251018%20CLUB%20YLA%20VS%20KRC%20GENK" length="0" type="image/*"/>
+<atom:updated>2025-12-12T21:34:29.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/aster-janssens-schenkt-westerlo-zege-op-veld-van-genk-ladies/104763540.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/y9o5md-251018-club-yla-vs-krc-genk/alternates/BASE_SIXTEEN_NINE/251018%20CLUB%20YLA%20VS%20KRC%20GENK" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Met een doelpunt in de 91ste minuut leek Vandersanden de Genk Ladies een punt te bezorgen. © David Catry / Sportpix ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Van klaplong over noodploeg tot afscheid: deze pechvogels missen speeldag 16 in Limburgs voetbal ]]>
+</title>
+<description>
+<![CDATA[ Een ploeg met elf afwezigen, een speler die z’n afscheidsmatch speelt, een 17-jarige debutant in doel, trainerswissels en blessures gaande van een gebroken pink over een klaplong tot een open hoofdwonde... Wie komt op speeldag 16 (niet) in actie bij uw favoriete ploeg? Een overzicht per reeks. ]]>
+</description>
+<link>https://www.hbvl.be/sport/voetbal/van-klaplong-over-noodploeg-tot-afscheid-deze-pechvogels-missen-speeldag-16-in-limburgs-voetbal/104573245.html</link>
+<guid isPermaLink="false">ece-auto-gen-899bfdb8-2416-4318-83b9-33a35710afc4</guid>
+<category>
+<![CDATA[ Voetbal ]]>
+</category>
+<dc:creator>
+<![CDATA[ Rob Mertens,Arno Schepers,Marc Truyers ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/o7i6qz-whatsapp-image-2025-12-12-at-11.17.24.jpeg/alternates/BASE_SIXTEEN_NINE/WhatsApp%20Image%202025-12-12%20at%2011.17.24.jpeg" length="0" type="image/*"/>
+<atom:updated>2025-12-12T14:55:30.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/sport/voetbal/van-klaplong-over-noodploeg-tot-afscheid-deze-pechvogels-missen-speeldag-16-in-limburgs-voetbal/104573245.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/o7i6qz-whatsapp-image-2025-12-12-at-11.17.24.jpeg/alternates/BASE_SIXTEEN_NINE/WhatsApp%20Image%202025-12-12%20at%2011.17.24.jpeg" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Jawad El Bouchafrati El Ayachi is één van de acht geblesseerde spelers van Winterslag (3C). © rr ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Genks bedrijf mag grootste digitalisatieopdracht ooit doen: “Een mijlpaal” ]]>
+</title>
+<description>
+<![CDATA[ Het Genkse archiverings- en digitaliseringsbedrijf Youston heeft de opdracht in de wacht gesleept om zowat alle Vlaamse bestuursdocumenten te digitaliseren. In vier jaar tijd moeten naar schatting een miljard documenten digitaal worden opgeslagen, de grootste digitalisatie-opdracht ooit in ons land. ]]>
+</description>
+<link>https://www.hbvl.be/economie/genks-bedrijf-mag-grootste-digitalisatieopdracht-ooit-doen-een-mijlpaal/112763790.html</link>
+<guid isPermaLink="false">Kordiam-2026956632-3286251372-2553435322</guid>
+<category>
+<![CDATA[ Economie ]]>
+</category>
+<dc:creator>
+<![CDATA[ Dominiek Claes ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/ti6097-lrm-komt-met-cijfers-over-steun-aan-familiebedrijven-youston-als-voorbeeld./alternates/BASE_SIXTEEN_NINE/LRM%20komt%20met%20cijfers%20over%20steun%20aan%20familiebedrijven%20Youston%20als%20voorbeeld." length="0" type="image/*"/>
+<atom:updated>2025-12-14T16:54:27.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/economie/genks-bedrijf-mag-grootste-digitalisatieopdracht-ooit-doen-een-mijlpaal/112763790.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/ti6097-lrm-komt-met-cijfers-over-steun-aan-familiebedrijven-youston-als-voorbeeld./alternates/BASE_SIXTEEN_NINE/LRM%20komt%20met%20cijfers%20over%20steun%20aan%20familiebedrijven%20Youston%20als%20voorbeeld." medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ Youston verdubbelde vorig jaar nog zijn ruimte voor archieven. © Boumediene Belbachir ]]>
+</media:title>
+</media:content>
+</item>
+<item>
+<title>
+<![CDATA[ Veroordeelden martelmoord krijgen werkstraffen voor zware slagen aan ex-vriend van moeder: “Geslagen tot hij niet meer rechtstond” ]]>
+</title>
+<description>
+<![CDATA[ Twee Genkse broers (25 en 29), die ook betrokken waren bij de martelmoord, zijn veroordeeld tot zware werkstraffen omdat ze de ex-vriend van hun moeder in elkaar sloegen. “Ik heb geen spijt dat ik mijn moeder en zusje heb verdedigd.” Het slachtoffer krijgt 67.151 euro. ]]>
+</description>
+<link>https://www.hbvl.be/regio/limburg/genk/veroordeelden-martelmoord-krijgen-werkstraffen-voor-zware-slagen-aan-ex-vriend-van-moeder-geslagen-tot-hij-niet-meer-rechtstond/112800636.html</link>
+<guid isPermaLink="false">ece-auto-gen-38b669dc-905d-4389-a712-b55406e7b704</guid>
+<category>
+<![CDATA[ Genk ]]>
+</category>
+<dc:creator>
+<![CDATA[ Shauni Deferm ]]>
+</dc:creator>
+<pubDate>Mon, 15 Dec 2025 11:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/ri0lo0-gerechtsgebouw-tongeren-themabeeld-themafoto-thema-justitie-gerecht-gerechtshof-tongeren-rechtbank-van-eerste-aanleg-limburg-afdeling-tongeren-rechtbank-van-eerste-aanleg-tongeren/alternates/BASE_SIXTEEN_NINE/gerechtsgebouw%20Tongeren%20%20themabeeld%20%20themafoto%20thema%20%20Justitie%20%20Gerecht%20%20%20gerechtshof%20Tongeren%20%20Rechtbank%20van%20%20eerste%20aanleg%20Limburg%20-%20afdeling%20Tongeren%20%20Rechtbank%20van%20%20eerste%20aanleg%20Tongeren" length="0" type="image/*"/>
+<atom:updated>2025-12-12T12:16:02.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/regio/limburg/genk/veroordeelden-martelmoord-krijgen-werkstraffen-voor-zware-slagen-aan-ex-vriend-van-moeder-geslagen-tot-hij-niet-meer-rechtstond/112800636.html"/>
+<premium>false</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/ri0lo0-gerechtsgebouw-tongeren-themabeeld-themafoto-thema-justitie-gerecht-gerechtshof-tongeren-rechtbank-van-eerste-aanleg-limburg-afdeling-tongeren-rechtbank-van-eerste-aanleg-tongeren/alternates/BASE_SIXTEEN_NINE/gerechtsgebouw%20Tongeren%20%20themabeeld%20%20themafoto%20thema%20%20Justitie%20%20Gerecht%20%20%20gerechtshof%20Tongeren%20%20Rechtbank%20van%20%20eerste%20aanleg%20Limburg%20-%20afdeling%20Tongeren%20%20Rechtbank%20van%20%20eerste%20aanleg%20Tongeren" medium="image" type="image/*">
+<media:title type="html">
+<![CDATA[ © MARC HERREMANS - MEDIAHUIS ]]>
+</media:title>
+</media:content>
+</item>
+</channel>
 </rss>
