@@ -6,7 +6,7 @@
     <description>Test feed with future-dated items for timezone testing</description>
     <language>nl-BE</language>
     <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 16:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
 
     <item>
@@ -14,7 +14,7 @@
       <link>https://example.com/burst-0611</link>
       <description><![CDATA[Random payload V9 generated for test scenarios.]]></description>
       <guid isPermaLink="false">tp1-burst-0611-20251217-001</guid>
-      <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Dec 2025 15:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -22,7 +22,7 @@
       <link>https://example.com/metric-1427</link>
       <description><![CDATA[Random payload L4 snapshot block.]]></description>
       <guid isPermaLink="false">tp1-metric-1427-20251217-002</guid>
-      <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Dec 2025 14:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -30,7 +30,7 @@
       <link>https://example.com/refresh-2031</link>
       <description><![CDATA[Random payload S2 status indicator.]]></description>
       <guid isPermaLink="false">tp1-refresh-2031-20251217-003</guid>
-      <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Dec 2025 13:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -38,7 +38,7 @@
       <link>https://example.com/log-2344</link>
       <description><![CDATA[]]></description>
       <guid isPermaLink="false">tp1-log-2344-20251217-004</guid>
-      <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
     </item>
 
   </channel>
