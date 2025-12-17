@@ -5,40 +5,40 @@
     <link>https://example.com</link>
     <description>Test feed with future-dated items for timezone testing</description>
     <language>nl-BE</language>
-    <pubDate>Fri, 12 Dec 2025 15:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 15:00:00 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 10:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
 
     <item>
       <title>third_party_1 Burst Update 06:11</title>
       <link>https://example.com/burst-0611</link>
       <description><![CDATA[Random payload V9 generated for test scenarios.]]></description>
-      <guid isPermaLink="false">update3-burst1-V9-a2b3c4d5</guid>
-      <pubDate>Fri, 12 Dec 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tp1-burst-0611-20251217-001</guid>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
     </item>
 
     <item>
       <title>third_party_1 Metric Sync 14:27</title>
       <link>https://example.com/metric-1427</link>
       <description><![CDATA[Random payload L4 snapshot block.]]></description>
-      <guid isPermaLink="false">update3-met1-L4-e6f7g8h9</guid>
-      <pubDate>Fri, 12 Dec 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tp1-metric-1427-20251217-002</guid>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
     </item>
 
     <item>
       <title>third_party_1 Channel Refresh 20:31</title>
       <link>https://example.com/refresh-2031</link>
       <description><![CDATA[Random payload S2 status indicator.]]></description>
-      <guid isPermaLink="false">update3-ref1-S2-i0j1k2l3</guid>
-      <pubDate>Fri, 12 Dec 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tp1-refresh-2031-20251217-003</guid>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
     </item>
 
     <item>
       <title>third_party_1 Log Digest 23:44</title>
-      <link>https://example.</link>
+      <link>https://example.com/log-2344</link>
       <description><![CDATA[]]></description>
-      <guid isPermaLink="false">update3-log1-unknown</guid>
-      <pubDate>Fri, 12 Dec 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tp1-log-2344-20251217-004</guid>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
     </item>
 
   </channel>
