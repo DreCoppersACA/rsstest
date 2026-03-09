@@ -1224,5 +1224,29 @@
 <media:title type="html"/>
 </media:content>
 </item>
+  <item>
+<title>
+<![CDATA[ TEST 09.03 Van Belgische muziek en poëzie tot Markske Vertonghen en Ierse whiskey: dit zijn onze uittips ]]>
+</title>
+<description>
+<![CDATA[ Het is de Week van de Belgische muziek en dat zal je geweten hebben in Lommel. Voor poëzie moet je in Beringen zijn en in Kinrooi kan je Ierse whiskey leren kennen. ]]>
+</description>
+<link>https://www.hbvl.be/lifestyle/gezin/van-belgische-muziek-en-poezie-tot-markske-vertonghen-en-ierse-whiskey-dit-zijn-onze-uittips/126456353.html</link>
+<guid isPermaLink="false">Kordiam-2031089493-3294435347-2558119891</guid>
+<category>
+<![CDATA[ Gezin ]]>
+</category>
+<dc:creator>
+<![CDATA[ Kizzy Van Horne ]]>
+</dc:creator>
+<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+<enclosure url="https://prod-img.hbvl.be/public/nieuws/ujai4q-split-marc.png/alternates/BASE_SIXTEEN_NINE/split%20marc.png" length="0" type="image/*"/>
+<atom:updated>2026-03-09T00:00:00.000Z</atom:updated>
+<atom:link href="https://www.hbvl.be/lifestyle/gezin/van-belgische-muziek-en-poezie-tot-markske-vertonghen-en-ierse-whiskey-dit-zijn-onze-uittips/126456353.html"/>
+<premium>true</premium>
+<media:content url="https://prod-img.hbvl.be/public/nieuws/ujai4q-split-marc.png/alternates/BASE_SIXTEEN_NINE/split%20marc.png" medium="image" type="image/*">
+<media:title type="html"/>
+</media:content>
+</item>
 </channel>
 </rss>
