@@ -4,80 +4,80 @@
   <channel>
     <title> 🌟 ✨ third_party_test_EXTRA ✨ 🌟 </title>
     <link>https://example.com/emoji-feed</link>
-    <description> 🚀 Test feed with heavy emoticons, future dates, and whitespace padding 🚀 </description>
+    <description> 🚀 Test feed with heavy emoticons, today's date, and whitespace padding 🚀 </description>
     <language>nl-BE</language>
-    <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 16:00:00 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 13:49:15 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:49:15 +0000</lastBuildDate>
     <ttl>60</ttl>
 
 
     <item>
-      <title> 🔥 third_party_1 Burst Update 06:11 ⚡ </title>
+      <title> 🔥 third_party_1 Burst Update ⚡ </title>
       
-      <link>https://example.com/burst-0611</link>
+      <link>https://example.com/burst-today</link>
       
       <description><![CDATA[ 🌈 Random payload V9 generated for test scenarios. 🌈 
       
-      Additional Spacing Test... 
+      Updated to today's date! 
       
       🍀 Good luck testing! 🍀 ]]></description>
       
-      <guid isPermaLink="false">tp1-burst-0611-20251217-001-emoji</guid>
-      <pubDate>Wed, 17 Dec 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tp1-burst-today-001</guid>
+      <pubDate>Mon, 13 Apr 2026 13:49:15 +0000</pubDate>
     </item>
 
 
     <item>
-      <title> 📊 third_party_1 Metric Sync 14:27 📈 </title>
+      <title> 📊 third_party_1 Metric Sync 📈 </title>
       
-      <link>https://example.com/metric-1427</link>
+      <link>https://example.com/metric-today</link>
       
       <description><![CDATA[ 📉 Random payload L4 snapshot block. 📉 
       
       [ 💎 Data Integrity: 100% 💎 ] ]]></description>
       
-      <guid isPermaLink="false">tp1-metric-1427-20251217-002-emoji</guid>
-      <pubDate>Wed, 17 Dec 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tp1-metric-today-002</guid>
+      <pubDate>Mon, 13 Apr 2026 13:49:15 +0000</pubDate>
     </item>
 
 
     <item>
-      <title> 🔄 third_party_1 Channel Refresh 20:31 🔄 </title>
+      <title> 🔄 third_party_1 Channel Refresh 🔄 </title>
       
-      <link>https://example.com/refresh-2031</link>
+      <link>https://example.com/refresh-today</link>
       
       <description><![CDATA[ 🌀 Random payload S2 status indicator. 🌀 
       
       ✨  Refreshing content... please wait... ✨ ]]></description>
       
-      <guid isPermaLink="false">tp1-refresh-2031-20251217-003-emoji</guid>
-      <pubDate>Wed, 17 Dec 2025 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tp1-refresh-today-003</guid>
+      <pubDate>Mon, 13 Apr 2026 13:49:15 +0000</pubDate>
     </item>
 
 
     <item>
-      <title> 📝 third_party_1 Log Digest 23:44 📁 </title>
+      <title> 📝 third_party_1 Log Digest 📁 </title>
       
-      <link>https://example.com/log-2344</link>
+      <link>https://example.com/log-today</link>
       
       <description><![CDATA[ 📑 Empty payload for logging purposes 📑 ]]></description>
       
-      <guid isPermaLink="false">tp1-log-2344-20251217-004-emoji</guid>
-      <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tp1-log-today-004</guid>
+      <pubDate>Mon, 13 Apr 2026 13:49:15 +0000</pubDate>
     </item>
 
 
     <item>
-      <title> 🛸 TEST third_party_1 Log Digest 23:44 👽 </title>
+      <title> 🛸 TEST third_party_1 Future Log 👽 </title>
       
-      <link>https://example.com/log-2344</link>
+      <link>https://example.com/log-future</link>
       
       <description><![CDATA[ 🌌 Future Dated Item for Timezone Testing 🌌 
       
-      🚀 Launching into 2026! 🚀 ]]></description>
+      🚀 Moving forward! 🚀 ]]></description>
       
-      <guid isPermaLink="false">tp1-log-2344-20251217-005-emoji</guid>
-      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tp1-log-future-005</guid>
+      <pubDate>Mon, 01 Jan 2029 12:00:00 +0000</pubDate>
     </item>
 
 
