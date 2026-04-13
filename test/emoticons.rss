@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+
+  <channel>
+    <title> 🌟 ✨ third_party_test_EXTRA ✨ 🌟 </title>
+    <link>https://example.com/emoji-feed</link>
+    <description> 🚀 Test feed with heavy emoticons, future dates, and whitespace padding 🚀 </description>
+    <language>nl-BE</language>
+    <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 16:00:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
+
+
+    <item>
+      <title> 🔥 third_party_1 Burst Update 06:11 ⚡ </title>
+      
+      <link>https://example.com/burst-0611</link>
+      
+      <description><![CDATA[ 🌈 Random payload V9 generated for test scenarios. 🌈 
+      
+      Additional Spacing Test... 
+      
+      🍀 Good luck testing! 🍀 ]]></description>
+      
+      <guid isPermaLink="false">tp1-burst-0611-20251217-001-emoji</guid>
+      <pubDate>Wed, 17 Dec 2025 15:00:00 +0000</pubDate>
+    </item>
+
+
+    <item>
+      <title> 📊 third_party_1 Metric Sync 14:27 📈 </title>
+      
+      <link>https://example.com/metric-1427</link>
+      
+      <description><![CDATA[ 📉 Random payload L4 snapshot block. 📉 
+      
+      [ 💎 Data Integrity: 100% 💎 ] ]]></description>
+      
+      <guid isPermaLink="false">tp1-metric-1427-20251217-002-emoji</guid>
+      <pubDate>Wed, 17 Dec 2025 14:00:00 +0000</pubDate>
+    </item>
+
+
+    <item>
+      <title> 🔄 third_party_1 Channel Refresh 20:31 🔄 </title>
+      
+      <link>https://example.com/refresh-2031</link>
+      
+      <description><![CDATA[ 🌀 Random payload S2 status indicator. 🌀 
+      
+      ✨  Refreshing content... please wait... ✨ ]]></description>
+      
+      <guid isPermaLink="false">tp1-refresh-2031-20251217-003-emoji</guid>
+      <pubDate>Wed, 17 Dec 2025 13:00:00 +0000</pubDate>
+    </item>
+
+
+    <item>
+      <title> 📝 third_party_1 Log Digest 23:44 📁 </title>
+      
+      <link>https://example.com/log-2344</link>
+      
+      <description><![CDATA[ 📑 Empty payload for logging purposes 📑 ]]></description>
+      
+      <guid isPermaLink="false">tp1-log-2344-20251217-004-emoji</guid>
+      <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+
+
+    <item>
+      <title> 🛸 TEST third_party_1 Log Digest 23:44 👽 </title>
+      
+      <link>https://example.com/log-2344</link>
+      
+      <description><![CDATA[ 🌌 Future Dated Item for Timezone Testing 🌌 
+      
+      🚀 Launching into 2026! 🚀 ]]></description>
+      
+      <guid isPermaLink="false">tp1-log-2344-20251217-005-emoji</guid>
+      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+
+
+  </channel>
+</rss>
