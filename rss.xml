@@ -5,21 +5,5 @@
     <link>https://www.sportingenk.be/nieuws/rss</link>
     <description>Testing push notification logic</description>
 
-    <item>
-        <title>TEST: Past Item - Push Expected</title>
-        <link>https://www.sportingenk.be/test-past</link>
-        <description><![CDATA[ This item is in the past. CMS should send a push and set to not_published. ]]></description>
-        <guid isPermaLink="false">test-id-past-001</guid>
-        <pubDate>Fri, 15 May 2026 10:00:00 +0200</pubDate>
-    </item>
-
-    <item>
-        <title>TEST: Future Item - Schedule Only</title>
-        <link>https://www.sportingenk.be/test-future</link>
-        <description><![CDATA[ This item is in the future. CMS should schedule but not send. Will be deleted. ]]></description>
-        <guid isPermaLink="false">test-id-future-001</guid>
-        <pubDate>Sat, 16 May 2026 12:00:00 +0200</pubDate>
-    </item>
-
 </channel>
 </rss>
